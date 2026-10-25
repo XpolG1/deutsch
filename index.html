@@ -417,8 +417,10 @@ function showQuestion() {
   $('sheet').hidden = true;
   session.answered = false;
 
+  // German -> English: the German word plays by itself. English -> German: no sound until answered.
+  $('speak').hidden = toGerman;
   clearTimeout(session.timer);
-  session.timer = setTimeout(() => speakGerman(w.german), 1000);
+  if (!toGerman) session.timer = setTimeout(() => speakGerman(w.german), 1000);
 }
 
 // pass = true when the user taps "I don't know": counts as wrong.
@@ -440,6 +442,7 @@ function submitAnswer(pass = false) {
 
   clearTimeout(session.timer);
   session.answered = true;
+  $('speak').hidden = false;
   input.disabled = true;
   $('check').disabled = true;
   $('pass').disabled = true;

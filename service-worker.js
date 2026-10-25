@@ -1,4 +1,4 @@
-const CACHE = 'deutsch-v6';
+const CACHE = 'deutsch-v7';
 const FILES = ['./', './index.html', './data.json', './manifest.json', './icon-180.png', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', event => {
