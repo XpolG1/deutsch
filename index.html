@@ -422,6 +422,7 @@ function showQuestion() {
   session.answered = false;
   // Open the keyboard for the next answer (called from a tap, so iPhone allows it).
   input.focus();
+  window.scrollTo(0, 0);
 
   // German -> English: the German word plays by itself. English -> German: no sound until answered.
   $('speak').hidden = toGerman;
@@ -662,6 +663,13 @@ function bindEvents() {
   ['flash', 'recall', 'struggle'].forEach(tab => {
     $('start-' + tab).addEventListener('click', () => startSession(tab));
   });
+
+  // iPhone can shift the whole screen up when the keyboard opens; put it back while a session is open.
+  if (window.visualViewport) {
+    const keepTop = () => { if (session && visualViewport.offsetTop > 0) window.scrollTo(0, 0); };
+    visualViewport.addEventListener('scroll', keepTop);
+    visualViewport.addEventListener('resize', keepTop);
+  }
 
   $('reset-btn').addEventListener('click', openReset);
   $('modalCancel').addEventListener('click', closeReset);
