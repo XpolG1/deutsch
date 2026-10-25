@@ -62,8 +62,8 @@ h1{font-size:30px;font-weight:900;letter-spacing:-.5px;margin-bottom:6px}
 .bar{flex:1;height:14px;border-radius:999px;background:var(--surface2);overflow:hidden}
 .fill{height:100%;width:0;background:linear-gradient(90deg,var(--blue),var(--sky));border-radius:999px;transition:width .3s}
 .count{font-size:13px;font-weight:800;color:var(--muted);min-width:52px;text-align:right}
-.qview{flex:1;display:flex;flex-direction:column;min-height:0}
-.s-body{flex:1;display:flex;flex-direction:column;justify-content:center;gap:14px;padding-bottom:20px}
+.qview{flex:1;display:flex;flex-direction:column;min-height:0;overflow:auto}
+.s-body{flex:0 0 auto;display:flex;flex-direction:column;justify-content:flex-start;gap:14px;padding-top:16px}
 .kicker{font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.8px;color:var(--sky);text-align:center}
 .prompt{font-size:clamp(30px,8vw,40px);font-weight:900;text-align:center;line-height:1.15;word-break:break-word;padding:8px 6px}
 .speak{align-self:center;border:1.5px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;padding:9px 16px;font-weight:800;font-size:14px;cursor:pointer}
@@ -71,7 +71,7 @@ h1{font-size:30px;font-weight:900;letter-spacing:-.5px;margin-bottom:6px}
 .answer{width:100%;font-size:20px;font-weight:700;padding:16px 18px;border-radius:18px;border:2px solid var(--line);background:var(--surface);color:var(--text);outline:none}
 .answer:focus{border-color:var(--blue);box-shadow:0 0 0 4px rgba(47,123,255,.2)}
 .answer:disabled{opacity:.7}
-.s-foot{padding-top:10px;display:flex;gap:10px}
+.s-foot{margin-top:22px;display:flex;gap:10px}
 .s-foot .btn-primary{margin-top:0;flex:1.4}
 .btn-pass{flex:1;margin-top:0;border:1.5px solid var(--line);border-radius:18px;background:var(--surface);color:var(--muted);font-weight:900;font-size:15px;padding:17px 8px;cursor:pointer;box-shadow:0 6px 0 #0c1426}
 .btn-pass:active{transform:translateY(4px);box-shadow:0 2px 0 #0c1426}
@@ -416,6 +416,8 @@ function showQuestion() {
   $('pass').disabled = false;
   $('sheet').hidden = true;
   session.answered = false;
+  // Open the keyboard for the next answer (called from a tap, so iPhone allows it).
+  input.focus();
 
   // German -> English: the German word plays by itself. English -> German: no sound until answered.
   $('speak').hidden = toGerman;
@@ -656,6 +658,17 @@ function bindEvents() {
   ['flash', 'recall', 'struggle'].forEach(tab => {
     $('start-' + tab).addEventListener('click', () => startSession(tab));
   });
+
+  if (window.visualViewport) {
+    const fitToKeyboard = () => {
+      const vv = window.visualViewport;
+      const s = $('session');
+      s.style.top = vv.offsetTop + 'px';
+      s.style.height = vv.height + 'px';
+    };
+    visualViewport.addEventListener('resize', fitToKeyboard);
+    visualViewport.addEventListener('scroll', fitToKeyboard);
+  }
 
   $('reset-btn').addEventListener('click', openReset);
   $('modalCancel').addEventListener('click', closeReset);
