@@ -1,0 +1,8004 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "category": "Verbs",
+      "german": "sein",
+      "english": "to be",
+      "difficulty": 1,
+      "pronunciation": "sein"
+    },
+    {
+      "id": 2,
+      "category": "Verbs",
+      "german": "haben",
+      "english": "to have",
+      "difficulty": 1,
+      "pronunciation": "haben"
+    },
+    {
+      "id": 3,
+      "category": "Verbs",
+      "german": "werden",
+      "english": "to become",
+      "difficulty": 1,
+      "pronunciation": "werden"
+    },
+    {
+      "id": 4,
+      "category": "Verbs",
+      "german": "können",
+      "english": "to be able to",
+      "difficulty": 1,
+      "pronunciation": "können"
+    },
+    {
+      "id": 5,
+      "category": "Verbs",
+      "german": "müssen",
+      "english": "to have to",
+      "difficulty": 1,
+      "pronunciation": "müssen"
+    },
+    {
+      "id": 6,
+      "category": "Verbs",
+      "german": "wollen",
+      "english": "to want",
+      "difficulty": 1,
+      "pronunciation": "wollen"
+    },
+    {
+      "id": 7,
+      "category": "Verbs",
+      "german": "sollen",
+      "english": "to be supposed to",
+      "difficulty": 2,
+      "pronunciation": "sollen"
+    },
+    {
+      "id": 8,
+      "category": "Verbs",
+      "german": "dürfen",
+      "english": "to be allowed to",
+      "difficulty": 2,
+      "pronunciation": "dürfen"
+    },
+    {
+      "id": 9,
+      "category": "Verbs",
+      "german": "mögen",
+      "english": "to like",
+      "difficulty": 2,
+      "pronunciation": "mögen"
+    },
+    {
+      "id": 10,
+      "category": "Verbs",
+      "german": "machen",
+      "english": "to make, to do",
+      "difficulty": 1,
+      "pronunciation": "machen"
+    },
+    {
+      "id": 11,
+      "category": "Verbs",
+      "german": "gehen",
+      "english": "to go",
+      "difficulty": 1,
+      "pronunciation": "gehen"
+    },
+    {
+      "id": 12,
+      "category": "Verbs",
+      "german": "kommen",
+      "english": "to come",
+      "difficulty": 1,
+      "pronunciation": "kommen"
+    },
+    {
+      "id": 13,
+      "category": "Verbs",
+      "german": "fahren",
+      "english": "to drive, to travel",
+      "difficulty": 1,
+      "pronunciation": "fahren"
+    },
+    {
+      "id": 14,
+      "category": "Verbs",
+      "german": "sehen",
+      "english": "to see",
+      "difficulty": 1,
+      "pronunciation": "sehen"
+    },
+    {
+      "id": 15,
+      "category": "Verbs",
+      "german": "sprechen",
+      "english": "to speak",
+      "difficulty": 1,
+      "pronunciation": "sprechen"
+    },
+    {
+      "id": 16,
+      "category": "Verbs",
+      "german": "hören",
+      "english": "to hear",
+      "difficulty": 1,
+      "pronunciation": "hören"
+    },
+    {
+      "id": 17,
+      "category": "Verbs",
+      "german": "lesen",
+      "english": "to read",
+      "difficulty": 1,
+      "pronunciation": "lesen"
+    },
+    {
+      "id": 18,
+      "category": "Verbs",
+      "german": "schreiben",
+      "english": "to write",
+      "difficulty": 1,
+      "pronunciation": "schreiben"
+    },
+    {
+      "id": 19,
+      "category": "Verbs",
+      "german": "verstehen",
+      "english": "to understand",
+      "difficulty": 1,
+      "pronunciation": "verstehen"
+    },
+    {
+      "id": 20,
+      "category": "Verbs",
+      "german": "wissen",
+      "english": "to know (a fact)",
+      "difficulty": 1,
+      "pronunciation": "wissen"
+    },
+    {
+      "id": 21,
+      "category": "Verbs",
+      "german": "kennen",
+      "english": "to know (a person, a place)",
+      "difficulty": 2,
+      "pronunciation": "kennen"
+    },
+    {
+      "id": 22,
+      "category": "Verbs",
+      "german": "denken",
+      "english": "to think",
+      "difficulty": 1,
+      "pronunciation": "denken"
+    },
+    {
+      "id": 23,
+      "category": "Verbs",
+      "german": "glauben",
+      "english": "to believe",
+      "difficulty": 2,
+      "pronunciation": "glauben"
+    },
+    {
+      "id": 24,
+      "category": "Verbs",
+      "german": "sagen",
+      "english": "to say",
+      "difficulty": 1,
+      "pronunciation": "sagen"
+    },
+    {
+      "id": 25,
+      "category": "Verbs",
+      "german": "fragen",
+      "english": "to ask",
+      "difficulty": 1,
+      "pronunciation": "fragen"
+    },
+    {
+      "id": 26,
+      "category": "Verbs",
+      "german": "antworten",
+      "english": "to answer",
+      "difficulty": 2,
+      "pronunciation": "antworten"
+    },
+    {
+      "id": 27,
+      "category": "Verbs",
+      "german": "geben",
+      "english": "to give",
+      "difficulty": 1,
+      "pronunciation": "geben"
+    },
+    {
+      "id": 28,
+      "category": "Verbs",
+      "german": "nehmen",
+      "english": "to take",
+      "difficulty": 1,
+      "pronunciation": "nehmen"
+    },
+    {
+      "id": 29,
+      "category": "Verbs",
+      "german": "bringen",
+      "english": "to bring",
+      "difficulty": 1,
+      "pronunciation": "bringen"
+    },
+    {
+      "id": 30,
+      "category": "Verbs",
+      "german": "holen",
+      "english": "to fetch",
+      "difficulty": 2,
+      "pronunciation": "holen"
+    },
+    {
+      "id": 31,
+      "category": "Verbs",
+      "german": "kaufen",
+      "english": "to buy",
+      "difficulty": 1,
+      "pronunciation": "kaufen"
+    },
+    {
+      "id": 32,
+      "category": "Verbs",
+      "german": "bezahlen",
+      "english": "to pay",
+      "difficulty": 1,
+      "pronunciation": "bezahlen"
+    },
+    {
+      "id": 33,
+      "category": "Verbs",
+      "german": "kosten",
+      "english": "to cost",
+      "difficulty": 2,
+      "pronunciation": "kosten"
+    },
+    {
+      "id": 34,
+      "category": "Verbs",
+      "german": "brauchen",
+      "english": "to need",
+      "difficulty": 1,
+      "pronunciation": "brauchen"
+    },
+    {
+      "id": 35,
+      "category": "Verbs",
+      "german": "finden",
+      "english": "to find",
+      "difficulty": 1,
+      "pronunciation": "finden"
+    },
+    {
+      "id": 36,
+      "category": "Verbs",
+      "german": "suchen",
+      "english": "to look for",
+      "difficulty": 1,
+      "pronunciation": "suchen"
+    },
+    {
+      "id": 37,
+      "category": "Verbs",
+      "german": "warten",
+      "english": "to wait",
+      "difficulty": 1,
+      "pronunciation": "warten"
+    },
+    {
+      "id": 38,
+      "category": "Verbs",
+      "german": "arbeiten",
+      "english": "to work",
+      "difficulty": 1,
+      "pronunciation": "arbeiten"
+    },
+    {
+      "id": 39,
+      "category": "Verbs",
+      "german": "lernen",
+      "english": "to learn",
+      "difficulty": 1,
+      "pronunciation": "lernen"
+    },
+    {
+      "id": 40,
+      "category": "Verbs",
+      "german": "spielen",
+      "english": "to play",
+      "difficulty": 1,
+      "pronunciation": "spielen"
+    },
+    {
+      "id": 41,
+      "category": "Verbs",
+      "german": "essen",
+      "english": "to eat",
+      "difficulty": 1,
+      "pronunciation": "essen"
+    },
+    {
+      "id": 42,
+      "category": "Verbs",
+      "german": "trinken",
+      "english": "to drink",
+      "difficulty": 1,
+      "pronunciation": "trinken"
+    },
+    {
+      "id": 43,
+      "category": "Verbs",
+      "german": "kochen",
+      "english": "to cook",
+      "difficulty": 1,
+      "pronunciation": "kochen"
+    },
+    {
+      "id": 44,
+      "category": "Verbs",
+      "german": "backen",
+      "english": "to bake",
+      "difficulty": 2,
+      "pronunciation": "backen"
+    },
+    {
+      "id": 45,
+      "category": "Verbs",
+      "german": "schlafen",
+      "english": "to sleep",
+      "difficulty": 1,
+      "pronunciation": "schlafen"
+    },
+    {
+      "id": 46,
+      "category": "Verbs",
+      "german": "aufstehen",
+      "english": "to get up",
+      "difficulty": 2,
+      "pronunciation": "aufstehen"
+    },
+    {
+      "id": 47,
+      "category": "Verbs",
+      "german": "aufwachen",
+      "english": "to wake up",
+      "difficulty": 2,
+      "pronunciation": "aufwachen"
+    },
+    {
+      "id": 48,
+      "category": "Verbs",
+      "german": "duschen",
+      "english": "to shower",
+      "difficulty": 2,
+      "pronunciation": "duschen"
+    },
+    {
+      "id": 49,
+      "category": "Verbs",
+      "german": "waschen",
+      "english": "to wash",
+      "difficulty": 2,
+      "pronunciation": "waschen"
+    },
+    {
+      "id": 50,
+      "category": "Verbs",
+      "german": "anziehen",
+      "english": "to put on (clothes)",
+      "difficulty": 2,
+      "pronunciation": "anziehen"
+    },
+    {
+      "id": 51,
+      "category": "Verbs",
+      "german": "ausziehen",
+      "english": "to take off (clothes)",
+      "difficulty": 2,
+      "pronunciation": "ausziehen"
+    },
+    {
+      "id": 52,
+      "category": "Verbs",
+      "german": "tragen",
+      "english": "to carry, to wear",
+      "difficulty": 2,
+      "pronunciation": "tragen"
+    },
+    {
+      "id": 53,
+      "category": "Verbs",
+      "german": "stellen",
+      "english": "to put (upright)",
+      "difficulty": 2,
+      "pronunciation": "stellen"
+    },
+    {
+      "id": 54,
+      "category": "Verbs",
+      "german": "legen",
+      "english": "to lay, to put down",
+      "difficulty": 2,
+      "pronunciation": "legen"
+    },
+    {
+      "id": 55,
+      "category": "Verbs",
+      "german": "sitzen",
+      "english": "to sit",
+      "difficulty": 1,
+      "pronunciation": "sitzen"
+    },
+    {
+      "id": 56,
+      "category": "Verbs",
+      "german": "stehen",
+      "english": "to stand",
+      "difficulty": 1,
+      "pronunciation": "stehen"
+    },
+    {
+      "id": 57,
+      "category": "Verbs",
+      "german": "liegen",
+      "english": "to lie",
+      "difficulty": 2,
+      "pronunciation": "liegen"
+    },
+    {
+      "id": 58,
+      "category": "Verbs",
+      "german": "laufen",
+      "english": "to run, to walk",
+      "difficulty": 2,
+      "pronunciation": "laufen"
+    },
+    {
+      "id": 59,
+      "category": "Verbs",
+      "german": "fliegen",
+      "english": "to fly",
+      "difficulty": 2,
+      "pronunciation": "fliegen"
+    },
+    {
+      "id": 60,
+      "category": "Verbs",
+      "german": "schwimmen",
+      "english": "to swim",
+      "difficulty": 2,
+      "pronunciation": "schwimmen"
+    },
+    {
+      "id": 61,
+      "category": "Verbs",
+      "german": "radfahren",
+      "english": "to cycle",
+      "difficulty": 2,
+      "pronunciation": "radfahren"
+    },
+    {
+      "id": 62,
+      "category": "Verbs",
+      "german": "wohnen",
+      "english": "to live (somewhere)",
+      "difficulty": 1,
+      "pronunciation": "wohnen"
+    },
+    {
+      "id": 63,
+      "category": "Verbs",
+      "german": "leben",
+      "english": "to live",
+      "difficulty": 2,
+      "pronunciation": "leben"
+    },
+    {
+      "id": 64,
+      "category": "Verbs",
+      "german": "bleiben",
+      "english": "to stay",
+      "difficulty": 2,
+      "pronunciation": "bleiben"
+    },
+    {
+      "id": 65,
+      "category": "Verbs",
+      "german": "beginnen",
+      "english": "to begin",
+      "difficulty": 2,
+      "pronunciation": "beginnen"
+    },
+    {
+      "id": 66,
+      "category": "Verbs",
+      "german": "anfangen",
+      "english": "to start",
+      "difficulty": 1,
+      "pronunciation": "anfangen"
+    },
+    {
+      "id": 67,
+      "category": "Verbs",
+      "german": "aufhören",
+      "english": "to stop",
+      "difficulty": 2,
+      "pronunciation": "aufhören"
+    },
+    {
+      "id": 68,
+      "category": "Verbs",
+      "german": "öffnen",
+      "english": "to open",
+      "difficulty": 2,
+      "pronunciation": "öffnen"
+    },
+    {
+      "id": 69,
+      "category": "Verbs",
+      "german": "schließen",
+      "english": "to close",
+      "difficulty": 2,
+      "pronunciation": "schließen"
+    },
+    {
+      "id": 70,
+      "category": "Verbs",
+      "german": "helfen",
+      "english": "to help",
+      "difficulty": 1,
+      "pronunciation": "helfen"
+    },
+    {
+      "id": 71,
+      "category": "Verbs",
+      "german": "bitten",
+      "english": "to ask for, to request",
+      "difficulty": 2,
+      "pronunciation": "bitten"
+    },
+    {
+      "id": 72,
+      "category": "Verbs",
+      "german": "danken",
+      "english": "to thank",
+      "difficulty": 2,
+      "pronunciation": "danken"
+    },
+    {
+      "id": 73,
+      "category": "Verbs",
+      "german": "erklären",
+      "english": "to explain",
+      "difficulty": 2,
+      "pronunciation": "erklären"
+    },
+    {
+      "id": 74,
+      "category": "Verbs",
+      "german": "zeigen",
+      "english": "to show",
+      "difficulty": 1,
+      "pronunciation": "zeigen"
+    },
+    {
+      "id": 75,
+      "category": "Verbs",
+      "german": "bekommen",
+      "english": "to get, to receive",
+      "difficulty": 1,
+      "pronunciation": "bekommen"
+    },
+    {
+      "id": 76,
+      "category": "Verbs",
+      "german": "verlieren",
+      "english": "to lose",
+      "difficulty": 2,
+      "pronunciation": "verlieren"
+    },
+    {
+      "id": 77,
+      "category": "Verbs",
+      "german": "treffen",
+      "english": "to meet",
+      "difficulty": 2,
+      "pronunciation": "treffen"
+    },
+    {
+      "id": 78,
+      "category": "Verbs",
+      "german": "besuchen",
+      "english": "to visit",
+      "difficulty": 2,
+      "pronunciation": "besuchen"
+    },
+    {
+      "id": 79,
+      "category": "Verbs",
+      "german": "reisen",
+      "english": "to travel",
+      "difficulty": 2,
+      "pronunciation": "reisen"
+    },
+    {
+      "id": 80,
+      "category": "Verbs",
+      "german": "ankommen",
+      "english": "to arrive",
+      "difficulty": 2,
+      "pronunciation": "ankommen"
+    },
+    {
+      "id": 81,
+      "category": "Verbs",
+      "german": "abfahren",
+      "english": "to depart",
+      "difficulty": 2,
+      "pronunciation": "abfahren"
+    },
+    {
+      "id": 82,
+      "category": "Verbs",
+      "german": "einsteigen",
+      "english": "to get on, to board",
+      "difficulty": 2,
+      "pronunciation": "einsteigen"
+    },
+    {
+      "id": 83,
+      "category": "Verbs",
+      "german": "aussteigen",
+      "english": "to get off",
+      "difficulty": 2,
+      "pronunciation": "aussteigen"
+    },
+    {
+      "id": 84,
+      "category": "Verbs",
+      "german": "umsteigen",
+      "english": "to change (trains, buses)",
+      "difficulty": 3,
+      "pronunciation": "umsteigen"
+    },
+    {
+      "id": 85,
+      "category": "Verbs",
+      "german": "parken",
+      "english": "to park",
+      "difficulty": 2,
+      "pronunciation": "parken"
+    },
+    {
+      "id": 86,
+      "category": "Verbs",
+      "german": "tanken",
+      "english": "to refuel",
+      "difficulty": 2,
+      "pronunciation": "tanken"
+    },
+    {
+      "id": 87,
+      "category": "Verbs",
+      "german": "bauen",
+      "english": "to build",
+      "difficulty": 2,
+      "pronunciation": "bauen"
+    },
+    {
+      "id": 88,
+      "category": "Verbs",
+      "german": "putzen",
+      "english": "to clean",
+      "difficulty": 2,
+      "pronunciation": "putzen"
+    },
+    {
+      "id": 89,
+      "category": "Verbs",
+      "german": "aufräumen",
+      "english": "to tidy up",
+      "difficulty": 3,
+      "pronunciation": "aufräumen"
+    },
+    {
+      "id": 90,
+      "category": "Verbs",
+      "german": "regnen",
+      "english": "to rain",
+      "difficulty": 2,
+      "pronunciation": "regnen"
+    },
+    {
+      "id": 91,
+      "category": "Verbs",
+      "german": "schneien",
+      "english": "to snow",
+      "difficulty": 2,
+      "pronunciation": "schneien"
+    },
+    {
+      "id": 92,
+      "category": "Verbs",
+      "german": "passen",
+      "english": "to fit, to suit",
+      "difficulty": 2,
+      "pronunciation": "passen"
+    },
+    {
+      "id": 93,
+      "category": "Verbs",
+      "german": "hoffen",
+      "english": "to hope",
+      "difficulty": 2,
+      "pronunciation": "hoffen"
+    },
+    {
+      "id": 94,
+      "category": "Verbs",
+      "german": "lieben",
+      "english": "to love",
+      "difficulty": 2,
+      "pronunciation": "lieben"
+    },
+    {
+      "id": 95,
+      "category": "Verbs",
+      "german": "weinen",
+      "english": "to cry",
+      "difficulty": 2,
+      "pronunciation": "weinen"
+    },
+    {
+      "id": 96,
+      "category": "Verbs",
+      "german": "lachen",
+      "english": "to laugh",
+      "difficulty": 2,
+      "pronunciation": "lachen"
+    },
+    {
+      "id": 97,
+      "category": "Verbs",
+      "german": "lächeln",
+      "english": "to smile",
+      "difficulty": 2,
+      "pronunciation": "lächeln"
+    },
+    {
+      "id": 98,
+      "category": "Verbs",
+      "german": "vergessen",
+      "english": "to forget",
+      "difficulty": 2,
+      "pronunciation": "vergessen"
+    },
+    {
+      "id": 99,
+      "category": "Verbs",
+      "german": "planen",
+      "english": "to plan",
+      "difficulty": 2,
+      "pronunciation": "planen"
+    },
+    {
+      "id": 100,
+      "category": "Verbs",
+      "german": "ausgeben",
+      "english": "to spend",
+      "difficulty": 2,
+      "pronunciation": "ausgeben"
+    },
+    {
+      "id": 101,
+      "category": "Verbs",
+      "german": "sparen",
+      "english": "to save",
+      "difficulty": 2,
+      "pronunciation": "sparen"
+    },
+    {
+      "id": 102,
+      "category": "Verbs",
+      "german": "verdienen",
+      "english": "to earn",
+      "difficulty": 2,
+      "pronunciation": "verdienen"
+    },
+    {
+      "id": 103,
+      "category": "Verbs",
+      "german": "mitnehmen",
+      "english": "to take along",
+      "difficulty": 2,
+      "pronunciation": "mitnehmen"
+    },
+    {
+      "id": 104,
+      "category": "Verbs",
+      "german": "anrufen",
+      "english": "to call (on the phone)",
+      "difficulty": 2,
+      "pronunciation": "anrufen"
+    },
+    {
+      "id": 105,
+      "category": "Verbs",
+      "german": "schicken",
+      "english": "to send",
+      "difficulty": 2,
+      "pronunciation": "schicken"
+    },
+    {
+      "id": 106,
+      "category": "Verbs",
+      "german": "zurückkommen",
+      "english": "to come back",
+      "difficulty": 2,
+      "pronunciation": "zurückkommen"
+    },
+    {
+      "id": 107,
+      "category": "Verbs",
+      "german": "verlassen",
+      "english": "to leave",
+      "difficulty": 3,
+      "pronunciation": "verlassen"
+    },
+    {
+      "id": 108,
+      "category": "Verbs",
+      "german": "abholen",
+      "english": "to pick up",
+      "difficulty": 2,
+      "pronunciation": "abholen"
+    },
+    {
+      "id": 109,
+      "category": "Verbs",
+      "german": "einschalten",
+      "english": "to switch on",
+      "difficulty": 2,
+      "pronunciation": "einschalten"
+    },
+    {
+      "id": 110,
+      "category": "Verbs",
+      "german": "ausschalten",
+      "english": "to switch off",
+      "difficulty": 2,
+      "pronunciation": "ausschalten"
+    },
+    {
+      "id": 111,
+      "category": "Verbs",
+      "german": "benutzen",
+      "english": "to use",
+      "difficulty": 2,
+      "pronunciation": "benutzen"
+    },
+    {
+      "id": 112,
+      "category": "Verbs",
+      "german": "probieren",
+      "english": "to try, to taste",
+      "difficulty": 2,
+      "pronunciation": "probieren"
+    },
+    {
+      "id": 113,
+      "category": "Verbs",
+      "german": "versuchen",
+      "english": "to try",
+      "difficulty": 2,
+      "pronunciation": "versuchen"
+    },
+    {
+      "id": 114,
+      "category": "Verbs",
+      "german": "schmecken",
+      "english": "to taste",
+      "difficulty": 2,
+      "pronunciation": "schmecken"
+    },
+    {
+      "id": 115,
+      "category": "Verbs",
+      "german": "fühlen",
+      "english": "to feel",
+      "difficulty": 2,
+      "pronunciation": "fühlen"
+    },
+    {
+      "id": 116,
+      "category": "Verbs",
+      "german": "heiraten",
+      "english": "to marry",
+      "difficulty": 2,
+      "pronunciation": "heiraten"
+    },
+    {
+      "id": 117,
+      "category": "Verbs",
+      "german": "dauern",
+      "english": "to last, to take (time)",
+      "difficulty": 2,
+      "pronunciation": "dauern"
+    },
+    {
+      "id": 118,
+      "category": "Verbs",
+      "german": "trainieren",
+      "english": "to train",
+      "difficulty": 2,
+      "pronunciation": "trainieren"
+    },
+    {
+      "id": 119,
+      "category": "Verbs",
+      "german": "tanzen",
+      "english": "to dance",
+      "difficulty": 2,
+      "pronunciation": "tanzen"
+    },
+    {
+      "id": 120,
+      "category": "Verbs",
+      "german": "singen",
+      "english": "to sing",
+      "difficulty": 2,
+      "pronunciation": "singen"
+    },
+    {
+      "id": 121,
+      "category": "Verbs",
+      "german": "stimmen",
+      "english": "to be right, to be correct",
+      "difficulty": 2,
+      "pronunciation": "stimmen"
+    },
+    {
+      "id": 122,
+      "category": "Verbs",
+      "german": "weggehen",
+      "english": "to leave, to go away",
+      "difficulty": 2,
+      "pronunciation": "weggehen"
+    },
+    {
+      "id": 123,
+      "category": "Verbs",
+      "german": "mitkommen",
+      "english": "to come along",
+      "difficulty": 2,
+      "pronunciation": "mitkommen"
+    },
+    {
+      "id": 124,
+      "category": "Verbs",
+      "german": "einkaufen",
+      "english": "to go shopping",
+      "difficulty": 1,
+      "pronunciation": "einkaufen"
+    },
+    {
+      "id": 125,
+      "category": "Basics",
+      "german": "ich",
+      "english": "I",
+      "difficulty": 1,
+      "pronunciation": "ich"
+    },
+    {
+      "id": 126,
+      "category": "Basics",
+      "german": "du",
+      "english": "you (informal)",
+      "difficulty": 1,
+      "pronunciation": "du"
+    },
+    {
+      "id": 127,
+      "category": "Basics",
+      "german": "er",
+      "english": "he",
+      "difficulty": 1,
+      "pronunciation": "er"
+    },
+    {
+      "id": 128,
+      "category": "Basics",
+      "german": "sie",
+      "english": "she, they",
+      "difficulty": 1,
+      "pronunciation": "sie"
+    },
+    {
+      "id": 129,
+      "category": "Basics",
+      "german": "es",
+      "english": "it",
+      "difficulty": 1,
+      "pronunciation": "es"
+    },
+    {
+      "id": 130,
+      "category": "Basics",
+      "german": "wir",
+      "english": "we",
+      "difficulty": 1,
+      "pronunciation": "wir"
+    },
+    {
+      "id": 131,
+      "category": "Basics",
+      "german": "ihr",
+      "english": "you (plural)",
+      "difficulty": 2,
+      "pronunciation": "ihr"
+    },
+    {
+      "id": 132,
+      "category": "Basics",
+      "german": "Sie",
+      "english": "you (formal)",
+      "difficulty": 1,
+      "pronunciation": "Sie"
+    },
+    {
+      "id": 133,
+      "category": "Basics",
+      "german": "mich",
+      "english": "me",
+      "difficulty": 2,
+      "pronunciation": "mich"
+    },
+    {
+      "id": 134,
+      "category": "Basics",
+      "german": "dich",
+      "english": "you",
+      "difficulty": 2,
+      "pronunciation": "dich"
+    },
+    {
+      "id": 135,
+      "category": "Basics",
+      "german": "mir",
+      "english": "to me, for me",
+      "difficulty": 2,
+      "pronunciation": "mir"
+    },
+    {
+      "id": 136,
+      "category": "Basics",
+      "german": "dir",
+      "english": "to you, for you",
+      "difficulty": 2,
+      "pronunciation": "dir"
+    },
+    {
+      "id": 137,
+      "category": "Basics",
+      "german": "uns",
+      "english": "us",
+      "difficulty": 2,
+      "pronunciation": "uns"
+    },
+    {
+      "id": 138,
+      "category": "Basics",
+      "german": "ihnen",
+      "english": "to them, for them",
+      "difficulty": 2,
+      "pronunciation": "ihnen"
+    },
+    {
+      "id": 139,
+      "category": "Basics",
+      "german": "ja",
+      "english": "yes",
+      "difficulty": 1,
+      "pronunciation": "ja"
+    },
+    {
+      "id": 140,
+      "category": "Basics",
+      "german": "nein",
+      "english": "no",
+      "difficulty": 1,
+      "pronunciation": "nein"
+    },
+    {
+      "id": 141,
+      "category": "Basics",
+      "german": "bitte",
+      "english": "please",
+      "difficulty": 1,
+      "pronunciation": "bitte"
+    },
+    {
+      "id": 142,
+      "category": "Basics",
+      "german": "danke",
+      "english": "thank you",
+      "difficulty": 1,
+      "pronunciation": "danke"
+    },
+    {
+      "id": 143,
+      "category": "Basics",
+      "german": "hallo",
+      "english": "hello",
+      "difficulty": 1,
+      "pronunciation": "hallo"
+    },
+    {
+      "id": 144,
+      "category": "Basics",
+      "german": "servus",
+      "english": "hi, bye (Austria)",
+      "difficulty": 1,
+      "pronunciation": "servus"
+    },
+    {
+      "id": 145,
+      "category": "Basics",
+      "german": "tschüss",
+      "english": "bye",
+      "difficulty": 1,
+      "pronunciation": "tschüss"
+    },
+    {
+      "id": 146,
+      "category": "Basics",
+      "german": "und",
+      "english": "and",
+      "difficulty": 1,
+      "pronunciation": "und"
+    },
+    {
+      "id": 147,
+      "category": "Basics",
+      "german": "oder",
+      "english": "or",
+      "difficulty": 1,
+      "pronunciation": "oder"
+    },
+    {
+      "id": 148,
+      "category": "Basics",
+      "german": "aber",
+      "english": "but",
+      "difficulty": 1,
+      "pronunciation": "aber"
+    },
+    {
+      "id": 149,
+      "category": "Basics",
+      "german": "denn",
+      "english": "because",
+      "difficulty": 2,
+      "pronunciation": "denn"
+    },
+    {
+      "id": 150,
+      "category": "Basics",
+      "german": "weil",
+      "english": "because",
+      "difficulty": 1,
+      "pronunciation": "weil"
+    },
+    {
+      "id": 151,
+      "category": "Basics",
+      "german": "dass",
+      "english": "that",
+      "difficulty": 2,
+      "pronunciation": "dass"
+    },
+    {
+      "id": 152,
+      "category": "Basics",
+      "german": "wenn",
+      "english": "if, when",
+      "difficulty": 1,
+      "pronunciation": "wenn"
+    },
+    {
+      "id": 153,
+      "category": "Basics",
+      "german": "als",
+      "english": "when, than",
+      "difficulty": 2,
+      "pronunciation": "als"
+    },
+    {
+      "id": 154,
+      "category": "Basics",
+      "german": "auch",
+      "english": "also",
+      "difficulty": 1,
+      "pronunciation": "auch"
+    },
+    {
+      "id": 155,
+      "category": "Basics",
+      "german": "noch",
+      "english": "still, yet",
+      "difficulty": 1,
+      "pronunciation": "noch"
+    },
+    {
+      "id": 156,
+      "category": "Basics",
+      "german": "nur",
+      "english": "only",
+      "difficulty": 1,
+      "pronunciation": "nur"
+    },
+    {
+      "id": 157,
+      "category": "Basics",
+      "german": "schon",
+      "english": "already",
+      "difficulty": 1,
+      "pronunciation": "schon"
+    },
+    {
+      "id": 158,
+      "category": "Basics",
+      "german": "sehr",
+      "english": "very",
+      "difficulty": 1,
+      "pronunciation": "sehr"
+    },
+    {
+      "id": 159,
+      "category": "Basics",
+      "german": "nicht",
+      "english": "not",
+      "difficulty": 1,
+      "pronunciation": "nicht"
+    },
+    {
+      "id": 160,
+      "category": "Basics",
+      "german": "kein",
+      "english": "no, not a",
+      "difficulty": 1,
+      "pronunciation": "kein"
+    },
+    {
+      "id": 161,
+      "category": "Basics",
+      "german": "nichts",
+      "english": "nothing",
+      "difficulty": 1,
+      "pronunciation": "nichts"
+    },
+    {
+      "id": 162,
+      "category": "Basics",
+      "german": "alles",
+      "english": "everything",
+      "difficulty": 1,
+      "pronunciation": "alles"
+    },
+    {
+      "id": 163,
+      "category": "Basics",
+      "german": "etwas",
+      "english": "something",
+      "difficulty": 1,
+      "pronunciation": "etwas"
+    },
+    {
+      "id": 164,
+      "category": "Basics",
+      "german": "viel",
+      "english": "a lot, much",
+      "difficulty": 1,
+      "pronunciation": "viel"
+    },
+    {
+      "id": 165,
+      "category": "Basics",
+      "german": "wenig",
+      "english": "little",
+      "difficulty": 2,
+      "pronunciation": "wenig"
+    },
+    {
+      "id": 166,
+      "category": "Basics",
+      "german": "mehr",
+      "english": "more",
+      "difficulty": 1,
+      "pronunciation": "mehr"
+    },
+    {
+      "id": 167,
+      "category": "Basics",
+      "german": "immer",
+      "english": "always",
+      "difficulty": 1,
+      "pronunciation": "immer"
+    },
+    {
+      "id": 168,
+      "category": "Basics",
+      "german": "nie",
+      "english": "never",
+      "difficulty": 1,
+      "pronunciation": "nie"
+    },
+    {
+      "id": 169,
+      "category": "Basics",
+      "german": "oft",
+      "english": "often",
+      "difficulty": 1,
+      "pronunciation": "oft"
+    },
+    {
+      "id": 170,
+      "category": "Basics",
+      "german": "manchmal",
+      "english": "sometimes",
+      "difficulty": 1,
+      "pronunciation": "manchmal"
+    },
+    {
+      "id": 171,
+      "category": "Basics",
+      "german": "jetzt",
+      "english": "now",
+      "difficulty": 1,
+      "pronunciation": "jetzt"
+    },
+    {
+      "id": 172,
+      "category": "Basics",
+      "german": "heute",
+      "english": "today",
+      "difficulty": 1,
+      "pronunciation": "heute"
+    },
+    {
+      "id": 173,
+      "category": "Basics",
+      "german": "morgen",
+      "english": "tomorrow",
+      "difficulty": 1,
+      "pronunciation": "morgen"
+    },
+    {
+      "id": 174,
+      "category": "Basics",
+      "german": "gestern",
+      "english": "yesterday",
+      "difficulty": 1,
+      "pronunciation": "gestern"
+    },
+    {
+      "id": 175,
+      "category": "Basics",
+      "german": "hier",
+      "english": "here",
+      "difficulty": 1,
+      "pronunciation": "hier"
+    },
+    {
+      "id": 176,
+      "category": "Basics",
+      "german": "dort",
+      "english": "there",
+      "difficulty": 2,
+      "pronunciation": "dort"
+    },
+    {
+      "id": 177,
+      "category": "Basics",
+      "german": "da",
+      "english": "there, then",
+      "difficulty": 1,
+      "pronunciation": "da"
+    },
+    {
+      "id": 178,
+      "category": "Basics",
+      "german": "wo",
+      "english": "where",
+      "difficulty": 1,
+      "pronunciation": "wo"
+    },
+    {
+      "id": 179,
+      "category": "Basics",
+      "german": "wie",
+      "english": "how",
+      "difficulty": 1,
+      "pronunciation": "wie"
+    },
+    {
+      "id": 180,
+      "category": "Basics",
+      "german": "was",
+      "english": "what",
+      "difficulty": 1,
+      "pronunciation": "was"
+    },
+    {
+      "id": 181,
+      "category": "Basics",
+      "german": "wer",
+      "english": "who",
+      "difficulty": 1,
+      "pronunciation": "wer"
+    },
+    {
+      "id": 182,
+      "category": "Basics",
+      "german": "wann",
+      "english": "when",
+      "difficulty": 1,
+      "pronunciation": "wann"
+    },
+    {
+      "id": 183,
+      "category": "Basics",
+      "german": "warum",
+      "english": "why",
+      "difficulty": 1,
+      "pronunciation": "warum"
+    },
+    {
+      "id": 184,
+      "category": "Basics",
+      "german": "zu",
+      "english": "to, too",
+      "difficulty": 1,
+      "pronunciation": "zu"
+    },
+    {
+      "id": 185,
+      "category": "Basics",
+      "german": "mit",
+      "english": "with",
+      "difficulty": 1,
+      "pronunciation": "mit"
+    },
+    {
+      "id": 186,
+      "category": "Basics",
+      "german": "ohne",
+      "english": "without",
+      "difficulty": 1,
+      "pronunciation": "ohne"
+    },
+    {
+      "id": 187,
+      "category": "Basics",
+      "german": "bei",
+      "english": "at, with",
+      "difficulty": 1,
+      "pronunciation": "bei"
+    },
+    {
+      "id": 188,
+      "category": "Basics",
+      "german": "von",
+      "english": "from, of",
+      "difficulty": 1,
+      "pronunciation": "von"
+    },
+    {
+      "id": 189,
+      "category": "Basics",
+      "german": "für",
+      "english": "for",
+      "difficulty": 1,
+      "pronunciation": "für"
+    },
+    {
+      "id": 190,
+      "category": "Basics",
+      "german": "auf",
+      "english": "on, up",
+      "difficulty": 1,
+      "pronunciation": "auf"
+    },
+    {
+      "id": 191,
+      "category": "Basics",
+      "german": "an",
+      "english": "at, on",
+      "difficulty": 1,
+      "pronunciation": "an"
+    },
+    {
+      "id": 192,
+      "category": "Basics",
+      "german": "in",
+      "english": "in",
+      "difficulty": 1,
+      "pronunciation": "in"
+    },
+    {
+      "id": 193,
+      "category": "Basics",
+      "german": "aus",
+      "english": "out of, from",
+      "difficulty": 1,
+      "pronunciation": "aus"
+    },
+    {
+      "id": 194,
+      "category": "Basics",
+      "german": "nach",
+      "english": "after, to",
+      "difficulty": 1,
+      "pronunciation": "nach"
+    },
+    {
+      "id": 195,
+      "category": "Basics",
+      "german": "vor",
+      "english": "before, in front of",
+      "difficulty": 1,
+      "pronunciation": "vor"
+    },
+    {
+      "id": 196,
+      "category": "Basics",
+      "german": "über",
+      "english": "over, about",
+      "difficulty": 2,
+      "pronunciation": "über"
+    },
+    {
+      "id": 197,
+      "category": "Basics",
+      "german": "unter",
+      "english": "under",
+      "difficulty": 2,
+      "pronunciation": "unter"
+    },
+    {
+      "id": 198,
+      "category": "Basics",
+      "german": "neben",
+      "english": "next to",
+      "difficulty": 2,
+      "pronunciation": "neben"
+    },
+    {
+      "id": 199,
+      "category": "Basics",
+      "german": "zwischen",
+      "english": "between",
+      "difficulty": 2,
+      "pronunciation": "zwischen"
+    },
+    {
+      "id": 200,
+      "category": "Basics",
+      "german": "hinter",
+      "english": "behind",
+      "difficulty": 2,
+      "pronunciation": "hinter"
+    },
+    {
+      "id": 201,
+      "category": "Basics",
+      "german": "bis",
+      "english": "until",
+      "difficulty": 1,
+      "pronunciation": "bis"
+    },
+    {
+      "id": 202,
+      "category": "Basics",
+      "german": "gegen",
+      "english": "against",
+      "difficulty": 2,
+      "pronunciation": "gegen"
+    },
+    {
+      "id": 203,
+      "category": "Basics",
+      "german": "seit",
+      "english": "since",
+      "difficulty": 2,
+      "pronunciation": "seit"
+    },
+    {
+      "id": 204,
+      "category": "Basics",
+      "german": "während",
+      "english": "during",
+      "difficulty": 2,
+      "pronunciation": "während"
+    },
+    {
+      "id": 205,
+      "category": "Basics",
+      "german": "wegen",
+      "english": "because of",
+      "difficulty": 2,
+      "pronunciation": "wegen"
+    },
+    {
+      "id": 206,
+      "category": "Basics",
+      "german": "durch",
+      "english": "through",
+      "difficulty": 2,
+      "pronunciation": "durch"
+    },
+    {
+      "id": 207,
+      "category": "Basics",
+      "german": "um",
+      "english": "at, around",
+      "difficulty": 1,
+      "pronunciation": "um"
+    },
+    {
+      "id": 208,
+      "category": "Basics",
+      "german": "zurück",
+      "english": "back",
+      "difficulty": 2,
+      "pronunciation": "zurück"
+    },
+    {
+      "id": 209,
+      "category": "Basics",
+      "german": "vielleicht",
+      "english": "maybe",
+      "difficulty": 2,
+      "pronunciation": "vielleicht"
+    },
+    {
+      "id": 210,
+      "category": "Basics",
+      "german": "wirklich",
+      "english": "really",
+      "difficulty": 2,
+      "pronunciation": "wirklich"
+    },
+    {
+      "id": 211,
+      "category": "Basics",
+      "german": "eigentlich",
+      "english": "actually",
+      "difficulty": 2,
+      "pronunciation": "eigentlich"
+    },
+    {
+      "id": 212,
+      "category": "Basics",
+      "german": "natürlich",
+      "english": "of course",
+      "difficulty": 2,
+      "pronunciation": "natürlich"
+    },
+    {
+      "id": 213,
+      "category": "Basics",
+      "german": "leider",
+      "english": "unfortunately",
+      "difficulty": 2,
+      "pronunciation": "leider"
+    },
+    {
+      "id": 214,
+      "category": "Basics",
+      "german": "also",
+      "english": "so, therefore",
+      "difficulty": 2,
+      "pronunciation": "also"
+    },
+    {
+      "id": 215,
+      "category": "Basics",
+      "german": "dann",
+      "english": "then",
+      "difficulty": 1,
+      "pronunciation": "dann"
+    },
+    {
+      "id": 216,
+      "category": "Basics",
+      "german": "danach",
+      "english": "afterwards",
+      "difficulty": 2,
+      "pronunciation": "danach"
+    },
+    {
+      "id": 217,
+      "category": "Basics",
+      "german": "zuerst",
+      "english": "first",
+      "difficulty": 2,
+      "pronunciation": "zuerst"
+    },
+    {
+      "id": 218,
+      "category": "Basics",
+      "german": "gleich",
+      "english": "right away",
+      "difficulty": 2,
+      "pronunciation": "gleich"
+    },
+    {
+      "id": 219,
+      "category": "Basics",
+      "german": "selten",
+      "english": "rarely",
+      "difficulty": 2,
+      "pronunciation": "selten"
+    },
+    {
+      "id": 220,
+      "category": "Basics",
+      "german": "deshalb",
+      "english": "therefore",
+      "difficulty": 2,
+      "pronunciation": "deshalb"
+    },
+    {
+      "id": 221,
+      "category": "Basics",
+      "german": "zusammen",
+      "english": "together",
+      "difficulty": 2,
+      "pronunciation": "zusammen"
+    },
+    {
+      "id": 222,
+      "category": "Basics",
+      "german": "allein",
+      "english": "alone",
+      "difficulty": 2,
+      "pronunciation": "allein"
+    },
+    {
+      "id": 223,
+      "category": "Basics",
+      "german": "alle",
+      "english": "everyone, all",
+      "difficulty": 1,
+      "pronunciation": "alle"
+    },
+    {
+      "id": 224,
+      "category": "Basics",
+      "german": "beide",
+      "english": "both",
+      "difficulty": 2,
+      "pronunciation": "beide"
+    },
+    {
+      "id": 225,
+      "category": "Basics",
+      "german": "ganz",
+      "english": "quite, whole",
+      "difficulty": 2,
+      "pronunciation": "ganz"
+    },
+    {
+      "id": 226,
+      "category": "Basics",
+      "german": "jeder",
+      "english": "everyone, each",
+      "difficulty": 2,
+      "pronunciation": "jeder"
+    },
+    {
+      "id": 227,
+      "category": "Basics",
+      "german": "wieder",
+      "english": "again",
+      "difficulty": 1,
+      "pronunciation": "wieder"
+    },
+    {
+      "id": 228,
+      "category": "Numbers",
+      "german": "null",
+      "english": "zero",
+      "difficulty": 1,
+      "pronunciation": "null"
+    },
+    {
+      "id": 229,
+      "category": "Numbers",
+      "german": "eins",
+      "english": "one",
+      "difficulty": 1,
+      "pronunciation": "eins"
+    },
+    {
+      "id": 230,
+      "category": "Numbers",
+      "german": "zwei",
+      "english": "two",
+      "difficulty": 1,
+      "pronunciation": "zwei"
+    },
+    {
+      "id": 231,
+      "category": "Numbers",
+      "german": "drei",
+      "english": "three",
+      "difficulty": 1,
+      "pronunciation": "drei"
+    },
+    {
+      "id": 232,
+      "category": "Numbers",
+      "german": "vier",
+      "english": "four",
+      "difficulty": 1,
+      "pronunciation": "vier"
+    },
+    {
+      "id": 233,
+      "category": "Numbers",
+      "german": "fünf",
+      "english": "five",
+      "difficulty": 1,
+      "pronunciation": "fünf"
+    },
+    {
+      "id": 234,
+      "category": "Numbers",
+      "german": "sechs",
+      "english": "six",
+      "difficulty": 1,
+      "pronunciation": "sechs"
+    },
+    {
+      "id": 235,
+      "category": "Numbers",
+      "german": "sieben",
+      "english": "seven",
+      "difficulty": 1,
+      "pronunciation": "sieben"
+    },
+    {
+      "id": 236,
+      "category": "Numbers",
+      "german": "acht",
+      "english": "eight",
+      "difficulty": 1,
+      "pronunciation": "acht"
+    },
+    {
+      "id": 237,
+      "category": "Numbers",
+      "german": "neun",
+      "english": "nine",
+      "difficulty": 1,
+      "pronunciation": "neun"
+    },
+    {
+      "id": 238,
+      "category": "Numbers",
+      "german": "zehn",
+      "english": "ten",
+      "difficulty": 1,
+      "pronunciation": "zehn"
+    },
+    {
+      "id": 239,
+      "category": "Numbers",
+      "german": "elf",
+      "english": "eleven",
+      "difficulty": 2,
+      "pronunciation": "elf"
+    },
+    {
+      "id": 240,
+      "category": "Numbers",
+      "german": "zwölf",
+      "english": "twelve",
+      "difficulty": 2,
+      "pronunciation": "zwölf"
+    },
+    {
+      "id": 241,
+      "category": "Numbers",
+      "german": "zwanzig",
+      "english": "twenty",
+      "difficulty": 2,
+      "pronunciation": "zwanzig"
+    },
+    {
+      "id": 242,
+      "category": "Numbers",
+      "german": "dreißig",
+      "english": "thirty",
+      "difficulty": 2,
+      "pronunciation": "dreißig"
+    },
+    {
+      "id": 243,
+      "category": "Numbers",
+      "german": "vierzig",
+      "english": "forty",
+      "difficulty": 2,
+      "pronunciation": "vierzig"
+    },
+    {
+      "id": 244,
+      "category": "Numbers",
+      "german": "fünfzig",
+      "english": "fifty",
+      "difficulty": 2,
+      "pronunciation": "fünfzig"
+    },
+    {
+      "id": 245,
+      "category": "Numbers",
+      "german": "hundert",
+      "english": "hundred",
+      "difficulty": 2,
+      "pronunciation": "hundert"
+    },
+    {
+      "id": 246,
+      "category": "Numbers",
+      "german": "tausend",
+      "english": "thousand",
+      "difficulty": 2,
+      "pronunciation": "tausend"
+    },
+    {
+      "id": 247,
+      "category": "Numbers",
+      "german": "die Hälfte",
+      "english": "half",
+      "difficulty": 3,
+      "pronunciation": "die Hälfte"
+    },
+    {
+      "id": 248,
+      "category": "Time & Calendar",
+      "german": "der Tag",
+      "english": "day",
+      "difficulty": 1,
+      "pronunciation": "der Tag"
+    },
+    {
+      "id": 249,
+      "category": "Time & Calendar",
+      "german": "die Woche",
+      "english": "week",
+      "difficulty": 1,
+      "pronunciation": "die Woche"
+    },
+    {
+      "id": 250,
+      "category": "Time & Calendar",
+      "german": "der Monat",
+      "english": "month",
+      "difficulty": 1,
+      "pronunciation": "der Monat"
+    },
+    {
+      "id": 251,
+      "category": "Time & Calendar",
+      "german": "das Jahr",
+      "english": "year",
+      "difficulty": 1,
+      "pronunciation": "das Jahr"
+    },
+    {
+      "id": 252,
+      "category": "Time & Calendar",
+      "german": "die Zeit",
+      "english": "time",
+      "difficulty": 1,
+      "pronunciation": "die Zeit"
+    },
+    {
+      "id": 253,
+      "category": "Time & Calendar",
+      "german": "die Stunde",
+      "english": "hour",
+      "difficulty": 1,
+      "pronunciation": "die Stunde"
+    },
+    {
+      "id": 254,
+      "category": "Time & Calendar",
+      "german": "die Minute",
+      "english": "minute",
+      "difficulty": 1,
+      "pronunciation": "die Minute"
+    },
+    {
+      "id": 255,
+      "category": "Time & Calendar",
+      "german": "die Uhr",
+      "english": "clock, o'clock",
+      "difficulty": 2,
+      "pronunciation": "die Uhr"
+    },
+    {
+      "id": 256,
+      "category": "Time & Calendar",
+      "german": "der Morgen",
+      "english": "morning",
+      "difficulty": 1,
+      "pronunciation": "der Morgen"
+    },
+    {
+      "id": 257,
+      "category": "Time & Calendar",
+      "german": "der Vormittag",
+      "english": "late morning",
+      "difficulty": 3,
+      "pronunciation": "der Vormittag"
+    },
+    {
+      "id": 258,
+      "category": "Time & Calendar",
+      "german": "der Mittag",
+      "english": "noon",
+      "difficulty": 2,
+      "pronunciation": "der Mittag"
+    },
+    {
+      "id": 259,
+      "category": "Time & Calendar",
+      "german": "der Nachmittag",
+      "english": "afternoon",
+      "difficulty": 2,
+      "pronunciation": "der Nachmittag"
+    },
+    {
+      "id": 260,
+      "category": "Time & Calendar",
+      "german": "der Abend",
+      "english": "evening",
+      "difficulty": 1,
+      "pronunciation": "der Abend"
+    },
+    {
+      "id": 261,
+      "category": "Time & Calendar",
+      "german": "die Nacht",
+      "english": "night",
+      "difficulty": 1,
+      "pronunciation": "die Nacht"
+    },
+    {
+      "id": 262,
+      "category": "Time & Calendar",
+      "german": "das Wochenende",
+      "english": "weekend",
+      "difficulty": 1,
+      "pronunciation": "das Wochenende"
+    },
+    {
+      "id": 263,
+      "category": "Time & Calendar",
+      "german": "der Montag",
+      "english": "Monday",
+      "difficulty": 1,
+      "pronunciation": "der Montag"
+    },
+    {
+      "id": 264,
+      "category": "Time & Calendar",
+      "german": "der Dienstag",
+      "english": "Tuesday",
+      "difficulty": 1,
+      "pronunciation": "der Dienstag"
+    },
+    {
+      "id": 265,
+      "category": "Time & Calendar",
+      "german": "der Mittwoch",
+      "english": "Wednesday",
+      "difficulty": 1,
+      "pronunciation": "der Mittwoch"
+    },
+    {
+      "id": 266,
+      "category": "Time & Calendar",
+      "german": "der Donnerstag",
+      "english": "Thursday",
+      "difficulty": 1,
+      "pronunciation": "der Donnerstag"
+    },
+    {
+      "id": 267,
+      "category": "Time & Calendar",
+      "german": "der Freitag",
+      "english": "Friday",
+      "difficulty": 1,
+      "pronunciation": "der Freitag"
+    },
+    {
+      "id": 268,
+      "category": "Time & Calendar",
+      "german": "der Samstag",
+      "english": "Saturday",
+      "difficulty": 1,
+      "pronunciation": "der Samstag"
+    },
+    {
+      "id": 269,
+      "category": "Time & Calendar",
+      "german": "der Sonntag",
+      "english": "Sunday",
+      "difficulty": 1,
+      "pronunciation": "der Sonntag"
+    },
+    {
+      "id": 270,
+      "category": "Time & Calendar",
+      "german": "der Jänner",
+      "english": "January",
+      "difficulty": 2,
+      "pronunciation": "der Jänner"
+    },
+    {
+      "id": 271,
+      "category": "Time & Calendar",
+      "german": "der Februar",
+      "english": "February",
+      "difficulty": 2,
+      "pronunciation": "der Februar"
+    },
+    {
+      "id": 272,
+      "category": "Time & Calendar",
+      "german": "der März",
+      "english": "March",
+      "difficulty": 2,
+      "pronunciation": "der März"
+    },
+    {
+      "id": 273,
+      "category": "Time & Calendar",
+      "german": "der April",
+      "english": "April",
+      "difficulty": 2,
+      "pronunciation": "der April"
+    },
+    {
+      "id": 274,
+      "category": "Time & Calendar",
+      "german": "der Mai",
+      "english": "May",
+      "difficulty": 2,
+      "pronunciation": "der Mai"
+    },
+    {
+      "id": 275,
+      "category": "Time & Calendar",
+      "german": "der Juni",
+      "english": "June",
+      "difficulty": 2,
+      "pronunciation": "der Juni"
+    },
+    {
+      "id": 276,
+      "category": "Time & Calendar",
+      "german": "der Juli",
+      "english": "July",
+      "difficulty": 2,
+      "pronunciation": "der Juli"
+    },
+    {
+      "id": 277,
+      "category": "Time & Calendar",
+      "german": "der August",
+      "english": "August",
+      "difficulty": 2,
+      "pronunciation": "der August"
+    },
+    {
+      "id": 278,
+      "category": "Time & Calendar",
+      "german": "der September",
+      "english": "September",
+      "difficulty": 2,
+      "pronunciation": "der September"
+    },
+    {
+      "id": 279,
+      "category": "Time & Calendar",
+      "german": "der Oktober",
+      "english": "October",
+      "difficulty": 2,
+      "pronunciation": "der Oktober"
+    },
+    {
+      "id": 280,
+      "category": "Time & Calendar",
+      "german": "der November",
+      "english": "November",
+      "difficulty": 2,
+      "pronunciation": "der November"
+    },
+    {
+      "id": 281,
+      "category": "Time & Calendar",
+      "german": "der Dezember",
+      "english": "December",
+      "difficulty": 2,
+      "pronunciation": "der Dezember"
+    },
+    {
+      "id": 282,
+      "category": "Time & Calendar",
+      "german": "das Datum",
+      "english": "date",
+      "difficulty": 2,
+      "pronunciation": "das Datum"
+    },
+    {
+      "id": 283,
+      "category": "Time & Calendar",
+      "german": "der Kalender",
+      "english": "calendar",
+      "difficulty": 2,
+      "pronunciation": "der Kalender"
+    },
+    {
+      "id": 284,
+      "category": "Time & Calendar",
+      "german": "der Feiertag",
+      "english": "public holiday",
+      "difficulty": 3,
+      "pronunciation": "der Feiertag"
+    },
+    {
+      "id": 285,
+      "category": "Time & Calendar",
+      "german": "die Vergangenheit",
+      "english": "past",
+      "difficulty": 3,
+      "pronunciation": "die Vergangenheit"
+    },
+    {
+      "id": 286,
+      "category": "Time & Calendar",
+      "german": "die Zukunft",
+      "english": "future",
+      "difficulty": 3,
+      "pronunciation": "die Zukunft"
+    },
+    {
+      "id": 287,
+      "category": "Time & Calendar",
+      "german": "das Mal",
+      "english": "time (occasion)",
+      "difficulty": 2,
+      "pronunciation": "das Mal"
+    },
+    {
+      "id": 288,
+      "category": "Weather & Nature",
+      "german": "das Wetter",
+      "english": "weather",
+      "difficulty": 1,
+      "pronunciation": "das Wetter"
+    },
+    {
+      "id": 289,
+      "category": "Weather & Nature",
+      "german": "die Sonne",
+      "english": "sun",
+      "difficulty": 1,
+      "pronunciation": "die Sonne"
+    },
+    {
+      "id": 290,
+      "category": "Weather & Nature",
+      "german": "der Regen",
+      "english": "rain",
+      "difficulty": 1,
+      "pronunciation": "der Regen"
+    },
+    {
+      "id": 291,
+      "category": "Weather & Nature",
+      "german": "der Schnee",
+      "english": "snow",
+      "difficulty": 1,
+      "pronunciation": "der Schnee"
+    },
+    {
+      "id": 292,
+      "category": "Weather & Nature",
+      "german": "der Wind",
+      "english": "wind",
+      "difficulty": 1,
+      "pronunciation": "der Wind"
+    },
+    {
+      "id": 293,
+      "category": "Weather & Nature",
+      "german": "die Wolke",
+      "english": "cloud",
+      "difficulty": 2,
+      "pronunciation": "die Wolke"
+    },
+    {
+      "id": 294,
+      "category": "Weather & Nature",
+      "german": "der Nebel",
+      "english": "fog",
+      "difficulty": 3,
+      "pronunciation": "der Nebel"
+    },
+    {
+      "id": 295,
+      "category": "Weather & Nature",
+      "german": "die Temperatur",
+      "english": "temperature",
+      "difficulty": 2,
+      "pronunciation": "die Temperatur"
+    },
+    {
+      "id": 296,
+      "category": "Weather & Nature",
+      "german": "der Frost",
+      "english": "frost",
+      "difficulty": 3,
+      "pronunciation": "der Frost"
+    },
+    {
+      "id": 297,
+      "category": "Weather & Nature",
+      "german": "die Hitze",
+      "english": "heat",
+      "difficulty": 3,
+      "pronunciation": "die Hitze"
+    },
+    {
+      "id": 298,
+      "category": "Weather & Nature",
+      "german": "die Kälte",
+      "english": "cold",
+      "difficulty": 3,
+      "pronunciation": "die Kälte"
+    },
+    {
+      "id": 299,
+      "category": "Weather & Nature",
+      "german": "das Gewitter",
+      "english": "thunderstorm",
+      "difficulty": 3,
+      "pronunciation": "das Gewitter"
+    },
+    {
+      "id": 300,
+      "category": "Weather & Nature",
+      "german": "der Sturm",
+      "english": "storm",
+      "difficulty": 3,
+      "pronunciation": "der Sturm"
+    },
+    {
+      "id": 301,
+      "category": "Weather & Nature",
+      "german": "der Mond",
+      "english": "moon",
+      "difficulty": 2,
+      "pronunciation": "der Mond"
+    },
+    {
+      "id": 302,
+      "category": "Weather & Nature",
+      "german": "der Stern",
+      "english": "star",
+      "difficulty": 3,
+      "pronunciation": "der Stern"
+    },
+    {
+      "id": 303,
+      "category": "Weather & Nature",
+      "german": "der Himmel",
+      "english": "sky",
+      "difficulty": 2,
+      "pronunciation": "der Himmel"
+    },
+    {
+      "id": 304,
+      "category": "Weather & Nature",
+      "german": "die Erde",
+      "english": "earth, ground",
+      "difficulty": 3,
+      "pronunciation": "die Erde"
+    },
+    {
+      "id": 305,
+      "category": "Weather & Nature",
+      "german": "die Blume",
+      "english": "flower",
+      "difficulty": 2,
+      "pronunciation": "die Blume"
+    },
+    {
+      "id": 306,
+      "category": "Weather & Nature",
+      "german": "der Baum",
+      "english": "tree",
+      "difficulty": 2,
+      "pronunciation": "der Baum"
+    },
+    {
+      "id": 307,
+      "category": "Weather & Nature",
+      "german": "die Pflanze",
+      "english": "plant",
+      "difficulty": 2,
+      "pronunciation": "die Pflanze"
+    },
+    {
+      "id": 308,
+      "category": "Weather & Nature",
+      "german": "das Gras",
+      "english": "grass",
+      "difficulty": 2,
+      "pronunciation": "das Gras"
+    },
+    {
+      "id": 309,
+      "category": "Weather & Nature",
+      "german": "die Natur",
+      "english": "nature",
+      "difficulty": 2,
+      "pronunciation": "die Natur"
+    },
+    {
+      "id": 310,
+      "category": "Weather & Nature",
+      "german": "der Wald",
+      "english": "forest",
+      "difficulty": 2,
+      "pronunciation": "der Wald"
+    },
+    {
+      "id": 311,
+      "category": "Weather & Nature",
+      "german": "der See",
+      "english": "lake",
+      "difficulty": 2,
+      "pronunciation": "der See"
+    },
+    {
+      "id": 312,
+      "category": "Weather & Nature",
+      "german": "der Fluss",
+      "english": "river",
+      "difficulty": 2,
+      "pronunciation": "der Fluss"
+    },
+    {
+      "id": 313,
+      "category": "Weather & Nature",
+      "german": "der Berg",
+      "english": "mountain",
+      "difficulty": 2,
+      "pronunciation": "der Berg"
+    },
+    {
+      "id": 314,
+      "category": "Weather & Nature",
+      "german": "das Meer",
+      "english": "sea",
+      "difficulty": 2,
+      "pronunciation": "das Meer"
+    },
+    {
+      "id": 315,
+      "category": "Weather & Nature",
+      "german": "der Strand",
+      "english": "beach",
+      "difficulty": 2,
+      "pronunciation": "der Strand"
+    },
+    {
+      "id": 316,
+      "category": "Weather & Nature",
+      "german": "die Insel",
+      "english": "island",
+      "difficulty": 3,
+      "pronunciation": "die Insel"
+    },
+    {
+      "id": 317,
+      "category": "Weather & Nature",
+      "german": "das Feuer",
+      "english": "fire",
+      "difficulty": 3,
+      "pronunciation": "das Feuer"
+    },
+    {
+      "id": 318,
+      "category": "Weather & Nature",
+      "german": "der Stein",
+      "english": "stone",
+      "difficulty": 3,
+      "pronunciation": "der Stein"
+    },
+    {
+      "id": 319,
+      "category": "Weather & Nature",
+      "german": "die Luft",
+      "english": "air",
+      "difficulty": 2,
+      "pronunciation": "die Luft"
+    },
+    {
+      "id": 320,
+      "category": "Family & People",
+      "german": "die Familie",
+      "english": "family",
+      "difficulty": 1,
+      "pronunciation": "die Familie"
+    },
+    {
+      "id": 321,
+      "category": "Family & People",
+      "german": "die Mutter",
+      "english": "mother",
+      "difficulty": 1,
+      "pronunciation": "die Mutter"
+    },
+    {
+      "id": 322,
+      "category": "Family & People",
+      "german": "der Vater",
+      "english": "father",
+      "difficulty": 1,
+      "pronunciation": "der Vater"
+    },
+    {
+      "id": 323,
+      "category": "Family & People",
+      "german": "die Eltern",
+      "english": "parents",
+      "difficulty": 1,
+      "pronunciation": "die Eltern"
+    },
+    {
+      "id": 324,
+      "category": "Family & People",
+      "german": "das Kind",
+      "english": "child",
+      "difficulty": 1,
+      "pronunciation": "das Kind"
+    },
+    {
+      "id": 325,
+      "category": "Family & People",
+      "german": "der Sohn",
+      "english": "son",
+      "difficulty": 1,
+      "pronunciation": "der Sohn"
+    },
+    {
+      "id": 326,
+      "category": "Family & People",
+      "german": "die Tochter",
+      "english": "daughter",
+      "difficulty": 1,
+      "pronunciation": "die Tochter"
+    },
+    {
+      "id": 327,
+      "category": "Family & People",
+      "german": "der Bruder",
+      "english": "brother",
+      "difficulty": 1,
+      "pronunciation": "der Bruder"
+    },
+    {
+      "id": 328,
+      "category": "Family & People",
+      "german": "die Schwester",
+      "english": "sister",
+      "difficulty": 1,
+      "pronunciation": "die Schwester"
+    },
+    {
+      "id": 329,
+      "category": "Family & People",
+      "german": "der Onkel",
+      "english": "uncle",
+      "difficulty": 2,
+      "pronunciation": "der Onkel"
+    },
+    {
+      "id": 330,
+      "category": "Family & People",
+      "german": "die Tante",
+      "english": "aunt",
+      "difficulty": 2,
+      "pronunciation": "die Tante"
+    },
+    {
+      "id": 331,
+      "category": "Family & People",
+      "german": "der Opa",
+      "english": "grandpa",
+      "difficulty": 1,
+      "pronunciation": "der Opa"
+    },
+    {
+      "id": 332,
+      "category": "Family & People",
+      "german": "die Oma",
+      "english": "grandma",
+      "difficulty": 1,
+      "pronunciation": "die Oma"
+    },
+    {
+      "id": 333,
+      "category": "Family & People",
+      "german": "der Papa",
+      "english": "dad",
+      "difficulty": 1,
+      "pronunciation": "der Papa"
+    },
+    {
+      "id": 334,
+      "category": "Family & People",
+      "german": "die Mama",
+      "english": "mum",
+      "difficulty": 1,
+      "pronunciation": "die Mama"
+    },
+    {
+      "id": 335,
+      "category": "Family & People",
+      "german": "das Baby",
+      "english": "baby",
+      "difficulty": 1,
+      "pronunciation": "das Baby"
+    },
+    {
+      "id": 336,
+      "category": "Family & People",
+      "german": "der Großvater",
+      "english": "grandfather",
+      "difficulty": 3,
+      "pronunciation": "der Großvater"
+    },
+    {
+      "id": 337,
+      "category": "Family & People",
+      "german": "die Großmutter",
+      "english": "grandmother",
+      "difficulty": 3,
+      "pronunciation": "die Großmutter"
+    },
+    {
+      "id": 338,
+      "category": "Family & People",
+      "german": "der Enkel",
+      "english": "grandson",
+      "difficulty": 3,
+      "pronunciation": "der Enkel"
+    },
+    {
+      "id": 339,
+      "category": "Family & People",
+      "german": "die Enkelin",
+      "english": "granddaughter",
+      "difficulty": 3,
+      "pronunciation": "die Enkelin"
+    },
+    {
+      "id": 340,
+      "category": "Family & People",
+      "german": "der Cousin",
+      "english": "cousin (male)",
+      "difficulty": 2,
+      "pronunciation": "der Cousin"
+    },
+    {
+      "id": 341,
+      "category": "Family & People",
+      "german": "die Cousine",
+      "english": "cousin (female)",
+      "difficulty": 2,
+      "pronunciation": "die Cousine"
+    },
+    {
+      "id": 342,
+      "category": "Family & People",
+      "german": "der Neffe",
+      "english": "nephew",
+      "difficulty": 3,
+      "pronunciation": "der Neffe"
+    },
+    {
+      "id": 343,
+      "category": "Family & People",
+      "german": "die Nichte",
+      "english": "niece",
+      "difficulty": 3,
+      "pronunciation": "die Nichte"
+    },
+    {
+      "id": 344,
+      "category": "Family & People",
+      "german": "der Mann",
+      "english": "man, husband",
+      "difficulty": 1,
+      "pronunciation": "der Mann"
+    },
+    {
+      "id": 345,
+      "category": "Family & People",
+      "german": "die Frau",
+      "english": "woman, wife",
+      "difficulty": 1,
+      "pronunciation": "die Frau"
+    },
+    {
+      "id": 346,
+      "category": "Family & People",
+      "german": "der Freund",
+      "english": "friend, boyfriend",
+      "difficulty": 1,
+      "pronunciation": "der Freund"
+    },
+    {
+      "id": 347,
+      "category": "Family & People",
+      "german": "die Freundin",
+      "english": "friend, girlfriend",
+      "difficulty": 1,
+      "pronunciation": "die Freundin"
+    },
+    {
+      "id": 348,
+      "category": "Family & People",
+      "german": "der Partner",
+      "english": "partner",
+      "difficulty": 2,
+      "pronunciation": "der Partner"
+    },
+    {
+      "id": 349,
+      "category": "Family & People",
+      "german": "die Partnerin",
+      "english": "partner (female)",
+      "difficulty": 2,
+      "pronunciation": "die Partnerin"
+    },
+    {
+      "id": 350,
+      "category": "Family & People",
+      "german": "der Mensch",
+      "english": "human being",
+      "difficulty": 2,
+      "pronunciation": "der Mensch"
+    },
+    {
+      "id": 351,
+      "category": "Family & People",
+      "german": "die Person",
+      "english": "person",
+      "difficulty": 2,
+      "pronunciation": "die Person"
+    },
+    {
+      "id": 352,
+      "category": "Family & People",
+      "german": "der Junge",
+      "english": "boy",
+      "difficulty": 1,
+      "pronunciation": "der Junge"
+    },
+    {
+      "id": 353,
+      "category": "Family & People",
+      "german": "das Mädchen",
+      "english": "girl",
+      "difficulty": 1,
+      "pronunciation": "das Mädchen"
+    },
+    {
+      "id": 354,
+      "category": "Family & People",
+      "german": "der Herr",
+      "english": "Mr., gentleman",
+      "difficulty": 1,
+      "pronunciation": "der Herr"
+    },
+    {
+      "id": 355,
+      "category": "Family & People",
+      "german": "die Dame",
+      "english": "lady",
+      "difficulty": 2,
+      "pronunciation": "die Dame"
+    },
+    {
+      "id": 356,
+      "category": "Family & People",
+      "german": "der Nachbar",
+      "english": "neighbour (male)",
+      "difficulty": 2,
+      "pronunciation": "der Nachbar"
+    },
+    {
+      "id": 357,
+      "category": "Family & People",
+      "german": "die Nachbarin",
+      "english": "neighbour (female)",
+      "difficulty": 2,
+      "pronunciation": "die Nachbarin"
+    },
+    {
+      "id": 358,
+      "category": "Family & People",
+      "german": "der Kollege",
+      "english": "colleague (male)",
+      "difficulty": 2,
+      "pronunciation": "der Kollege"
+    },
+    {
+      "id": 359,
+      "category": "Family & People",
+      "german": "die Kollegin",
+      "english": "colleague (female)",
+      "difficulty": 2,
+      "pronunciation": "die Kollegin"
+    },
+    {
+      "id": 360,
+      "category": "Family & People",
+      "german": "der Chef",
+      "english": "boss (male)",
+      "difficulty": 2,
+      "pronunciation": "der Chef"
+    },
+    {
+      "id": 361,
+      "category": "Family & People",
+      "german": "die Chefin",
+      "english": "boss (female)",
+      "difficulty": 2,
+      "pronunciation": "die Chefin"
+    },
+    {
+      "id": 362,
+      "category": "Family & People",
+      "german": "der Lehrer",
+      "english": "teacher (male)",
+      "difficulty": 1,
+      "pronunciation": "der Lehrer"
+    },
+    {
+      "id": 363,
+      "category": "Family & People",
+      "german": "die Lehrerin",
+      "english": "teacher (female)",
+      "difficulty": 1,
+      "pronunciation": "die Lehrerin"
+    },
+    {
+      "id": 364,
+      "category": "Family & People",
+      "german": "der Schüler",
+      "english": "pupil (male)",
+      "difficulty": 1,
+      "pronunciation": "der Schüler"
+    },
+    {
+      "id": 365,
+      "category": "Family & People",
+      "german": "die Schülerin",
+      "english": "pupil (female)",
+      "difficulty": 1,
+      "pronunciation": "die Schülerin"
+    },
+    {
+      "id": 366,
+      "category": "Family & People",
+      "german": "der Student",
+      "english": "student (male)",
+      "difficulty": 2,
+      "pronunciation": "der Student"
+    },
+    {
+      "id": 367,
+      "category": "Family & People",
+      "german": "die Studentin",
+      "english": "student (female)",
+      "difficulty": 2,
+      "pronunciation": "die Studentin"
+    },
+    {
+      "id": 368,
+      "category": "Family & People",
+      "german": "der Arzt",
+      "english": "doctor (male)",
+      "difficulty": 1,
+      "pronunciation": "der Arzt"
+    },
+    {
+      "id": 369,
+      "category": "Family & People",
+      "german": "die Ärztin",
+      "english": "doctor (female)",
+      "difficulty": 1,
+      "pronunciation": "die Ärztin"
+    },
+    {
+      "id": 370,
+      "category": "Family & People",
+      "german": "der Verkäufer",
+      "english": "salesperson (male)",
+      "difficulty": 2,
+      "pronunciation": "der Verkäufer"
+    },
+    {
+      "id": 371,
+      "category": "Family & People",
+      "german": "die Verkäuferin",
+      "english": "salesperson (female)",
+      "difficulty": 2,
+      "pronunciation": "die Verkäuferin"
+    },
+    {
+      "id": 372,
+      "category": "Family & People",
+      "german": "der Kellner",
+      "english": "waiter",
+      "difficulty": 2,
+      "pronunciation": "der Kellner"
+    },
+    {
+      "id": 373,
+      "category": "Family & People",
+      "german": "die Kellnerin",
+      "english": "waitress",
+      "difficulty": 2,
+      "pronunciation": "die Kellnerin"
+    },
+    {
+      "id": 374,
+      "category": "Family & People",
+      "german": "der Polizist",
+      "english": "police officer (male)",
+      "difficulty": 2,
+      "pronunciation": "der Polizist"
+    },
+    {
+      "id": 375,
+      "category": "Family & People",
+      "german": "die Polizistin",
+      "english": "police officer (female)",
+      "difficulty": 3,
+      "pronunciation": "die Polizistin"
+    },
+    {
+      "id": 376,
+      "category": "Family & People",
+      "german": "der Fahrer",
+      "english": "driver (male)",
+      "difficulty": 2,
+      "pronunciation": "der Fahrer"
+    },
+    {
+      "id": 377,
+      "category": "Family & People",
+      "german": "die Fahrerin",
+      "english": "driver (female)",
+      "difficulty": 3,
+      "pronunciation": "die Fahrerin"
+    },
+    {
+      "id": 378,
+      "category": "Family & People",
+      "german": "der Gast",
+      "english": "guest",
+      "difficulty": 2,
+      "pronunciation": "der Gast"
+    },
+    {
+      "id": 379,
+      "category": "Family & People",
+      "german": "der Name",
+      "english": "name",
+      "difficulty": 1,
+      "pronunciation": "der Name"
+    },
+    {
+      "id": 380,
+      "category": "Family & People",
+      "german": "die Leute",
+      "english": "people",
+      "difficulty": 1,
+      "pronunciation": "die Leute"
+    },
+    {
+      "id": 381,
+      "category": "Family & People",
+      "german": "der Mitarbeiter",
+      "english": "employee (male)",
+      "difficulty": 2,
+      "pronunciation": "der Mitarbeiter"
+    },
+    {
+      "id": 382,
+      "category": "Family & People",
+      "german": "die Mitarbeiterin",
+      "english": "employee (female)",
+      "difficulty": 3,
+      "pronunciation": "die Mitarbeiterin"
+    },
+    {
+      "id": 383,
+      "category": "Family & People",
+      "german": "der Kunde",
+      "english": "customer (male)",
+      "difficulty": 2,
+      "pronunciation": "der Kunde"
+    },
+    {
+      "id": 384,
+      "category": "Family & People",
+      "german": "die Kundin",
+      "english": "customer (female)",
+      "difficulty": 2,
+      "pronunciation": "die Kundin"
+    },
+    {
+      "id": 385,
+      "category": "Family & People",
+      "german": "der Geburtstag",
+      "english": "birthday",
+      "difficulty": 2,
+      "pronunciation": "der Geburtstag"
+    },
+    {
+      "id": 386,
+      "category": "Family & People",
+      "german": "der Vorname",
+      "english": "first name",
+      "difficulty": 3,
+      "pronunciation": "der Vorname"
+    },
+    {
+      "id": 387,
+      "category": "Family & People",
+      "german": "der Nachname",
+      "english": "surname",
+      "difficulty": 3,
+      "pronunciation": "der Nachname"
+    },
+    {
+      "id": 388,
+      "category": "Body & Health",
+      "german": "der Kopf",
+      "english": "head",
+      "difficulty": 1,
+      "pronunciation": "der Kopf"
+    },
+    {
+      "id": 389,
+      "category": "Body & Health",
+      "german": "das Auge",
+      "english": "eye",
+      "difficulty": 1,
+      "pronunciation": "das Auge"
+    },
+    {
+      "id": 390,
+      "category": "Body & Health",
+      "german": "das Ohr",
+      "english": "ear",
+      "difficulty": 1,
+      "pronunciation": "das Ohr"
+    },
+    {
+      "id": 391,
+      "category": "Body & Health",
+      "german": "die Nase",
+      "english": "nose",
+      "difficulty": 1,
+      "pronunciation": "die Nase"
+    },
+    {
+      "id": 392,
+      "category": "Body & Health",
+      "german": "der Mund",
+      "english": "mouth",
+      "difficulty": 1,
+      "pronunciation": "der Mund"
+    },
+    {
+      "id": 393,
+      "category": "Body & Health",
+      "german": "der Hals",
+      "english": "throat, neck",
+      "difficulty": 2,
+      "pronunciation": "der Hals"
+    },
+    {
+      "id": 394,
+      "category": "Body & Health",
+      "german": "der Zahn",
+      "english": "tooth",
+      "difficulty": 2,
+      "pronunciation": "der Zahn"
+    },
+    {
+      "id": 395,
+      "category": "Body & Health",
+      "german": "die Hand",
+      "english": "hand",
+      "difficulty": 1,
+      "pronunciation": "die Hand"
+    },
+    {
+      "id": 396,
+      "category": "Body & Health",
+      "german": "der Finger",
+      "english": "finger",
+      "difficulty": 1,
+      "pronunciation": "der Finger"
+    },
+    {
+      "id": 397,
+      "category": "Body & Health",
+      "german": "der Arm",
+      "english": "arm",
+      "difficulty": 1,
+      "pronunciation": "der Arm"
+    },
+    {
+      "id": 398,
+      "category": "Body & Health",
+      "german": "das Bein",
+      "english": "leg",
+      "difficulty": 1,
+      "pronunciation": "das Bein"
+    },
+    {
+      "id": 399,
+      "category": "Body & Health",
+      "german": "der Fuß",
+      "english": "foot",
+      "difficulty": 1,
+      "pronunciation": "der Fuß"
+    },
+    {
+      "id": 400,
+      "category": "Body & Health",
+      "german": "das Knie",
+      "english": "knee",
+      "difficulty": 2,
+      "pronunciation": "das Knie"
+    },
+    {
+      "id": 401,
+      "category": "Body & Health",
+      "german": "der Rücken",
+      "english": "back",
+      "difficulty": 1,
+      "pronunciation": "der Rücken"
+    },
+    {
+      "id": 402,
+      "category": "Body & Health",
+      "german": "der Bauch",
+      "english": "stomach, belly",
+      "difficulty": 1,
+      "pronunciation": "der Bauch"
+    },
+    {
+      "id": 403,
+      "category": "Body & Health",
+      "german": "die Brust",
+      "english": "chest",
+      "difficulty": 2,
+      "pronunciation": "die Brust"
+    },
+    {
+      "id": 404,
+      "category": "Body & Health",
+      "german": "das Haar",
+      "english": "hair",
+      "difficulty": 2,
+      "pronunciation": "das Haar"
+    },
+    {
+      "id": 405,
+      "category": "Body & Health",
+      "german": "die Haut",
+      "english": "skin",
+      "difficulty": 2,
+      "pronunciation": "die Haut"
+    },
+    {
+      "id": 406,
+      "category": "Body & Health",
+      "german": "das Herz",
+      "english": "heart",
+      "difficulty": 1,
+      "pronunciation": "das Herz"
+    },
+    {
+      "id": 407,
+      "category": "Body & Health",
+      "german": "der Magen",
+      "english": "stomach",
+      "difficulty": 2,
+      "pronunciation": "der Magen"
+    },
+    {
+      "id": 408,
+      "category": "Body & Health",
+      "german": "die Schulter",
+      "english": "shoulder",
+      "difficulty": 2,
+      "pronunciation": "die Schulter"
+    },
+    {
+      "id": 409,
+      "category": "Body & Health",
+      "german": "die Kopfschmerzen",
+      "english": "headache",
+      "difficulty": 2,
+      "pronunciation": "die Kopfschmerzen"
+    },
+    {
+      "id": 410,
+      "category": "Body & Health",
+      "german": "das Fieber",
+      "english": "fever",
+      "difficulty": 2,
+      "pronunciation": "das Fieber"
+    },
+    {
+      "id": 411,
+      "category": "Body & Health",
+      "german": "die Krankheit",
+      "english": "illness",
+      "difficulty": 2,
+      "pronunciation": "die Krankheit"
+    },
+    {
+      "id": 412,
+      "category": "Body & Health",
+      "german": "die Grippe",
+      "english": "flu",
+      "difficulty": 2,
+      "pronunciation": "die Grippe"
+    },
+    {
+      "id": 413,
+      "category": "Body & Health",
+      "german": "die Medizin",
+      "english": "medicine",
+      "difficulty": 2,
+      "pronunciation": "die Medizin"
+    },
+    {
+      "id": 414,
+      "category": "Body & Health",
+      "german": "die Tablette",
+      "english": "tablet, pill",
+      "difficulty": 2,
+      "pronunciation": "die Tablette"
+    },
+    {
+      "id": 415,
+      "category": "Body & Health",
+      "german": "die Apotheke",
+      "english": "pharmacy",
+      "difficulty": 2,
+      "pronunciation": "die Apotheke"
+    },
+    {
+      "id": 416,
+      "category": "Body & Health",
+      "german": "das Krankenhaus",
+      "english": "hospital",
+      "difficulty": 2,
+      "pronunciation": "das Krankenhaus"
+    },
+    {
+      "id": 417,
+      "category": "Body & Health",
+      "german": "die Gesundheit",
+      "english": "health",
+      "difficulty": 2,
+      "pronunciation": "die Gesundheit"
+    },
+    {
+      "id": 418,
+      "category": "Body & Health",
+      "german": "der Schmerz",
+      "english": "pain",
+      "difficulty": 2,
+      "pronunciation": "der Schmerz"
+    },
+    {
+      "id": 419,
+      "category": "Body & Health",
+      "german": "das Pflaster",
+      "english": "plaster, band-aid",
+      "difficulty": 2,
+      "pronunciation": "das Pflaster"
+    },
+    {
+      "id": 420,
+      "category": "Body & Health",
+      "german": "der Verband",
+      "english": "bandage",
+      "difficulty": 3,
+      "pronunciation": "der Verband"
+    },
+    {
+      "id": 421,
+      "category": "Body & Health",
+      "german": "die Brille",
+      "english": "glasses",
+      "difficulty": 2,
+      "pronunciation": "die Brille"
+    },
+    {
+      "id": 422,
+      "category": "Body & Health",
+      "german": "der Zahnarzt",
+      "english": "dentist",
+      "difficulty": 2,
+      "pronunciation": "der Zahnarzt"
+    },
+    {
+      "id": 423,
+      "category": "Body & Health",
+      "german": "der Husten",
+      "english": "cough",
+      "difficulty": 2,
+      "pronunciation": "der Husten"
+    },
+    {
+      "id": 424,
+      "category": "Body & Health",
+      "german": "die Erkältung",
+      "english": "cold (illness)",
+      "difficulty": 2,
+      "pronunciation": "die Erkältung"
+    },
+    {
+      "id": 425,
+      "category": "Body & Health",
+      "german": "die Verletzung",
+      "english": "injury",
+      "difficulty": 3,
+      "pronunciation": "die Verletzung"
+    },
+    {
+      "id": 426,
+      "category": "Body & Health",
+      "german": "die Diät",
+      "english": "diet",
+      "difficulty": 3,
+      "pronunciation": "die Diät"
+    },
+    {
+      "id": 427,
+      "category": "Body & Health",
+      "german": "die Massage",
+      "english": "massage",
+      "difficulty": 3,
+      "pronunciation": "die Massage"
+    },
+    {
+      "id": 428,
+      "category": "Food & Drink",
+      "german": "das Brot",
+      "english": "bread",
+      "difficulty": 1,
+      "pronunciation": "das Brot"
+    },
+    {
+      "id": 429,
+      "category": "Food & Drink",
+      "german": "die Semmel",
+      "english": "bread roll (Austria)",
+      "difficulty": 1,
+      "pronunciation": "die Semmel"
+    },
+    {
+      "id": 430,
+      "category": "Food & Drink",
+      "german": "das Gemüse",
+      "english": "vegetables",
+      "difficulty": 1,
+      "pronunciation": "das Gemüse"
+    },
+    {
+      "id": 431,
+      "category": "Food & Drink",
+      "german": "das Obst",
+      "english": "fruit",
+      "difficulty": 1,
+      "pronunciation": "das Obst"
+    },
+    {
+      "id": 432,
+      "category": "Food & Drink",
+      "german": "der Apfel",
+      "english": "apple",
+      "difficulty": 1,
+      "pronunciation": "der Apfel"
+    },
+    {
+      "id": 433,
+      "category": "Food & Drink",
+      "german": "die Banane",
+      "english": "banana",
+      "difficulty": 1,
+      "pronunciation": "die Banane"
+    },
+    {
+      "id": 434,
+      "category": "Food & Drink",
+      "german": "die Orange",
+      "english": "orange",
+      "difficulty": 1,
+      "pronunciation": "die Orange"
+    },
+    {
+      "id": 435,
+      "category": "Food & Drink",
+      "german": "die Birne",
+      "english": "pear",
+      "difficulty": 1,
+      "pronunciation": "die Birne"
+    },
+    {
+      "id": 436,
+      "category": "Food & Drink",
+      "german": "die Traube",
+      "english": "grape",
+      "difficulty": 2,
+      "pronunciation": "die Traube"
+    },
+    {
+      "id": 437,
+      "category": "Food & Drink",
+      "german": "die Erdbeere",
+      "english": "strawberry",
+      "difficulty": 2,
+      "pronunciation": "die Erdbeere"
+    },
+    {
+      "id": 438,
+      "category": "Food & Drink",
+      "german": "die Marille",
+      "english": "apricot (Austria)",
+      "difficulty": 2,
+      "pronunciation": "die Marille"
+    },
+    {
+      "id": 439,
+      "category": "Food & Drink",
+      "german": "die Kirsche",
+      "english": "cherry",
+      "difficulty": 2,
+      "pronunciation": "die Kirsche"
+    },
+    {
+      "id": 440,
+      "category": "Food & Drink",
+      "german": "die Zitrone",
+      "english": "lemon",
+      "difficulty": 2,
+      "pronunciation": "die Zitrone"
+    },
+    {
+      "id": 441,
+      "category": "Food & Drink",
+      "german": "die Gurke",
+      "english": "cucumber",
+      "difficulty": 2,
+      "pronunciation": "die Gurke"
+    },
+    {
+      "id": 442,
+      "category": "Food & Drink",
+      "german": "der Paradeiser",
+      "english": "tomato (Austria)",
+      "difficulty": 2,
+      "pronunciation": "der Paradeiser"
+    },
+    {
+      "id": 443,
+      "category": "Food & Drink",
+      "german": "die Zwiebel",
+      "english": "onion",
+      "difficulty": 2,
+      "pronunciation": "die Zwiebel"
+    },
+    {
+      "id": 444,
+      "category": "Food & Drink",
+      "german": "der Knoblauch",
+      "english": "garlic",
+      "difficulty": 2,
+      "pronunciation": "der Knoblauch"
+    },
+    {
+      "id": 445,
+      "category": "Food & Drink",
+      "german": "der Salat",
+      "english": "salad, lettuce",
+      "difficulty": 1,
+      "pronunciation": "der Salat"
+    },
+    {
+      "id": 446,
+      "category": "Food & Drink",
+      "german": "die Karotte",
+      "english": "carrot",
+      "difficulty": 2,
+      "pronunciation": "die Karotte"
+    },
+    {
+      "id": 447,
+      "category": "Food & Drink",
+      "german": "der Karfiol",
+      "english": "cauliflower (Austria)",
+      "difficulty": 3,
+      "pronunciation": "der Karfiol"
+    },
+    {
+      "id": 448,
+      "category": "Food & Drink",
+      "german": "der Kohl",
+      "english": "cabbage",
+      "difficulty": 2,
+      "pronunciation": "der Kohl"
+    },
+    {
+      "id": 449,
+      "category": "Food & Drink",
+      "german": "der Spinat",
+      "english": "spinach",
+      "difficulty": 2,
+      "pronunciation": "der Spinat"
+    },
+    {
+      "id": 450,
+      "category": "Food & Drink",
+      "german": "der Pilz",
+      "english": "mushroom",
+      "difficulty": 2,
+      "pronunciation": "der Pilz"
+    },
+    {
+      "id": 451,
+      "category": "Food & Drink",
+      "german": "die Erbse",
+      "english": "pea",
+      "difficulty": 2,
+      "pronunciation": "die Erbse"
+    },
+    {
+      "id": 452,
+      "category": "Food & Drink",
+      "german": "die Bohne",
+      "english": "bean",
+      "difficulty": 2,
+      "pronunciation": "die Bohne"
+    },
+    {
+      "id": 453,
+      "category": "Food & Drink",
+      "german": "die Melanzani",
+      "english": "aubergine (Austria)",
+      "difficulty": 3,
+      "pronunciation": "die Melanzani"
+    },
+    {
+      "id": 454,
+      "category": "Food & Drink",
+      "german": "der Kürbis",
+      "english": "pumpkin",
+      "difficulty": 3,
+      "pronunciation": "der Kürbis"
+    },
+    {
+      "id": 455,
+      "category": "Food & Drink",
+      "german": "die Kartoffel",
+      "english": "potato",
+      "difficulty": 1,
+      "pronunciation": "die Kartoffel"
+    },
+    {
+      "id": 456,
+      "category": "Food & Drink",
+      "german": "der Erdapfel",
+      "english": "potato (Austria)",
+      "difficulty": 2,
+      "pronunciation": "der Erdapfel"
+    },
+    {
+      "id": 457,
+      "category": "Food & Drink",
+      "german": "der Reis",
+      "english": "rice",
+      "difficulty": 1,
+      "pronunciation": "der Reis"
+    },
+    {
+      "id": 458,
+      "category": "Food & Drink",
+      "german": "die Nudeln",
+      "english": "pasta",
+      "difficulty": 1,
+      "pronunciation": "die Nudeln"
+    },
+    {
+      "id": 459,
+      "category": "Food & Drink",
+      "german": "das Mehl",
+      "english": "flour",
+      "difficulty": 2,
+      "pronunciation": "das Mehl"
+    },
+    {
+      "id": 460,
+      "category": "Food & Drink",
+      "german": "der Zucker",
+      "english": "sugar",
+      "difficulty": 1,
+      "pronunciation": "der Zucker"
+    },
+    {
+      "id": 461,
+      "category": "Food & Drink",
+      "german": "das Salz",
+      "english": "salt",
+      "difficulty": 1,
+      "pronunciation": "das Salz"
+    },
+    {
+      "id": 462,
+      "category": "Food & Drink",
+      "german": "der Pfeffer",
+      "english": "pepper",
+      "difficulty": 2,
+      "pronunciation": "der Pfeffer"
+    },
+    {
+      "id": 463,
+      "category": "Food & Drink",
+      "german": "das Öl",
+      "english": "oil",
+      "difficulty": 2,
+      "pronunciation": "das Öl"
+    },
+    {
+      "id": 464,
+      "category": "Food & Drink",
+      "german": "der Essig",
+      "english": "vinegar",
+      "difficulty": 3,
+      "pronunciation": "der Essig"
+    },
+    {
+      "id": 465,
+      "category": "Food & Drink",
+      "german": "die Butter",
+      "english": "butter",
+      "difficulty": 1,
+      "pronunciation": "die Butter"
+    },
+    {
+      "id": 466,
+      "category": "Food & Drink",
+      "german": "die Milch",
+      "english": "milk",
+      "difficulty": 1,
+      "pronunciation": "die Milch"
+    },
+    {
+      "id": 467,
+      "category": "Food & Drink",
+      "german": "der Käse",
+      "english": "cheese",
+      "difficulty": 1,
+      "pronunciation": "der Käse"
+    },
+    {
+      "id": 468,
+      "category": "Food & Drink",
+      "german": "der Joghurt",
+      "english": "yogurt",
+      "difficulty": 2,
+      "pronunciation": "der Joghurt"
+    },
+    {
+      "id": 469,
+      "category": "Food & Drink",
+      "german": "der Topfen",
+      "english": "quark (Austria)",
+      "difficulty": 2,
+      "pronunciation": "der Topfen"
+    },
+    {
+      "id": 470,
+      "category": "Food & Drink",
+      "german": "der Obers",
+      "english": "cream (Austria)",
+      "difficulty": 3,
+      "pronunciation": "der Obers"
+    },
+    {
+      "id": 471,
+      "category": "Food & Drink",
+      "german": "das Ei",
+      "english": "egg",
+      "difficulty": 1,
+      "pronunciation": "das Ei"
+    },
+    {
+      "id": 472,
+      "category": "Food & Drink",
+      "german": "das Fleisch",
+      "english": "meat",
+      "difficulty": 1,
+      "pronunciation": "das Fleisch"
+    },
+    {
+      "id": 473,
+      "category": "Food & Drink",
+      "german": "das Hendl",
+      "english": "chicken (Austria)",
+      "difficulty": 2,
+      "pronunciation": "das Hendl"
+    },
+    {
+      "id": 474,
+      "category": "Food & Drink",
+      "german": "das Schnitzel",
+      "english": "schnitzel",
+      "difficulty": 1,
+      "pronunciation": "das Schnitzel"
+    },
+    {
+      "id": 475,
+      "category": "Food & Drink",
+      "german": "das Faschierte",
+      "english": "minced meat (Austria)",
+      "difficulty": 3,
+      "pronunciation": "das Faschierte"
+    },
+    {
+      "id": 476,
+      "category": "Food & Drink",
+      "german": "der Schinken",
+      "english": "ham",
+      "difficulty": 2,
+      "pronunciation": "der Schinken"
+    },
+    {
+      "id": 477,
+      "category": "Food & Drink",
+      "german": "die Wurst",
+      "english": "sausage",
+      "difficulty": 2,
+      "pronunciation": "die Wurst"
+    },
+    {
+      "id": 478,
+      "category": "Food & Drink",
+      "german": "das Würstel",
+      "english": "sausage (Austria)",
+      "difficulty": 2,
+      "pronunciation": "das Würstel"
+    },
+    {
+      "id": 479,
+      "category": "Food & Drink",
+      "german": "der Speck",
+      "english": "bacon",
+      "difficulty": 3,
+      "pronunciation": "der Speck"
+    },
+    {
+      "id": 480,
+      "category": "Food & Drink",
+      "german": "der Fisch",
+      "english": "fish",
+      "difficulty": 2,
+      "pronunciation": "der Fisch"
+    },
+    {
+      "id": 481,
+      "category": "Food & Drink",
+      "german": "das Wasser",
+      "english": "water",
+      "difficulty": 1,
+      "pronunciation": "das Wasser"
+    },
+    {
+      "id": 482,
+      "category": "Food & Drink",
+      "german": "der Kaffee",
+      "english": "coffee",
+      "difficulty": 1,
+      "pronunciation": "der Kaffee"
+    },
+    {
+      "id": 483,
+      "category": "Food & Drink",
+      "german": "der Tee",
+      "english": "tea",
+      "difficulty": 1,
+      "pronunciation": "der Tee"
+    },
+    {
+      "id": 484,
+      "category": "Food & Drink",
+      "german": "der Saft",
+      "english": "juice",
+      "difficulty": 2,
+      "pronunciation": "der Saft"
+    },
+    {
+      "id": 485,
+      "category": "Food & Drink",
+      "german": "das Bier",
+      "english": "beer",
+      "difficulty": 1,
+      "pronunciation": "das Bier"
+    },
+    {
+      "id": 486,
+      "category": "Food & Drink",
+      "german": "der Wein",
+      "english": "wine",
+      "difficulty": 1,
+      "pronunciation": "der Wein"
+    },
+    {
+      "id": 487,
+      "category": "Food & Drink",
+      "german": "die Limo",
+      "english": "lemonade (Austria)",
+      "difficulty": 2,
+      "pronunciation": "die Limo"
+    },
+    {
+      "id": 488,
+      "category": "Food & Drink",
+      "german": "der Kuchen",
+      "english": "cake",
+      "difficulty": 2,
+      "pronunciation": "der Kuchen"
+    },
+    {
+      "id": 489,
+      "category": "Food & Drink",
+      "german": "die Torte",
+      "english": "gateau, layer cake",
+      "difficulty": 3,
+      "pronunciation": "die Torte"
+    },
+    {
+      "id": 490,
+      "category": "Food & Drink",
+      "german": "die Schokolade",
+      "english": "chocolate",
+      "difficulty": 2,
+      "pronunciation": "die Schokolade"
+    },
+    {
+      "id": 491,
+      "category": "Food & Drink",
+      "german": "das Eis",
+      "english": "ice cream",
+      "difficulty": 1,
+      "pronunciation": "das Eis"
+    },
+    {
+      "id": 492,
+      "category": "Food & Drink",
+      "german": "der Keks",
+      "english": "biscuit",
+      "difficulty": 2,
+      "pronunciation": "der Keks"
+    },
+    {
+      "id": 493,
+      "category": "Food & Drink",
+      "german": "das Müsli",
+      "english": "muesli",
+      "difficulty": 3,
+      "pronunciation": "das Müsli"
+    },
+    {
+      "id": 494,
+      "category": "Food & Drink",
+      "german": "die Marmelade",
+      "english": "jam",
+      "difficulty": 3,
+      "pronunciation": "die Marmelade"
+    },
+    {
+      "id": 495,
+      "category": "Food & Drink",
+      "german": "der Honig",
+      "english": "honey",
+      "difficulty": 3,
+      "pronunciation": "der Honig"
+    },
+    {
+      "id": 496,
+      "category": "Food & Drink",
+      "german": "die Suppe",
+      "english": "soup",
+      "difficulty": 2,
+      "pronunciation": "die Suppe"
+    },
+    {
+      "id": 497,
+      "category": "Food & Drink",
+      "german": "das Frühstück",
+      "english": "breakfast",
+      "difficulty": 1,
+      "pronunciation": "das Frühstück"
+    },
+    {
+      "id": 498,
+      "category": "Food & Drink",
+      "german": "das Mittagessen",
+      "english": "lunch",
+      "difficulty": 1,
+      "pronunciation": "das Mittagessen"
+    },
+    {
+      "id": 499,
+      "category": "Food & Drink",
+      "german": "das Abendessen",
+      "english": "dinner",
+      "difficulty": 1,
+      "pronunciation": "das Abendessen"
+    },
+    {
+      "id": 500,
+      "category": "Food & Drink",
+      "german": "das Essen",
+      "english": "food, meal",
+      "difficulty": 1,
+      "pronunciation": "das Essen"
+    },
+    {
+      "id": 501,
+      "category": "Food & Drink",
+      "german": "der Hunger",
+      "english": "hunger",
+      "difficulty": 2,
+      "pronunciation": "der Hunger"
+    },
+    {
+      "id": 502,
+      "category": "Food & Drink",
+      "german": "der Durst",
+      "english": "thirst",
+      "difficulty": 2,
+      "pronunciation": "der Durst"
+    },
+    {
+      "id": 503,
+      "category": "Food & Drink",
+      "german": "die Speisekarte",
+      "english": "menu",
+      "difficulty": 2,
+      "pronunciation": "die Speisekarte"
+    },
+    {
+      "id": 504,
+      "category": "Food & Drink",
+      "german": "das Restaurant",
+      "english": "restaurant",
+      "difficulty": 1,
+      "pronunciation": "das Restaurant"
+    },
+    {
+      "id": 505,
+      "category": "Food & Drink",
+      "german": "die Rechnung",
+      "english": "bill",
+      "difficulty": 2,
+      "pronunciation": "die Rechnung"
+    },
+    {
+      "id": 506,
+      "category": "Food & Drink",
+      "german": "das Trinkgeld",
+      "english": "tip",
+      "difficulty": 2,
+      "pronunciation": "das Trinkgeld"
+    },
+    {
+      "id": 507,
+      "category": "Food & Drink",
+      "german": "der Teller",
+      "english": "plate",
+      "difficulty": 1,
+      "pronunciation": "der Teller"
+    },
+    {
+      "id": 508,
+      "category": "Food & Drink",
+      "german": "die Gabel",
+      "english": "fork",
+      "difficulty": 1,
+      "pronunciation": "die Gabel"
+    },
+    {
+      "id": 509,
+      "category": "Food & Drink",
+      "german": "das Messer",
+      "english": "knife",
+      "difficulty": 1,
+      "pronunciation": "das Messer"
+    },
+    {
+      "id": 510,
+      "category": "Food & Drink",
+      "german": "der Löffel",
+      "english": "spoon",
+      "difficulty": 1,
+      "pronunciation": "der Löffel"
+    },
+    {
+      "id": 511,
+      "category": "Food & Drink",
+      "german": "die Tasse",
+      "english": "cup",
+      "difficulty": 1,
+      "pronunciation": "die Tasse"
+    },
+    {
+      "id": 512,
+      "category": "Food & Drink",
+      "german": "das Glas",
+      "english": "glass",
+      "difficulty": 1,
+      "pronunciation": "das Glas"
+    },
+    {
+      "id": 513,
+      "category": "Food & Drink",
+      "german": "die Flasche",
+      "english": "bottle",
+      "difficulty": 1,
+      "pronunciation": "die Flasche"
+    },
+    {
+      "id": 514,
+      "category": "Food & Drink",
+      "german": "die Pfanne",
+      "english": "frying pan",
+      "difficulty": 2,
+      "pronunciation": "die Pfanne"
+    },
+    {
+      "id": 515,
+      "category": "Food & Drink",
+      "german": "der Topf",
+      "english": "pot",
+      "difficulty": 2,
+      "pronunciation": "der Topf"
+    },
+    {
+      "id": 516,
+      "category": "Food & Drink",
+      "german": "die Schüssel",
+      "english": "bowl",
+      "difficulty": 2,
+      "pronunciation": "die Schüssel"
+    },
+    {
+      "id": 517,
+      "category": "Food & Drink",
+      "german": "der Ofen",
+      "english": "oven",
+      "difficulty": 2,
+      "pronunciation": "der Ofen"
+    },
+    {
+      "id": 518,
+      "category": "Food & Drink",
+      "german": "der Kühlschrank",
+      "english": "fridge",
+      "difficulty": 2,
+      "pronunciation": "der Kühlschrank"
+    },
+    {
+      "id": 519,
+      "category": "Food & Drink",
+      "german": "der Herd",
+      "english": "stove",
+      "difficulty": 3,
+      "pronunciation": "der Herd"
+    },
+    {
+      "id": 520,
+      "category": "Food & Drink",
+      "german": "die Portion",
+      "english": "portion",
+      "difficulty": 3,
+      "pronunciation": "die Portion"
+    },
+    {
+      "id": 521,
+      "category": "Food & Drink",
+      "german": "der Snack",
+      "english": "snack",
+      "difficulty": 2,
+      "pronunciation": "der Snack"
+    },
+    {
+      "id": 522,
+      "category": "Food & Drink",
+      "german": "das Gewürz",
+      "english": "spice",
+      "difficulty": 3,
+      "pronunciation": "das Gewürz"
+    },
+    {
+      "id": 523,
+      "category": "Food & Drink",
+      "german": "die Soße",
+      "english": "sauce",
+      "difficulty": 3,
+      "pronunciation": "die Soße"
+    },
+    {
+      "id": 524,
+      "category": "Food & Drink",
+      "german": "die Pommes",
+      "english": "chips, fries",
+      "difficulty": 2,
+      "pronunciation": "die Pommes"
+    },
+    {
+      "id": 525,
+      "category": "Food & Drink",
+      "german": "die Pizza",
+      "english": "pizza",
+      "difficulty": 2,
+      "pronunciation": "die Pizza"
+    },
+    {
+      "id": 526,
+      "category": "Supermarket & Shopping",
+      "german": "der Supermarkt",
+      "english": "supermarket",
+      "difficulty": 1,
+      "pronunciation": "der Supermarkt"
+    },
+    {
+      "id": 527,
+      "category": "Supermarket & Shopping",
+      "german": "der Markt",
+      "english": "market",
+      "difficulty": 2,
+      "pronunciation": "der Markt"
+    },
+    {
+      "id": 528,
+      "category": "Supermarket & Shopping",
+      "german": "der Laden",
+      "english": "shop",
+      "difficulty": 2,
+      "pronunciation": "der Laden"
+    },
+    {
+      "id": 529,
+      "category": "Supermarket & Shopping",
+      "german": "das Geschäft",
+      "english": "shop, business",
+      "difficulty": 2,
+      "pronunciation": "das Geschäft"
+    },
+    {
+      "id": 530,
+      "category": "Supermarket & Shopping",
+      "german": "die Kasse",
+      "english": "checkout, till",
+      "difficulty": 1,
+      "pronunciation": "die Kasse"
+    },
+    {
+      "id": 531,
+      "category": "Supermarket & Shopping",
+      "german": "der Einkaufswagen",
+      "english": "shopping trolley",
+      "difficulty": 2,
+      "pronunciation": "der Einkaufswagen"
+    },
+    {
+      "id": 532,
+      "category": "Supermarket & Shopping",
+      "german": "die Tüte",
+      "english": "carrier bag",
+      "difficulty": 2,
+      "pronunciation": "die Tüte"
+    },
+    {
+      "id": 533,
+      "category": "Supermarket & Shopping",
+      "german": "das Sackerl",
+      "english": "plastic bag (Austria)",
+      "difficulty": 2,
+      "pronunciation": "das Sackerl"
+    },
+    {
+      "id": 534,
+      "category": "Supermarket & Shopping",
+      "german": "der Einkauf",
+      "english": "purchase, shopping",
+      "difficulty": 2,
+      "pronunciation": "der Einkauf"
+    },
+    {
+      "id": 535,
+      "category": "Supermarket & Shopping",
+      "german": "die Packung",
+      "english": "pack, packet",
+      "difficulty": 2,
+      "pronunciation": "die Packung"
+    },
+    {
+      "id": 536,
+      "category": "Supermarket & Shopping",
+      "german": "das Stück",
+      "english": "piece",
+      "difficulty": 1,
+      "pronunciation": "das Stück"
+    },
+    {
+      "id": 537,
+      "category": "Supermarket & Shopping",
+      "german": "das Angebot",
+      "english": "offer, deal",
+      "difficulty": 2,
+      "pronunciation": "das Angebot"
+    },
+    {
+      "id": 538,
+      "category": "Supermarket & Shopping",
+      "german": "der Preis",
+      "english": "price",
+      "difficulty": 1,
+      "pronunciation": "der Preis"
+    },
+    {
+      "id": 539,
+      "category": "Supermarket & Shopping",
+      "german": "der Rabatt",
+      "english": "discount",
+      "difficulty": 2,
+      "pronunciation": "der Rabatt"
+    },
+    {
+      "id": 540,
+      "category": "Supermarket & Shopping",
+      "german": "der Gutschein",
+      "english": "voucher",
+      "difficulty": 3,
+      "pronunciation": "der Gutschein"
+    },
+    {
+      "id": 541,
+      "category": "Supermarket & Shopping",
+      "german": "die Liste",
+      "english": "list",
+      "difficulty": 2,
+      "pronunciation": "die Liste"
+    },
+    {
+      "id": 542,
+      "category": "Supermarket & Shopping",
+      "german": "der Zettel",
+      "english": "note, slip",
+      "difficulty": 2,
+      "pronunciation": "der Zettel"
+    },
+    {
+      "id": 543,
+      "category": "Supermarket & Shopping",
+      "german": "der Bon",
+      "english": "receipt (Austria)",
+      "difficulty": 3,
+      "pronunciation": "der Bon"
+    },
+    {
+      "id": 544,
+      "category": "Supermarket & Shopping",
+      "german": "das Geld",
+      "english": "money",
+      "difficulty": 1,
+      "pronunciation": "das Geld"
+    },
+    {
+      "id": 545,
+      "category": "Supermarket & Shopping",
+      "german": "die Münze",
+      "english": "coin",
+      "difficulty": 2,
+      "pronunciation": "die Münze"
+    },
+    {
+      "id": 546,
+      "category": "Supermarket & Shopping",
+      "german": "der Schein",
+      "english": "banknote",
+      "difficulty": 3,
+      "pronunciation": "der Schein"
+    },
+    {
+      "id": 547,
+      "category": "Supermarket & Shopping",
+      "german": "das Konto",
+      "english": "bank account",
+      "difficulty": 2,
+      "pronunciation": "das Konto"
+    },
+    {
+      "id": 548,
+      "category": "Supermarket & Shopping",
+      "german": "die Bank",
+      "english": "bank",
+      "difficulty": 2,
+      "pronunciation": "die Bank"
+    },
+    {
+      "id": 549,
+      "category": "Supermarket & Shopping",
+      "german": "der Euro",
+      "english": "euro",
+      "difficulty": 1,
+      "pronunciation": "der Euro"
+    },
+    {
+      "id": 550,
+      "category": "Supermarket & Shopping",
+      "german": "der Geldautomat",
+      "english": "cash machine",
+      "difficulty": 2,
+      "pronunciation": "der Geldautomat"
+    },
+    {
+      "id": 551,
+      "category": "Supermarket & Shopping",
+      "german": "die Karte",
+      "english": "card",
+      "difficulty": 1,
+      "pronunciation": "die Karte"
+    },
+    {
+      "id": 552,
+      "category": "Supermarket & Shopping",
+      "german": "die Kreditkarte",
+      "english": "credit card",
+      "difficulty": 2,
+      "pronunciation": "die Kreditkarte"
+    },
+    {
+      "id": 553,
+      "category": "Supermarket & Shopping",
+      "german": "das Wechselgeld",
+      "english": "change (money)",
+      "difficulty": 3,
+      "pronunciation": "das Wechselgeld"
+    },
+    {
+      "id": 554,
+      "category": "Supermarket & Shopping",
+      "german": "die Größe",
+      "english": "size",
+      "difficulty": 2,
+      "pronunciation": "die Größe"
+    },
+    {
+      "id": 555,
+      "category": "Supermarket & Shopping",
+      "german": "die Farbe",
+      "english": "colour",
+      "difficulty": 2,
+      "pronunciation": "die Farbe"
+    },
+    {
+      "id": 556,
+      "category": "Supermarket & Shopping",
+      "german": "der Verkauf",
+      "english": "sale",
+      "difficulty": 3,
+      "pronunciation": "der Verkauf"
+    },
+    {
+      "id": 557,
+      "category": "Supermarket & Shopping",
+      "german": "die Ware",
+      "english": "goods",
+      "difficulty": 3,
+      "pronunciation": "die Ware"
+    },
+    {
+      "id": 558,
+      "category": "Supermarket & Shopping",
+      "german": "die Kosten",
+      "english": "costs",
+      "difficulty": 3,
+      "pronunciation": "die Kosten"
+    },
+    {
+      "id": 559,
+      "category": "Supermarket & Shopping",
+      "german": "die Miete",
+      "english": "rent",
+      "difficulty": 2,
+      "pronunciation": "die Miete"
+    },
+    {
+      "id": 560,
+      "category": "Supermarket & Shopping",
+      "german": "die Steuer",
+      "english": "tax",
+      "difficulty": 3,
+      "pronunciation": "die Steuer"
+    },
+    {
+      "id": 561,
+      "category": "Supermarket & Shopping",
+      "german": "das Pfand",
+      "english": "deposit",
+      "difficulty": 3,
+      "pronunciation": "das Pfand"
+    },
+    {
+      "id": 562,
+      "category": "Supermarket & Shopping",
+      "german": "die Tasche",
+      "english": "bag",
+      "difficulty": 2,
+      "pronunciation": "die Tasche"
+    },
+    {
+      "id": 563,
+      "category": "Supermarket & Shopping",
+      "german": "der Rucksack",
+      "english": "backpack",
+      "difficulty": 2,
+      "pronunciation": "der Rucksack"
+    },
+    {
+      "id": 564,
+      "category": "Supermarket & Shopping",
+      "german": "der Koffer",
+      "english": "suitcase",
+      "difficulty": 2,
+      "pronunciation": "der Koffer"
+    },
+    {
+      "id": 565,
+      "category": "Supermarket & Shopping",
+      "german": "die Waage",
+      "english": "scales",
+      "difficulty": 3,
+      "pronunciation": "die Waage"
+    },
+    {
+      "id": 566,
+      "category": "Supermarket & Shopping",
+      "german": "das Paket",
+      "english": "parcel",
+      "difficulty": 2,
+      "pronunciation": "das Paket"
+    },
+    {
+      "id": 567,
+      "category": "Supermarket & Shopping",
+      "german": "die Verpackung",
+      "english": "packaging",
+      "difficulty": 3,
+      "pronunciation": "die Verpackung"
+    },
+    {
+      "id": 568,
+      "category": "Home",
+      "german": "das Haus",
+      "english": "house",
+      "difficulty": 1,
+      "pronunciation": "das Haus"
+    },
+    {
+      "id": 569,
+      "category": "Home",
+      "german": "die Wohnung",
+      "english": "flat, apartment",
+      "difficulty": 1,
+      "pronunciation": "die Wohnung"
+    },
+    {
+      "id": 570,
+      "category": "Home",
+      "german": "das Zimmer",
+      "english": "room",
+      "difficulty": 1,
+      "pronunciation": "das Zimmer"
+    },
+    {
+      "id": 571,
+      "category": "Home",
+      "german": "die Küche",
+      "english": "kitchen",
+      "difficulty": 1,
+      "pronunciation": "die Küche"
+    },
+    {
+      "id": 572,
+      "category": "Home",
+      "german": "das Badezimmer",
+      "english": "bathroom",
+      "difficulty": 1,
+      "pronunciation": "das Badezimmer"
+    },
+    {
+      "id": 573,
+      "category": "Home",
+      "german": "das Bad",
+      "english": "bathroom (Austria)",
+      "difficulty": 2,
+      "pronunciation": "das Bad"
+    },
+    {
+      "id": 574,
+      "category": "Home",
+      "german": "die Toilette",
+      "english": "toilet",
+      "difficulty": 1,
+      "pronunciation": "die Toilette"
+    },
+    {
+      "id": 575,
+      "category": "Home",
+      "german": "das WC",
+      "english": "toilet (Austria)",
+      "difficulty": 2,
+      "pronunciation": "das WC"
+    },
+    {
+      "id": 576,
+      "category": "Home",
+      "german": "das Wohnzimmer",
+      "english": "living room",
+      "difficulty": 1,
+      "pronunciation": "das Wohnzimmer"
+    },
+    {
+      "id": 577,
+      "category": "Home",
+      "german": "das Schlafzimmer",
+      "english": "bedroom",
+      "difficulty": 1,
+      "pronunciation": "das Schlafzimmer"
+    },
+    {
+      "id": 578,
+      "category": "Home",
+      "german": "der Garten",
+      "english": "garden",
+      "difficulty": 1,
+      "pronunciation": "der Garten"
+    },
+    {
+      "id": 579,
+      "category": "Home",
+      "german": "der Balkon",
+      "english": "balcony",
+      "difficulty": 2,
+      "pronunciation": "der Balkon"
+    },
+    {
+      "id": 580,
+      "category": "Home",
+      "german": "die Tür",
+      "english": "door",
+      "difficulty": 1,
+      "pronunciation": "die Tür"
+    },
+    {
+      "id": 581,
+      "category": "Home",
+      "german": "das Fenster",
+      "english": "window",
+      "difficulty": 1,
+      "pronunciation": "das Fenster"
+    },
+    {
+      "id": 582,
+      "category": "Home",
+      "german": "die Treppe",
+      "english": "stairs",
+      "difficulty": 2,
+      "pronunciation": "die Treppe"
+    },
+    {
+      "id": 583,
+      "category": "Home",
+      "german": "der Boden",
+      "english": "floor",
+      "difficulty": 2,
+      "pronunciation": "der Boden"
+    },
+    {
+      "id": 584,
+      "category": "Home",
+      "german": "die Wand",
+      "english": "wall",
+      "difficulty": 2,
+      "pronunciation": "die Wand"
+    },
+    {
+      "id": 585,
+      "category": "Home",
+      "german": "das Dach",
+      "english": "roof",
+      "difficulty": 2,
+      "pronunciation": "das Dach"
+    },
+    {
+      "id": 586,
+      "category": "Home",
+      "german": "der Schlüssel",
+      "english": "key",
+      "difficulty": 1,
+      "pronunciation": "der Schlüssel"
+    },
+    {
+      "id": 587,
+      "category": "Home",
+      "german": "das Bett",
+      "english": "bed",
+      "difficulty": 1,
+      "pronunciation": "das Bett"
+    },
+    {
+      "id": 588,
+      "category": "Home",
+      "german": "der Tisch",
+      "english": "table",
+      "difficulty": 1,
+      "pronunciation": "der Tisch"
+    },
+    {
+      "id": 589,
+      "category": "Home",
+      "german": "der Stuhl",
+      "english": "chair",
+      "difficulty": 1,
+      "pronunciation": "der Stuhl"
+    },
+    {
+      "id": 590,
+      "category": "Home",
+      "german": "die Couch",
+      "english": "sofa (Austria)",
+      "difficulty": 2,
+      "pronunciation": "die Couch"
+    },
+    {
+      "id": 591,
+      "category": "Home",
+      "german": "der Schrank",
+      "english": "cupboard, wardrobe",
+      "difficulty": 2,
+      "pronunciation": "der Schrank"
+    },
+    {
+      "id": 592,
+      "category": "Home",
+      "german": "das Regal",
+      "english": "shelf",
+      "difficulty": 2,
+      "pronunciation": "das Regal"
+    },
+    {
+      "id": 593,
+      "category": "Home",
+      "german": "die Lampe",
+      "english": "lamp",
+      "difficulty": 1,
+      "pronunciation": "die Lampe"
+    },
+    {
+      "id": 594,
+      "category": "Home",
+      "german": "der Spiegel",
+      "english": "mirror",
+      "difficulty": 2,
+      "pronunciation": "der Spiegel"
+    },
+    {
+      "id": 595,
+      "category": "Home",
+      "german": "der Teppich",
+      "english": "carpet",
+      "difficulty": 2,
+      "pronunciation": "der Teppich"
+    },
+    {
+      "id": 596,
+      "category": "Home",
+      "german": "das Kissen",
+      "english": "cushion",
+      "difficulty": 2,
+      "pronunciation": "das Kissen"
+    },
+    {
+      "id": 597,
+      "category": "Home",
+      "german": "die Decke",
+      "english": "blanket, ceiling",
+      "difficulty": 2,
+      "pronunciation": "die Decke"
+    },
+    {
+      "id": 598,
+      "category": "Home",
+      "german": "der Fernseher",
+      "english": "TV",
+      "difficulty": 2,
+      "pronunciation": "der Fernseher"
+    },
+    {
+      "id": 599,
+      "category": "Home",
+      "german": "das Radio",
+      "english": "radio",
+      "difficulty": 2,
+      "pronunciation": "das Radio"
+    },
+    {
+      "id": 600,
+      "category": "Home",
+      "german": "die Waschmaschine",
+      "english": "washing machine",
+      "difficulty": 2,
+      "pronunciation": "die Waschmaschine"
+    },
+    {
+      "id": 601,
+      "category": "Home",
+      "german": "der Staubsauger",
+      "english": "vacuum cleaner",
+      "difficulty": 3,
+      "pronunciation": "der Staubsauger"
+    },
+    {
+      "id": 602,
+      "category": "Home",
+      "german": "der Besen",
+      "english": "broom",
+      "difficulty": 3,
+      "pronunciation": "der Besen"
+    },
+    {
+      "id": 603,
+      "category": "Home",
+      "german": "der Müll",
+      "english": "rubbish",
+      "difficulty": 2,
+      "pronunciation": "der Müll"
+    },
+    {
+      "id": 604,
+      "category": "Home",
+      "german": "die Mülltonne",
+      "english": "bin",
+      "difficulty": 3,
+      "pronunciation": "die Mülltonne"
+    },
+    {
+      "id": 605,
+      "category": "Home",
+      "german": "die Seife",
+      "english": "soap",
+      "difficulty": 2,
+      "pronunciation": "die Seife"
+    },
+    {
+      "id": 606,
+      "category": "Home",
+      "german": "die Dusche",
+      "english": "shower",
+      "difficulty": 2,
+      "pronunciation": "die Dusche"
+    },
+    {
+      "id": 607,
+      "category": "Home",
+      "german": "die Badewanne",
+      "english": "bath",
+      "difficulty": 3,
+      "pronunciation": "die Badewanne"
+    },
+    {
+      "id": 608,
+      "category": "Home",
+      "german": "das Handtuch",
+      "english": "towel",
+      "difficulty": 2,
+      "pronunciation": "das Handtuch"
+    },
+    {
+      "id": 609,
+      "category": "Home",
+      "german": "das Toilettenpapier",
+      "english": "toilet paper",
+      "difficulty": 2,
+      "pronunciation": "das Toilettenpapier"
+    },
+    {
+      "id": 610,
+      "category": "Home",
+      "german": "die Heizung",
+      "english": "heating",
+      "difficulty": 3,
+      "pronunciation": "die Heizung"
+    },
+    {
+      "id": 611,
+      "category": "Home",
+      "german": "der Strom",
+      "english": "electricity",
+      "difficulty": 3,
+      "pronunciation": "der Strom"
+    },
+    {
+      "id": 612,
+      "category": "Home",
+      "german": "die Steckdose",
+      "english": "power socket",
+      "difficulty": 3,
+      "pronunciation": "die Steckdose"
+    },
+    {
+      "id": 613,
+      "category": "Home",
+      "german": "die Glühbirne",
+      "english": "light bulb",
+      "difficulty": 3,
+      "pronunciation": "die Glühbirne"
+    },
+    {
+      "id": 614,
+      "category": "Home",
+      "german": "das Licht",
+      "english": "light",
+      "difficulty": 2,
+      "pronunciation": "das Licht"
+    },
+    {
+      "id": 615,
+      "category": "Home",
+      "german": "der Schalter",
+      "english": "switch",
+      "difficulty": 3,
+      "pronunciation": "der Schalter"
+    },
+    {
+      "id": 616,
+      "category": "Home",
+      "german": "die Garage",
+      "english": "garage",
+      "difficulty": 2,
+      "pronunciation": "die Garage"
+    },
+    {
+      "id": 617,
+      "category": "Home",
+      "german": "der Keller",
+      "english": "cellar, basement",
+      "difficulty": 3,
+      "pronunciation": "der Keller"
+    },
+    {
+      "id": 618,
+      "category": "Home",
+      "german": "der Briefkasten",
+      "english": "letterbox",
+      "difficulty": 3,
+      "pronunciation": "der Briefkasten"
+    },
+    {
+      "id": 619,
+      "category": "Home",
+      "german": "das Kinderzimmer",
+      "english": "child's room",
+      "difficulty": 3,
+      "pronunciation": "das Kinderzimmer"
+    },
+    {
+      "id": 620,
+      "category": "Home",
+      "german": "die Klingel",
+      "english": "doorbell",
+      "difficulty": 3,
+      "pronunciation": "die Klingel"
+    },
+    {
+      "id": 621,
+      "category": "Clothes",
+      "german": "die Kleidung",
+      "english": "clothing",
+      "difficulty": 2,
+      "pronunciation": "die Kleidung"
+    },
+    {
+      "id": 622,
+      "category": "Clothes",
+      "german": "das Hemd",
+      "english": "shirt",
+      "difficulty": 2,
+      "pronunciation": "das Hemd"
+    },
+    {
+      "id": 623,
+      "category": "Clothes",
+      "german": "die Hose",
+      "english": "trousers",
+      "difficulty": 1,
+      "pronunciation": "die Hose"
+    },
+    {
+      "id": 624,
+      "category": "Clothes",
+      "german": "der Rock",
+      "english": "skirt",
+      "difficulty": 2,
+      "pronunciation": "der Rock"
+    },
+    {
+      "id": 625,
+      "category": "Clothes",
+      "german": "das Kleid",
+      "english": "dress",
+      "difficulty": 1,
+      "pronunciation": "das Kleid"
+    },
+    {
+      "id": 626,
+      "category": "Clothes",
+      "german": "der Pulli",
+      "english": "jumper (Austria)",
+      "difficulty": 2,
+      "pronunciation": "der Pulli"
+    },
+    {
+      "id": 627,
+      "category": "Clothes",
+      "german": "die Jacke",
+      "english": "jacket",
+      "difficulty": 1,
+      "pronunciation": "die Jacke"
+    },
+    {
+      "id": 628,
+      "category": "Clothes",
+      "german": "der Mantel",
+      "english": "coat",
+      "difficulty": 2,
+      "pronunciation": "der Mantel"
+    },
+    {
+      "id": 629,
+      "category": "Clothes",
+      "german": "die Socke",
+      "english": "sock",
+      "difficulty": 2,
+      "pronunciation": "die Socke"
+    },
+    {
+      "id": 630,
+      "category": "Clothes",
+      "german": "der Schuh",
+      "english": "shoe",
+      "difficulty": 1,
+      "pronunciation": "der Schuh"
+    },
+    {
+      "id": 631,
+      "category": "Clothes",
+      "german": "der Hut",
+      "english": "hat",
+      "difficulty": 2,
+      "pronunciation": "der Hut"
+    },
+    {
+      "id": 632,
+      "category": "Clothes",
+      "german": "die Mütze",
+      "english": "cap, beanie",
+      "difficulty": 3,
+      "pronunciation": "die Mütze"
+    },
+    {
+      "id": 633,
+      "category": "Clothes",
+      "german": "der Schal",
+      "english": "scarf",
+      "difficulty": 2,
+      "pronunciation": "der Schal"
+    },
+    {
+      "id": 634,
+      "category": "Clothes",
+      "german": "der Handschuh",
+      "english": "glove",
+      "difficulty": 2,
+      "pronunciation": "der Handschuh"
+    },
+    {
+      "id": 635,
+      "category": "Clothes",
+      "german": "die Unterwäsche",
+      "english": "underwear",
+      "difficulty": 2,
+      "pronunciation": "die Unterwäsche"
+    },
+    {
+      "id": 636,
+      "category": "Clothes",
+      "german": "das T-Shirt",
+      "english": "t-shirt",
+      "difficulty": 1,
+      "pronunciation": "das T-Shirt"
+    },
+    {
+      "id": 637,
+      "category": "Clothes",
+      "german": "die Bluse",
+      "english": "blouse",
+      "difficulty": 2,
+      "pronunciation": "die Bluse"
+    },
+    {
+      "id": 638,
+      "category": "Clothes",
+      "german": "die Krawatte",
+      "english": "tie",
+      "difficulty": 3,
+      "pronunciation": "die Krawatte"
+    },
+    {
+      "id": 639,
+      "category": "Clothes",
+      "german": "die Strumpfhose",
+      "english": "tights",
+      "difficulty": 3,
+      "pronunciation": "die Strumpfhose"
+    },
+    {
+      "id": 640,
+      "category": "Clothes",
+      "german": "der Gürtel",
+      "english": "belt",
+      "difficulty": 2,
+      "pronunciation": "der Gürtel"
+    },
+    {
+      "id": 641,
+      "category": "Clothes",
+      "german": "der Anzug",
+      "english": "suit",
+      "difficulty": 2,
+      "pronunciation": "der Anzug"
+    },
+    {
+      "id": 642,
+      "category": "Clothes",
+      "german": "die Regenjacke",
+      "english": "raincoat",
+      "difficulty": 3,
+      "pronunciation": "die Regenjacke"
+    },
+    {
+      "id": 643,
+      "category": "Clothes",
+      "german": "die Badehose",
+      "english": "swimming trunks",
+      "difficulty": 3,
+      "pronunciation": "die Badehose"
+    },
+    {
+      "id": 644,
+      "category": "Clothes",
+      "german": "der Schlafanzug",
+      "english": "pyjamas",
+      "difficulty": 3,
+      "pronunciation": "der Schlafanzug"
+    },
+    {
+      "id": 645,
+      "category": "Clothes",
+      "german": "der Bikini",
+      "english": "bikini",
+      "difficulty": 3,
+      "pronunciation": "der Bikini"
+    },
+    {
+      "id": 646,
+      "category": "Clothes",
+      "german": "die Sandale",
+      "english": "sandal",
+      "difficulty": 3,
+      "pronunciation": "die Sandale"
+    },
+    {
+      "id": 647,
+      "category": "Clothes",
+      "german": "der Stiefel",
+      "english": "boot",
+      "difficulty": 3,
+      "pronunciation": "der Stiefel"
+    },
+    {
+      "id": 648,
+      "category": "Clothes",
+      "german": "der Ring",
+      "english": "ring",
+      "difficulty": 3,
+      "pronunciation": "der Ring"
+    },
+    {
+      "id": 649,
+      "category": "Clothes",
+      "german": "die Kette",
+      "english": "necklace",
+      "difficulty": 3,
+      "pronunciation": "die Kette"
+    },
+    {
+      "id": 650,
+      "category": "Transport & Travel",
+      "german": "der Bus",
+      "english": "bus",
+      "difficulty": 1,
+      "pronunciation": "der Bus"
+    },
+    {
+      "id": 651,
+      "category": "Transport & Travel",
+      "german": "die Straßenbahn",
+      "english": "tram",
+      "difficulty": 2,
+      "pronunciation": "die Straßenbahn"
+    },
+    {
+      "id": 652,
+      "category": "Transport & Travel",
+      "german": "die Bahn",
+      "english": "railway, train (Austria)",
+      "difficulty": 2,
+      "pronunciation": "die Bahn"
+    },
+    {
+      "id": 653,
+      "category": "Transport & Travel",
+      "german": "der Zug",
+      "english": "train",
+      "difficulty": 1,
+      "pronunciation": "der Zug"
+    },
+    {
+      "id": 654,
+      "category": "Transport & Travel",
+      "german": "die U-Bahn",
+      "english": "underground",
+      "difficulty": 2,
+      "pronunciation": "die U-Bahn"
+    },
+    {
+      "id": 655,
+      "category": "Transport & Travel",
+      "german": "der Bahnhof",
+      "english": "train station",
+      "difficulty": 1,
+      "pronunciation": "der Bahnhof"
+    },
+    {
+      "id": 656,
+      "category": "Transport & Travel",
+      "german": "die Haltestelle",
+      "english": "stop (bus, tram)",
+      "difficulty": 2,
+      "pronunciation": "die Haltestelle"
+    },
+    {
+      "id": 657,
+      "category": "Transport & Travel",
+      "german": "der Fahrplan",
+      "english": "timetable",
+      "difficulty": 2,
+      "pronunciation": "der Fahrplan"
+    },
+    {
+      "id": 658,
+      "category": "Transport & Travel",
+      "german": "die Fahrkarte",
+      "english": "ticket",
+      "difficulty": 2,
+      "pronunciation": "die Fahrkarte"
+    },
+    {
+      "id": 659,
+      "category": "Transport & Travel",
+      "german": "das Ticket",
+      "english": "ticket",
+      "difficulty": 1,
+      "pronunciation": "das Ticket"
+    },
+    {
+      "id": 660,
+      "category": "Transport & Travel",
+      "german": "der Flughafen",
+      "english": "airport",
+      "difficulty": 2,
+      "pronunciation": "der Flughafen"
+    },
+    {
+      "id": 661,
+      "category": "Transport & Travel",
+      "german": "das Flugzeug",
+      "english": "aeroplane",
+      "difficulty": 2,
+      "pronunciation": "das Flugzeug"
+    },
+    {
+      "id": 662,
+      "category": "Transport & Travel",
+      "german": "der Flug",
+      "english": "flight",
+      "difficulty": 2,
+      "pronunciation": "der Flug"
+    },
+    {
+      "id": 663,
+      "category": "Transport & Travel",
+      "german": "das Auto",
+      "english": "car",
+      "difficulty": 1,
+      "pronunciation": "das Auto"
+    },
+    {
+      "id": 664,
+      "category": "Transport & Travel",
+      "german": "der Verkehr",
+      "english": "traffic",
+      "difficulty": 2,
+      "pronunciation": "der Verkehr"
+    },
+    {
+      "id": 665,
+      "category": "Transport & Travel",
+      "german": "die Straße",
+      "english": "street",
+      "difficulty": 1,
+      "pronunciation": "die Straße"
+    },
+    {
+      "id": 666,
+      "category": "Transport & Travel",
+      "german": "die Autobahn",
+      "english": "motorway",
+      "difficulty": 2,
+      "pronunciation": "die Autobahn"
+    },
+    {
+      "id": 667,
+      "category": "Transport & Travel",
+      "german": "die Kreuzung",
+      "english": "crossroads",
+      "difficulty": 2,
+      "pronunciation": "die Kreuzung"
+    },
+    {
+      "id": 668,
+      "category": "Transport & Travel",
+      "german": "die Ampel",
+      "english": "traffic light",
+      "difficulty": 2,
+      "pronunciation": "die Ampel"
+    },
+    {
+      "id": 669,
+      "category": "Transport & Travel",
+      "german": "der Parkplatz",
+      "english": "parking space",
+      "difficulty": 2,
+      "pronunciation": "der Parkplatz"
+    },
+    {
+      "id": 670,
+      "category": "Transport & Travel",
+      "german": "die Tankstelle",
+      "english": "petrol station",
+      "difficulty": 2,
+      "pronunciation": "die Tankstelle"
+    },
+    {
+      "id": 671,
+      "category": "Transport & Travel",
+      "german": "das Benzin",
+      "english": "petrol",
+      "difficulty": 2,
+      "pronunciation": "das Benzin"
+    },
+    {
+      "id": 672,
+      "category": "Transport & Travel",
+      "german": "der Führerschein",
+      "english": "driving licence",
+      "difficulty": 2,
+      "pronunciation": "der Führerschein"
+    },
+    {
+      "id": 673,
+      "category": "Transport & Travel",
+      "german": "das Fahrrad",
+      "english": "bicycle",
+      "difficulty": 1,
+      "pronunciation": "das Fahrrad"
+    },
+    {
+      "id": 674,
+      "category": "Transport & Travel",
+      "german": "der Helm",
+      "english": "helmet",
+      "difficulty": 2,
+      "pronunciation": "der Helm"
+    },
+    {
+      "id": 675,
+      "category": "Transport & Travel",
+      "german": "der Weg",
+      "english": "way, path",
+      "difficulty": 1,
+      "pronunciation": "der Weg"
+    },
+    {
+      "id": 676,
+      "category": "Transport & Travel",
+      "german": "die Richtung",
+      "english": "direction",
+      "difficulty": 2,
+      "pronunciation": "die Richtung"
+    },
+    {
+      "id": 677,
+      "category": "Transport & Travel",
+      "german": "die Brücke",
+      "english": "bridge",
+      "difficulty": 2,
+      "pronunciation": "die Brücke"
+    },
+    {
+      "id": 678,
+      "category": "Transport & Travel",
+      "german": "der Tunnel",
+      "english": "tunnel",
+      "difficulty": 2,
+      "pronunciation": "der Tunnel"
+    },
+    {
+      "id": 679,
+      "category": "Transport & Travel",
+      "german": "der Hafen",
+      "english": "harbour, port",
+      "difficulty": 3,
+      "pronunciation": "der Hafen"
+    },
+    {
+      "id": 680,
+      "category": "Transport & Travel",
+      "german": "das Schiff",
+      "english": "ship",
+      "difficulty": 2,
+      "pronunciation": "das Schiff"
+    },
+    {
+      "id": 681,
+      "category": "Transport & Travel",
+      "german": "die Reise",
+      "english": "trip",
+      "difficulty": 2,
+      "pronunciation": "die Reise"
+    },
+    {
+      "id": 682,
+      "category": "Transport & Travel",
+      "german": "der Urlaub",
+      "english": "holiday",
+      "difficulty": 1,
+      "pronunciation": "der Urlaub"
+    },
+    {
+      "id": 683,
+      "category": "Transport & Travel",
+      "german": "das Hotel",
+      "english": "hotel",
+      "difficulty": 1,
+      "pronunciation": "das Hotel"
+    },
+    {
+      "id": 684,
+      "category": "Transport & Travel",
+      "german": "die Unterkunft",
+      "english": "accommodation",
+      "difficulty": 3,
+      "pronunciation": "die Unterkunft"
+    },
+    {
+      "id": 685,
+      "category": "Transport & Travel",
+      "german": "der Reisepass",
+      "english": "passport",
+      "difficulty": 2,
+      "pronunciation": "der Reisepass"
+    },
+    {
+      "id": 686,
+      "category": "Transport & Travel",
+      "german": "der Ausweis",
+      "english": "ID card",
+      "difficulty": 2,
+      "pronunciation": "der Ausweis"
+    },
+    {
+      "id": 687,
+      "category": "Transport & Travel",
+      "german": "das Gepäck",
+      "english": "luggage",
+      "difficulty": 2,
+      "pronunciation": "das Gepäck"
+    },
+    {
+      "id": 688,
+      "category": "Transport & Travel",
+      "german": "die Abfahrt",
+      "english": "departure",
+      "difficulty": 2,
+      "pronunciation": "die Abfahrt"
+    },
+    {
+      "id": 689,
+      "category": "Transport & Travel",
+      "german": "die Ankunft",
+      "english": "arrival",
+      "difficulty": 2,
+      "pronunciation": "die Ankunft"
+    },
+    {
+      "id": 690,
+      "category": "Transport & Travel",
+      "german": "die Verspätung",
+      "english": "delay",
+      "difficulty": 2,
+      "pronunciation": "die Verspätung"
+    },
+    {
+      "id": 691,
+      "category": "Transport & Travel",
+      "german": "das Taxi",
+      "english": "taxi",
+      "difficulty": 1,
+      "pronunciation": "das Taxi"
+    },
+    {
+      "id": 692,
+      "category": "Transport & Travel",
+      "german": "die Verbindung",
+      "english": "connection",
+      "difficulty": 3,
+      "pronunciation": "die Verbindung"
+    },
+    {
+      "id": 693,
+      "category": "Transport & Travel",
+      "german": "der Sitzplatz",
+      "english": "seat",
+      "difficulty": 3,
+      "pronunciation": "der Sitzplatz"
+    },
+    {
+      "id": 694,
+      "category": "Transport & Travel",
+      "german": "die Stadt",
+      "english": "city",
+      "difficulty": 1,
+      "pronunciation": "die Stadt"
+    },
+    {
+      "id": 695,
+      "category": "Transport & Travel",
+      "german": "das Land",
+      "english": "country",
+      "difficulty": 1,
+      "pronunciation": "das Land"
+    },
+    {
+      "id": 696,
+      "category": "Transport & Travel",
+      "german": "der Ort",
+      "english": "place",
+      "difficulty": 2,
+      "pronunciation": "der Ort"
+    },
+    {
+      "id": 697,
+      "category": "Transport & Travel",
+      "german": "die Ecke",
+      "english": "corner",
+      "difficulty": 2,
+      "pronunciation": "die Ecke"
+    },
+    {
+      "id": 698,
+      "category": "Transport & Travel",
+      "german": "der Park",
+      "english": "park",
+      "difficulty": 2,
+      "pronunciation": "der Park"
+    },
+    {
+      "id": 699,
+      "category": "Transport & Travel",
+      "german": "der Platz",
+      "english": "square",
+      "difficulty": 2,
+      "pronunciation": "der Platz"
+    },
+    {
+      "id": 700,
+      "category": "Transport & Travel",
+      "german": "die Grenze",
+      "english": "border",
+      "difficulty": 2,
+      "pronunciation": "die Grenze"
+    },
+    {
+      "id": 701,
+      "category": "Transport & Travel",
+      "german": "das Museum",
+      "english": "museum",
+      "difficulty": 2,
+      "pronunciation": "das Museum"
+    },
+    {
+      "id": 702,
+      "category": "Transport & Travel",
+      "german": "die Kirche",
+      "english": "church",
+      "difficulty": 2,
+      "pronunciation": "die Kirche"
+    },
+    {
+      "id": 703,
+      "category": "Transport & Travel",
+      "german": "das Schloss",
+      "english": "castle",
+      "difficulty": 2,
+      "pronunciation": "das Schloss"
+    },
+    {
+      "id": 704,
+      "category": "Transport & Travel",
+      "german": "der Eingang",
+      "english": "entrance",
+      "difficulty": 2,
+      "pronunciation": "der Eingang"
+    },
+    {
+      "id": 705,
+      "category": "Transport & Travel",
+      "german": "der Ausgang",
+      "english": "exit",
+      "difficulty": 2,
+      "pronunciation": "der Ausgang"
+    },
+    {
+      "id": 706,
+      "category": "Transport & Travel",
+      "german": "die Rolltreppe",
+      "english": "escalator",
+      "difficulty": 3,
+      "pronunciation": "die Rolltreppe"
+    },
+    {
+      "id": 707,
+      "category": "Transport & Travel",
+      "german": "der Aufzug",
+      "english": "lift",
+      "difficulty": 2,
+      "pronunciation": "der Aufzug"
+    },
+    {
+      "id": 708,
+      "category": "Transport & Travel",
+      "german": "der Stau",
+      "english": "traffic jam",
+      "difficulty": 3,
+      "pronunciation": "der Stau"
+    },
+    {
+      "id": 709,
+      "category": "Office & Work",
+      "german": "die Arbeit",
+      "english": "work",
+      "difficulty": 1,
+      "pronunciation": "die Arbeit"
+    },
+    {
+      "id": 710,
+      "category": "Office & Work",
+      "german": "der Job",
+      "english": "job",
+      "difficulty": 2,
+      "pronunciation": "der Job"
+    },
+    {
+      "id": 711,
+      "category": "Office & Work",
+      "german": "die Firma",
+      "english": "company",
+      "difficulty": 2,
+      "pronunciation": "die Firma"
+    },
+    {
+      "id": 712,
+      "category": "Office & Work",
+      "german": "das Büro",
+      "english": "office",
+      "difficulty": 1,
+      "pronunciation": "das Büro"
+    },
+    {
+      "id": 713,
+      "category": "Office & Work",
+      "german": "der Schreibtisch",
+      "english": "desk",
+      "difficulty": 2,
+      "pronunciation": "der Schreibtisch"
+    },
+    {
+      "id": 714,
+      "category": "Office & Work",
+      "german": "der Computer",
+      "english": "computer",
+      "difficulty": 1,
+      "pronunciation": "der Computer"
+    },
+    {
+      "id": 715,
+      "category": "Office & Work",
+      "german": "der Laptop",
+      "english": "laptop",
+      "difficulty": 2,
+      "pronunciation": "der Laptop"
+    },
+    {
+      "id": 716,
+      "category": "Office & Work",
+      "german": "das Telefon",
+      "english": "telephone",
+      "difficulty": 2,
+      "pronunciation": "das Telefon"
+    },
+    {
+      "id": 717,
+      "category": "Office & Work",
+      "german": "das Handy",
+      "english": "mobile phone",
+      "difficulty": 1,
+      "pronunciation": "das Handy"
+    },
+    {
+      "id": 718,
+      "category": "Office & Work",
+      "german": "das Internet",
+      "english": "internet",
+      "difficulty": 1,
+      "pronunciation": "das Internet"
+    },
+    {
+      "id": 719,
+      "category": "Office & Work",
+      "german": "die E-Mail",
+      "english": "email",
+      "difficulty": 1,
+      "pronunciation": "die E-Mail"
+    },
+    {
+      "id": 720,
+      "category": "Office & Work",
+      "german": "der Brief",
+      "english": "letter",
+      "difficulty": 2,
+      "pronunciation": "der Brief"
+    },
+    {
+      "id": 721,
+      "category": "Office & Work",
+      "german": "die Post",
+      "english": "post office, mail",
+      "difficulty": 2,
+      "pronunciation": "die Post"
+    },
+    {
+      "id": 722,
+      "category": "Office & Work",
+      "german": "der Drucker",
+      "english": "printer",
+      "difficulty": 2,
+      "pronunciation": "der Drucker"
+    },
+    {
+      "id": 723,
+      "category": "Office & Work",
+      "german": "das Papier",
+      "english": "paper",
+      "difficulty": 2,
+      "pronunciation": "das Papier"
+    },
+    {
+      "id": 724,
+      "category": "Office & Work",
+      "german": "der Stift",
+      "english": "pen",
+      "difficulty": 2,
+      "pronunciation": "der Stift"
+    },
+    {
+      "id": 725,
+      "category": "Office & Work",
+      "german": "der Ordner",
+      "english": "folder",
+      "difficulty": 2,
+      "pronunciation": "der Ordner"
+    },
+    {
+      "id": 726,
+      "category": "Office & Work",
+      "german": "die Datei",
+      "english": "file",
+      "difficulty": 2,
+      "pronunciation": "die Datei"
+    },
+    {
+      "id": 727,
+      "category": "Office & Work",
+      "german": "das Dokument",
+      "english": "document",
+      "difficulty": 2,
+      "pronunciation": "das Dokument"
+    },
+    {
+      "id": 728,
+      "category": "Office & Work",
+      "german": "der Bericht",
+      "english": "report",
+      "difficulty": 2,
+      "pronunciation": "der Bericht"
+    },
+    {
+      "id": 729,
+      "category": "Office & Work",
+      "german": "die Besprechung",
+      "english": "meeting",
+      "difficulty": 2,
+      "pronunciation": "die Besprechung"
+    },
+    {
+      "id": 730,
+      "category": "Office & Work",
+      "german": "die Sitzung",
+      "english": "session, meeting",
+      "difficulty": 3,
+      "pronunciation": "die Sitzung"
+    },
+    {
+      "id": 731,
+      "category": "Office & Work",
+      "german": "die Konferenz",
+      "english": "conference",
+      "difficulty": 3,
+      "pronunciation": "die Konferenz"
+    },
+    {
+      "id": 732,
+      "category": "Office & Work",
+      "german": "der Termin",
+      "english": "appointment",
+      "difficulty": 2,
+      "pronunciation": "der Termin"
+    },
+    {
+      "id": 733,
+      "category": "Office & Work",
+      "german": "der Vertrag",
+      "english": "contract",
+      "difficulty": 2,
+      "pronunciation": "der Vertrag"
+    },
+    {
+      "id": 734,
+      "category": "Office & Work",
+      "german": "die Frist",
+      "english": "deadline",
+      "difficulty": 3,
+      "pronunciation": "die Frist"
+    },
+    {
+      "id": 735,
+      "category": "Office & Work",
+      "german": "das Projekt",
+      "english": "project",
+      "difficulty": 2,
+      "pronunciation": "das Projekt"
+    },
+    {
+      "id": 736,
+      "category": "Office & Work",
+      "german": "die Aufgabe",
+      "english": "task",
+      "difficulty": 2,
+      "pronunciation": "die Aufgabe"
+    },
+    {
+      "id": 737,
+      "category": "Office & Work",
+      "german": "das Ziel",
+      "english": "goal",
+      "difficulty": 2,
+      "pronunciation": "das Ziel"
+    },
+    {
+      "id": 738,
+      "category": "Office & Work",
+      "german": "die Idee",
+      "english": "idea",
+      "difficulty": 1,
+      "pronunciation": "die Idee"
+    },
+    {
+      "id": 739,
+      "category": "Office & Work",
+      "german": "der Plan",
+      "english": "plan",
+      "difficulty": 2,
+      "pronunciation": "der Plan"
+    },
+    {
+      "id": 740,
+      "category": "Office & Work",
+      "german": "die Präsentation",
+      "english": "presentation",
+      "difficulty": 3,
+      "pronunciation": "die Präsentation"
+    },
+    {
+      "id": 741,
+      "category": "Office & Work",
+      "german": "das Gehalt",
+      "english": "salary",
+      "difficulty": 3,
+      "pronunciation": "das Gehalt"
+    },
+    {
+      "id": 742,
+      "category": "Office & Work",
+      "german": "die Pause",
+      "english": "break",
+      "difficulty": 1,
+      "pronunciation": "die Pause"
+    },
+    {
+      "id": 743,
+      "category": "Office & Work",
+      "german": "die Mittagspause",
+      "english": "lunch break",
+      "difficulty": 2,
+      "pronunciation": "die Mittagspause"
+    },
+    {
+      "id": 744,
+      "category": "Office & Work",
+      "german": "die Abteilung",
+      "english": "department",
+      "difficulty": 3,
+      "pronunciation": "die Abteilung"
+    },
+    {
+      "id": 745,
+      "category": "Office & Work",
+      "german": "die Verantwortung",
+      "english": "responsibility",
+      "difficulty": 3,
+      "pronunciation": "die Verantwortung"
+    },
+    {
+      "id": 746,
+      "category": "Office & Work",
+      "german": "die Erfahrung",
+      "english": "experience",
+      "difficulty": 2,
+      "pronunciation": "die Erfahrung"
+    },
+    {
+      "id": 747,
+      "category": "Office & Work",
+      "german": "das Problem",
+      "english": "problem",
+      "difficulty": 1,
+      "pronunciation": "das Problem"
+    },
+    {
+      "id": 748,
+      "category": "Office & Work",
+      "german": "die Lösung",
+      "english": "solution",
+      "difficulty": 2,
+      "pronunciation": "die Lösung"
+    },
+    {
+      "id": 749,
+      "category": "Office & Work",
+      "german": "die Frage",
+      "english": "question",
+      "difficulty": 1,
+      "pronunciation": "die Frage"
+    },
+    {
+      "id": 750,
+      "category": "Office & Work",
+      "german": "die Antwort",
+      "english": "answer",
+      "difficulty": 1,
+      "pronunciation": "die Antwort"
+    },
+    {
+      "id": 751,
+      "category": "Office & Work",
+      "german": "die Information",
+      "english": "information",
+      "difficulty": 2,
+      "pronunciation": "die Information"
+    },
+    {
+      "id": 752,
+      "category": "Office & Work",
+      "german": "die Nachricht",
+      "english": "message",
+      "difficulty": 2,
+      "pronunciation": "die Nachricht"
+    },
+    {
+      "id": 753,
+      "category": "Office & Work",
+      "german": "der Kontakt",
+      "english": "contact",
+      "difficulty": 2,
+      "pronunciation": "der Kontakt"
+    },
+    {
+      "id": 754,
+      "category": "Office & Work",
+      "german": "die Zusammenarbeit",
+      "english": "cooperation",
+      "difficulty": 3,
+      "pronunciation": "die Zusammenarbeit"
+    },
+    {
+      "id": 755,
+      "category": "Office & Work",
+      "german": "das Team",
+      "english": "team",
+      "difficulty": 1,
+      "pronunciation": "das Team"
+    },
+    {
+      "id": 756,
+      "category": "Office & Work",
+      "german": "die Gruppe",
+      "english": "group",
+      "difficulty": 2,
+      "pronunciation": "die Gruppe"
+    },
+    {
+      "id": 757,
+      "category": "Office & Work",
+      "german": "die Stelle",
+      "english": "position, job",
+      "difficulty": 2,
+      "pronunciation": "die Stelle"
+    },
+    {
+      "id": 758,
+      "category": "Office & Work",
+      "german": "der Lebenslauf",
+      "english": "CV",
+      "difficulty": 3,
+      "pronunciation": "der Lebenslauf"
+    },
+    {
+      "id": 759,
+      "category": "Office & Work",
+      "german": "das Bewerbungsgespräch",
+      "english": "job interview",
+      "difficulty": 3,
+      "pronunciation": "das Bewerbungsgespräch"
+    },
+    {
+      "id": 760,
+      "category": "Office & Work",
+      "german": "das Unternehmen",
+      "english": "company",
+      "difficulty": 3,
+      "pronunciation": "das Unternehmen"
+    },
+    {
+      "id": 761,
+      "category": "Office & Work",
+      "german": "der Umsatz",
+      "english": "turnover, sales",
+      "difficulty": 3,
+      "pronunciation": "der Umsatz"
+    },
+    {
+      "id": 762,
+      "category": "Office & Work",
+      "german": "der Erfolg",
+      "english": "success",
+      "difficulty": 2,
+      "pronunciation": "der Erfolg"
+    },
+    {
+      "id": 763,
+      "category": "Office & Work",
+      "german": "der Fehler",
+      "english": "mistake",
+      "difficulty": 2,
+      "pronunciation": "der Fehler"
+    },
+    {
+      "id": 764,
+      "category": "Office & Work",
+      "german": "die Kopie",
+      "english": "copy",
+      "difficulty": 3,
+      "pronunciation": "die Kopie"
+    },
+    {
+      "id": 765,
+      "category": "Office & Work",
+      "german": "die Unterlagen",
+      "english": "documents, papers",
+      "difficulty": 3,
+      "pronunciation": "die Unterlagen"
+    },
+    {
+      "id": 766,
+      "category": "School & Study",
+      "german": "die Schule",
+      "english": "school",
+      "difficulty": 1,
+      "pronunciation": "die Schule"
+    },
+    {
+      "id": 767,
+      "category": "School & Study",
+      "german": "die Klasse",
+      "english": "class",
+      "difficulty": 1,
+      "pronunciation": "die Klasse"
+    },
+    {
+      "id": 768,
+      "category": "School & Study",
+      "german": "das Klassenzimmer",
+      "english": "classroom",
+      "difficulty": 2,
+      "pronunciation": "das Klassenzimmer"
+    },
+    {
+      "id": 769,
+      "category": "School & Study",
+      "german": "das Heft",
+      "english": "exercise book",
+      "difficulty": 2,
+      "pronunciation": "das Heft"
+    },
+    {
+      "id": 770,
+      "category": "School & Study",
+      "german": "das Buch",
+      "english": "book",
+      "difficulty": 1,
+      "pronunciation": "das Buch"
+    },
+    {
+      "id": 771,
+      "category": "School & Study",
+      "german": "das Wörterbuch",
+      "english": "dictionary",
+      "difficulty": 2,
+      "pronunciation": "das Wörterbuch"
+    },
+    {
+      "id": 772,
+      "category": "School & Study",
+      "german": "die Prüfung",
+      "english": "exam",
+      "difficulty": 2,
+      "pronunciation": "die Prüfung"
+    },
+    {
+      "id": 773,
+      "category": "School & Study",
+      "german": "die Note",
+      "english": "grade",
+      "difficulty": 2,
+      "pronunciation": "die Note"
+    },
+    {
+      "id": 774,
+      "category": "School & Study",
+      "german": "die Hausaufgabe",
+      "english": "homework",
+      "difficulty": 2,
+      "pronunciation": "die Hausaufgabe"
+    },
+    {
+      "id": 775,
+      "category": "School & Study",
+      "german": "der Test",
+      "english": "test",
+      "difficulty": 2,
+      "pronunciation": "der Test"
+    },
+    {
+      "id": 776,
+      "category": "School & Study",
+      "german": "die Universität",
+      "english": "university",
+      "difficulty": 2,
+      "pronunciation": "die Universität"
+    },
+    {
+      "id": 777,
+      "category": "School & Study",
+      "german": "die Vorlesung",
+      "english": "lecture",
+      "difficulty": 3,
+      "pronunciation": "die Vorlesung"
+    },
+    {
+      "id": 778,
+      "category": "School & Study",
+      "german": "die Sprache",
+      "english": "language",
+      "difficulty": 1,
+      "pronunciation": "die Sprache"
+    },
+    {
+      "id": 779,
+      "category": "School & Study",
+      "german": "das Wort",
+      "english": "word",
+      "difficulty": 1,
+      "pronunciation": "das Wort"
+    },
+    {
+      "id": 780,
+      "category": "School & Study",
+      "german": "der Satz",
+      "english": "sentence",
+      "difficulty": 2,
+      "pronunciation": "der Satz"
+    },
+    {
+      "id": 781,
+      "category": "School & Study",
+      "german": "der Text",
+      "english": "text",
+      "difficulty": 2,
+      "pronunciation": "der Text"
+    },
+    {
+      "id": 782,
+      "category": "School & Study",
+      "german": "die Übung",
+      "english": "exercise",
+      "difficulty": 2,
+      "pronunciation": "die Übung"
+    },
+    {
+      "id": 783,
+      "category": "School & Study",
+      "german": "der Unterricht",
+      "english": "lessons",
+      "difficulty": 2,
+      "pronunciation": "der Unterricht"
+    },
+    {
+      "id": 784,
+      "category": "School & Study",
+      "german": "das Thema",
+      "english": "topic",
+      "difficulty": 2,
+      "pronunciation": "das Thema"
+    },
+    {
+      "id": 785,
+      "category": "School & Study",
+      "german": "die Geschichte",
+      "english": "history, story",
+      "difficulty": 2,
+      "pronunciation": "die Geschichte"
+    },
+    {
+      "id": 786,
+      "category": "School & Study",
+      "german": "das Fach",
+      "english": "subject",
+      "difficulty": 2,
+      "pronunciation": "das Fach"
+    },
+    {
+      "id": 787,
+      "category": "School & Study",
+      "german": "der Kurs",
+      "english": "course",
+      "difficulty": 2,
+      "pronunciation": "der Kurs"
+    },
+    {
+      "id": 788,
+      "category": "School & Study",
+      "german": "das Wissen",
+      "english": "knowledge",
+      "difficulty": 3,
+      "pronunciation": "das Wissen"
+    },
+    {
+      "id": 789,
+      "category": "School & Study",
+      "german": "die Bildung",
+      "english": "education",
+      "difficulty": 3,
+      "pronunciation": "die Bildung"
+    },
+    {
+      "id": 790,
+      "category": "School & Study",
+      "german": "das Beispiel",
+      "english": "example",
+      "difficulty": 2,
+      "pronunciation": "das Beispiel"
+    },
+    {
+      "id": 791,
+      "category": "School & Study",
+      "german": "die Regel",
+      "english": "rule",
+      "difficulty": 2,
+      "pronunciation": "die Regel"
+    },
+    {
+      "id": 792,
+      "category": "School & Study",
+      "german": "die Grammatik",
+      "english": "grammar",
+      "difficulty": 3,
+      "pronunciation": "die Grammatik"
+    },
+    {
+      "id": 793,
+      "category": "School & Study",
+      "german": "die Aussprache",
+      "english": "pronunciation",
+      "difficulty": 3,
+      "pronunciation": "die Aussprache"
+    },
+    {
+      "id": 794,
+      "category": "School & Study",
+      "german": "die Lektion",
+      "english": "lesson",
+      "difficulty": 3,
+      "pronunciation": "die Lektion"
+    },
+    {
+      "id": 795,
+      "category": "School & Study",
+      "german": "der Buchstabe",
+      "english": "letter (of the alphabet)",
+      "difficulty": 2,
+      "pronunciation": "der Buchstabe"
+    },
+    {
+      "id": 796,
+      "category": "School & Study",
+      "german": "die Zahl",
+      "english": "number",
+      "difficulty": 2,
+      "pronunciation": "die Zahl"
+    },
+    {
+      "id": 797,
+      "category": "School & Study",
+      "german": "das Alphabet",
+      "english": "alphabet",
+      "difficulty": 3,
+      "pronunciation": "das Alphabet"
+    },
+    {
+      "id": 798,
+      "category": "School & Study",
+      "german": "die Bedeutung",
+      "english": "meaning",
+      "difficulty": 3,
+      "pronunciation": "die Bedeutung"
+    },
+    {
+      "id": 799,
+      "category": "School & Study",
+      "german": "der Wortschatz",
+      "english": "vocabulary",
+      "difficulty": 3,
+      "pronunciation": "der Wortschatz"
+    },
+    {
+      "id": 800,
+      "category": "Sports & Gym",
+      "german": "der Sport",
+      "english": "sport",
+      "difficulty": 1,
+      "pronunciation": "der Sport"
+    },
+    {
+      "id": 801,
+      "category": "Sports & Gym",
+      "german": "das Training",
+      "english": "training",
+      "difficulty": 2,
+      "pronunciation": "das Training"
+    },
+    {
+      "id": 802,
+      "category": "Sports & Gym",
+      "german": "das Fitnessstudio",
+      "english": "gym",
+      "difficulty": 2,
+      "pronunciation": "das Fitnessstudio"
+    },
+    {
+      "id": 803,
+      "category": "Sports & Gym",
+      "german": "der Ball",
+      "english": "ball",
+      "difficulty": 1,
+      "pronunciation": "der Ball"
+    },
+    {
+      "id": 804,
+      "category": "Sports & Gym",
+      "german": "das Spiel",
+      "english": "game, match",
+      "difficulty": 1,
+      "pronunciation": "das Spiel"
+    },
+    {
+      "id": 805,
+      "category": "Sports & Gym",
+      "german": "der Fußball",
+      "english": "football",
+      "difficulty": 1,
+      "pronunciation": "der Fußball"
+    },
+    {
+      "id": 806,
+      "category": "Sports & Gym",
+      "german": "das Tor",
+      "english": "goal (sports)",
+      "difficulty": 2,
+      "pronunciation": "das Tor"
+    },
+    {
+      "id": 807,
+      "category": "Sports & Gym",
+      "german": "der Sieg",
+      "english": "victory",
+      "difficulty": 3,
+      "pronunciation": "der Sieg"
+    },
+    {
+      "id": 808,
+      "category": "Sports & Gym",
+      "german": "die Mannschaft",
+      "english": "team (sports)",
+      "difficulty": 2,
+      "pronunciation": "die Mannschaft"
+    },
+    {
+      "id": 809,
+      "category": "Sports & Gym",
+      "german": "der Trainer",
+      "english": "trainer (male)",
+      "difficulty": 2,
+      "pronunciation": "der Trainer"
+    },
+    {
+      "id": 810,
+      "category": "Sports & Gym",
+      "german": "die Trainerin",
+      "english": "trainer (female)",
+      "difficulty": 3,
+      "pronunciation": "die Trainerin"
+    },
+    {
+      "id": 811,
+      "category": "Sports & Gym",
+      "german": "das Gewicht",
+      "english": "weight",
+      "difficulty": 2,
+      "pronunciation": "das Gewicht"
+    },
+    {
+      "id": 812,
+      "category": "Sports & Gym",
+      "german": "die Kraft",
+      "english": "strength",
+      "difficulty": 2,
+      "pronunciation": "die Kraft"
+    },
+    {
+      "id": 813,
+      "category": "Sports & Gym",
+      "german": "die Runde",
+      "english": "lap, round",
+      "difficulty": 2,
+      "pronunciation": "die Runde"
+    },
+    {
+      "id": 814,
+      "category": "Sports & Gym",
+      "german": "der Schweiß",
+      "english": "sweat",
+      "difficulty": 3,
+      "pronunciation": "der Schweiß"
+    },
+    {
+      "id": 815,
+      "category": "Sports & Gym",
+      "german": "der Muskel",
+      "english": "muscle",
+      "difficulty": 3,
+      "pronunciation": "der Muskel"
+    },
+    {
+      "id": 816,
+      "category": "Sports & Gym",
+      "german": "die Kondition",
+      "english": "fitness",
+      "difficulty": 3,
+      "pronunciation": "die Kondition"
+    },
+    {
+      "id": 817,
+      "category": "Sports & Gym",
+      "german": "das Schwimmbad",
+      "english": "swimming pool",
+      "difficulty": 2,
+      "pronunciation": "das Schwimmbad"
+    },
+    {
+      "id": 818,
+      "category": "Sports & Gym",
+      "german": "der Ski",
+      "english": "ski",
+      "difficulty": 3,
+      "pronunciation": "der Ski"
+    },
+    {
+      "id": 819,
+      "category": "Sports & Gym",
+      "german": "das Tennis",
+      "english": "tennis",
+      "difficulty": 2,
+      "pronunciation": "das Tennis"
+    },
+    {
+      "id": 820,
+      "category": "Sports & Gym",
+      "german": "die Wanderung",
+      "english": "hike",
+      "difficulty": 3,
+      "pronunciation": "die Wanderung"
+    },
+    {
+      "id": 821,
+      "category": "Sports & Gym",
+      "german": "die Bewegung",
+      "english": "movement, exercise",
+      "difficulty": 2,
+      "pronunciation": "die Bewegung"
+    },
+    {
+      "id": 822,
+      "category": "Sports & Gym",
+      "german": "der Wettkampf",
+      "english": "competition",
+      "difficulty": 3,
+      "pronunciation": "der Wettkampf"
+    },
+    {
+      "id": 823,
+      "category": "Sports & Gym",
+      "german": "die Hantel",
+      "english": "dumbbell",
+      "difficulty": 3,
+      "pronunciation": "die Hantel"
+    },
+    {
+      "id": 824,
+      "category": "Sports & Gym",
+      "german": "das Stadion",
+      "english": "stadium",
+      "difficulty": 2,
+      "pronunciation": "das Stadion"
+    },
+    {
+      "id": 825,
+      "category": "Sports & Gym",
+      "german": "der Sportplatz",
+      "english": "sports ground",
+      "difficulty": 3,
+      "pronunciation": "der Sportplatz"
+    },
+    {
+      "id": 826,
+      "category": "Technology & Media",
+      "german": "das Smartphone",
+      "english": "smartphone",
+      "difficulty": 2,
+      "pronunciation": "das Smartphone"
+    },
+    {
+      "id": 827,
+      "category": "Technology & Media",
+      "german": "die App",
+      "english": "app",
+      "difficulty": 2,
+      "pronunciation": "die App"
+    },
+    {
+      "id": 828,
+      "category": "Technology & Media",
+      "german": "die Webseite",
+      "english": "website",
+      "difficulty": 2,
+      "pronunciation": "die Webseite"
+    },
+    {
+      "id": 829,
+      "category": "Technology & Media",
+      "german": "das Passwort",
+      "english": "password",
+      "difficulty": 3,
+      "pronunciation": "das Passwort"
+    },
+    {
+      "id": 830,
+      "category": "Technology & Media",
+      "german": "der Akku",
+      "english": "battery",
+      "difficulty": 2,
+      "pronunciation": "der Akku"
+    },
+    {
+      "id": 831,
+      "category": "Technology & Media",
+      "german": "das Ladekabel",
+      "english": "charging cable",
+      "difficulty": 3,
+      "pronunciation": "das Ladekabel"
+    },
+    {
+      "id": 832,
+      "category": "Technology & Media",
+      "german": "das Foto",
+      "english": "photo",
+      "difficulty": 1,
+      "pronunciation": "das Foto"
+    },
+    {
+      "id": 833,
+      "category": "Technology & Media",
+      "german": "die Kamera",
+      "english": "camera",
+      "difficulty": 2,
+      "pronunciation": "die Kamera"
+    },
+    {
+      "id": 834,
+      "category": "Technology & Media",
+      "german": "das Video",
+      "english": "video",
+      "difficulty": 2,
+      "pronunciation": "das Video"
+    },
+    {
+      "id": 835,
+      "category": "Technology & Media",
+      "german": "das Bild",
+      "english": "picture",
+      "difficulty": 1,
+      "pronunciation": "das Bild"
+    },
+    {
+      "id": 836,
+      "category": "Technology & Media",
+      "german": "der Film",
+      "english": "film, movie",
+      "difficulty": 2,
+      "pronunciation": "der Film"
+    },
+    {
+      "id": 837,
+      "category": "Technology & Media",
+      "german": "die Musik",
+      "english": "music",
+      "difficulty": 1,
+      "pronunciation": "die Musik"
+    },
+    {
+      "id": 838,
+      "category": "Technology & Media",
+      "german": "das Lied",
+      "english": "song",
+      "difficulty": 2,
+      "pronunciation": "das Lied"
+    },
+    {
+      "id": 839,
+      "category": "Technology & Media",
+      "german": "die SMS",
+      "english": "text message",
+      "difficulty": 2,
+      "pronunciation": "die SMS"
+    },
+    {
+      "id": 840,
+      "category": "Technology & Media",
+      "german": "der Anruf",
+      "english": "phone call",
+      "difficulty": 2,
+      "pronunciation": "der Anruf"
+    },
+    {
+      "id": 841,
+      "category": "Technology & Media",
+      "german": "die Telefonnummer",
+      "english": "phone number",
+      "difficulty": 2,
+      "pronunciation": "die Telefonnummer"
+    },
+    {
+      "id": 842,
+      "category": "Technology & Media",
+      "german": "die Adresse",
+      "english": "address",
+      "difficulty": 2,
+      "pronunciation": "die Adresse"
+    },
+    {
+      "id": 843,
+      "category": "Technology & Media",
+      "german": "der Link",
+      "english": "link",
+      "difficulty": 3,
+      "pronunciation": "der Link"
+    },
+    {
+      "id": 844,
+      "category": "Technology & Media",
+      "german": "der Download",
+      "english": "download",
+      "difficulty": 3,
+      "pronunciation": "der Download"
+    },
+    {
+      "id": 845,
+      "category": "Technology & Media",
+      "german": "das Programm",
+      "english": "program",
+      "difficulty": 2,
+      "pronunciation": "das Programm"
+    },
+    {
+      "id": 846,
+      "category": "Technology & Media",
+      "german": "der Chat",
+      "english": "chat",
+      "difficulty": 3,
+      "pronunciation": "der Chat"
+    },
+    {
+      "id": 847,
+      "category": "Technology & Media",
+      "german": "das WLAN",
+      "english": "wifi",
+      "difficulty": 2,
+      "pronunciation": "das WLAN"
+    },
+    {
+      "id": 848,
+      "category": "Technology & Media",
+      "german": "der Bildschirm",
+      "english": "screen",
+      "difficulty": 2,
+      "pronunciation": "der Bildschirm"
+    },
+    {
+      "id": 849,
+      "category": "Technology & Media",
+      "german": "die Maus",
+      "english": "computer mouse",
+      "difficulty": 3,
+      "pronunciation": "die Maus"
+    },
+    {
+      "id": 850,
+      "category": "Technology & Media",
+      "german": "die Tastatur",
+      "english": "keyboard",
+      "difficulty": 3,
+      "pronunciation": "die Tastatur"
+    },
+    {
+      "id": 851,
+      "category": "Technology & Media",
+      "german": "der Monitor",
+      "english": "monitor",
+      "difficulty": 3,
+      "pronunciation": "der Monitor"
+    },
+    {
+      "id": 852,
+      "category": "Technology & Media",
+      "german": "der Ton",
+      "english": "sound",
+      "difficulty": 3,
+      "pronunciation": "der Ton"
+    },
+    {
+      "id": 853,
+      "category": "Technology & Media",
+      "german": "die Stimme",
+      "english": "voice",
+      "difficulty": 2,
+      "pronunciation": "die Stimme"
+    },
+    {
+      "id": 854,
+      "category": "Technology & Media",
+      "german": "die Taste",
+      "english": "key, button",
+      "difficulty": 3,
+      "pronunciation": "die Taste"
+    },
+    {
+      "id": 855,
+      "category": "Technology & Media",
+      "german": "das Fernsehen",
+      "english": "television",
+      "difficulty": 2,
+      "pronunciation": "das Fernsehen"
+    },
+    {
+      "id": 856,
+      "category": "Technology & Media",
+      "german": "die Zeitung",
+      "english": "newspaper",
+      "difficulty": 2,
+      "pronunciation": "die Zeitung"
+    },
+    {
+      "id": 857,
+      "category": "Technology & Media",
+      "german": "das Magazin",
+      "english": "magazine",
+      "difficulty": 3,
+      "pronunciation": "das Magazin"
+    },
+    {
+      "id": 858,
+      "category": "Feelings",
+      "german": "die Freude",
+      "english": "joy",
+      "difficulty": 2,
+      "pronunciation": "die Freude"
+    },
+    {
+      "id": 859,
+      "category": "Feelings",
+      "german": "die Liebe",
+      "english": "love",
+      "difficulty": 1,
+      "pronunciation": "die Liebe"
+    },
+    {
+      "id": 860,
+      "category": "Feelings",
+      "german": "die Angst",
+      "english": "fear",
+      "difficulty": 2,
+      "pronunciation": "die Angst"
+    },
+    {
+      "id": 861,
+      "category": "Feelings",
+      "german": "die Wut",
+      "english": "anger",
+      "difficulty": 3,
+      "pronunciation": "die Wut"
+    },
+    {
+      "id": 862,
+      "category": "Feelings",
+      "german": "die Trauer",
+      "english": "sadness",
+      "difficulty": 3,
+      "pronunciation": "die Trauer"
+    },
+    {
+      "id": 863,
+      "category": "Feelings",
+      "german": "das Glück",
+      "english": "luck, happiness",
+      "difficulty": 2,
+      "pronunciation": "das Glück"
+    },
+    {
+      "id": 864,
+      "category": "Feelings",
+      "german": "der Stress",
+      "english": "stress",
+      "difficulty": 2,
+      "pronunciation": "der Stress"
+    },
+    {
+      "id": 865,
+      "category": "Feelings",
+      "german": "die Sorge",
+      "english": "worry",
+      "difficulty": 3,
+      "pronunciation": "die Sorge"
+    },
+    {
+      "id": 866,
+      "category": "Feelings",
+      "german": "die Laune",
+      "english": "mood",
+      "difficulty": 3,
+      "pronunciation": "die Laune"
+    },
+    {
+      "id": 867,
+      "category": "Feelings",
+      "german": "die Hoffnung",
+      "english": "hope",
+      "difficulty": 2,
+      "pronunciation": "die Hoffnung"
+    },
+    {
+      "id": 868,
+      "category": "Feelings",
+      "german": "der Traum",
+      "english": "dream",
+      "difficulty": 2,
+      "pronunciation": "der Traum"
+    },
+    {
+      "id": 869,
+      "category": "Feelings",
+      "german": "die Geduld",
+      "english": "patience",
+      "difficulty": 3,
+      "pronunciation": "die Geduld"
+    },
+    {
+      "id": 870,
+      "category": "Feelings",
+      "german": "das Gefühl",
+      "english": "feeling",
+      "difficulty": 2,
+      "pronunciation": "das Gefühl"
+    },
+    {
+      "id": 871,
+      "category": "Feelings",
+      "german": "die Meinung",
+      "english": "opinion",
+      "difficulty": 2,
+      "pronunciation": "die Meinung"
+    },
+    {
+      "id": 872,
+      "category": "Feelings",
+      "german": "der Wunsch",
+      "english": "wish",
+      "difficulty": 2,
+      "pronunciation": "der Wunsch"
+    },
+    {
+      "id": 873,
+      "category": "Feelings",
+      "german": "der Grund",
+      "english": "reason",
+      "difficulty": 2,
+      "pronunciation": "der Grund"
+    },
+    {
+      "id": 874,
+      "category": "Feelings",
+      "german": "die Ruhe",
+      "english": "peace, quiet",
+      "difficulty": 2,
+      "pronunciation": "die Ruhe"
+    },
+    {
+      "id": 875,
+      "category": "Feelings",
+      "german": "die Lust",
+      "english": "desire, enjoyment",
+      "difficulty": 3,
+      "pronunciation": "die Lust"
+    },
+    {
+      "id": 876,
+      "category": "Feelings",
+      "german": "die Langeweile",
+      "english": "boredom",
+      "difficulty": 3,
+      "pronunciation": "die Langeweile"
+    },
+    {
+      "id": 877,
+      "category": "Animals",
+      "german": "das Tier",
+      "english": "animal",
+      "difficulty": 1,
+      "pronunciation": "das Tier"
+    },
+    {
+      "id": 878,
+      "category": "Animals",
+      "german": "der Hund",
+      "english": "dog",
+      "difficulty": 1,
+      "pronunciation": "der Hund"
+    },
+    {
+      "id": 879,
+      "category": "Animals",
+      "german": "die Katze",
+      "english": "cat",
+      "difficulty": 1,
+      "pronunciation": "die Katze"
+    },
+    {
+      "id": 880,
+      "category": "Animals",
+      "german": "das Pferd",
+      "english": "horse",
+      "difficulty": 2,
+      "pronunciation": "das Pferd"
+    },
+    {
+      "id": 881,
+      "category": "Animals",
+      "german": "die Kuh",
+      "english": "cow",
+      "difficulty": 2,
+      "pronunciation": "die Kuh"
+    },
+    {
+      "id": 882,
+      "category": "Animals",
+      "german": "das Schwein",
+      "english": "pig",
+      "difficulty": 2,
+      "pronunciation": "das Schwein"
+    },
+    {
+      "id": 883,
+      "category": "Animals",
+      "german": "das Huhn",
+      "english": "chicken (hen)",
+      "difficulty": 2,
+      "pronunciation": "das Huhn"
+    },
+    {
+      "id": 884,
+      "category": "Animals",
+      "german": "der Vogel",
+      "english": "bird",
+      "difficulty": 1,
+      "pronunciation": "der Vogel"
+    },
+    {
+      "id": 885,
+      "category": "Animals",
+      "german": "die Biene",
+      "english": "bee",
+      "difficulty": 2,
+      "pronunciation": "die Biene"
+    },
+    {
+      "id": 886,
+      "category": "Animals",
+      "german": "die Ameise",
+      "english": "ant",
+      "difficulty": 3,
+      "pronunciation": "die Ameise"
+    },
+    {
+      "id": 887,
+      "category": "Animals",
+      "german": "die Fliege",
+      "english": "fly",
+      "difficulty": 3,
+      "pronunciation": "die Fliege"
+    },
+    {
+      "id": 888,
+      "category": "Animals",
+      "german": "die Schlange",
+      "english": "snake",
+      "difficulty": 2,
+      "pronunciation": "die Schlange"
+    },
+    {
+      "id": 889,
+      "category": "Animals",
+      "german": "der Bär",
+      "english": "bear",
+      "difficulty": 3,
+      "pronunciation": "der Bär"
+    },
+    {
+      "id": 890,
+      "category": "Animals",
+      "german": "der Wolf",
+      "english": "wolf",
+      "difficulty": 3,
+      "pronunciation": "der Wolf"
+    },
+    {
+      "id": 891,
+      "category": "Animals",
+      "german": "der Fuchs",
+      "english": "fox",
+      "difficulty": 3,
+      "pronunciation": "der Fuchs"
+    },
+    {
+      "id": 892,
+      "category": "Animals",
+      "german": "der Hase",
+      "english": "hare",
+      "difficulty": 2,
+      "pronunciation": "der Hase"
+    },
+    {
+      "id": 893,
+      "category": "Animals",
+      "german": "das Kaninchen",
+      "english": "rabbit",
+      "difficulty": 2,
+      "pronunciation": "das Kaninchen"
+    },
+    {
+      "id": 894,
+      "category": "Animals",
+      "german": "das Eichhörnchen",
+      "english": "squirrel",
+      "difficulty": 3,
+      "pronunciation": "das Eichhörnchen"
+    },
+    {
+      "id": 895,
+      "category": "Animals",
+      "german": "der Schmetterling",
+      "english": "butterfly",
+      "difficulty": 3,
+      "pronunciation": "der Schmetterling"
+    },
+    {
+      "id": 896,
+      "category": "Animals",
+      "german": "die Spinne",
+      "english": "spider",
+      "difficulty": 3,
+      "pronunciation": "die Spinne"
+    },
+    {
+      "id": 897,
+      "category": "Animals",
+      "german": "der Affe",
+      "english": "monkey",
+      "difficulty": 3,
+      "pronunciation": "der Affe"
+    },
+    {
+      "id": 898,
+      "category": "Animals",
+      "german": "der Löwe",
+      "english": "lion",
+      "difficulty": 3,
+      "pronunciation": "der Löwe"
+    },
+    {
+      "id": 899,
+      "category": "Adjectives & Colours",
+      "german": "gut",
+      "english": "good",
+      "difficulty": 1,
+      "pronunciation": "gut"
+    },
+    {
+      "id": 900,
+      "category": "Adjectives & Colours",
+      "german": "schlecht",
+      "english": "bad",
+      "difficulty": 1,
+      "pronunciation": "schlecht"
+    },
+    {
+      "id": 901,
+      "category": "Adjectives & Colours",
+      "german": "groß",
+      "english": "big, tall",
+      "difficulty": 1,
+      "pronunciation": "groß"
+    },
+    {
+      "id": 902,
+      "category": "Adjectives & Colours",
+      "german": "klein",
+      "english": "small",
+      "difficulty": 1,
+      "pronunciation": "klein"
+    },
+    {
+      "id": 903,
+      "category": "Adjectives & Colours",
+      "german": "alt",
+      "english": "old",
+      "difficulty": 1,
+      "pronunciation": "alt"
+    },
+    {
+      "id": 904,
+      "category": "Adjectives & Colours",
+      "german": "neu",
+      "english": "new",
+      "difficulty": 1,
+      "pronunciation": "neu"
+    },
+    {
+      "id": 905,
+      "category": "Adjectives & Colours",
+      "german": "jung",
+      "english": "young",
+      "difficulty": 1,
+      "pronunciation": "jung"
+    },
+    {
+      "id": 906,
+      "category": "Adjectives & Colours",
+      "german": "schön",
+      "english": "beautiful, nice",
+      "difficulty": 1,
+      "pronunciation": "schön"
+    },
+    {
+      "id": 907,
+      "category": "Adjectives & Colours",
+      "german": "hässlich",
+      "english": "ugly",
+      "difficulty": 3,
+      "pronunciation": "hässlich"
+    },
+    {
+      "id": 908,
+      "category": "Adjectives & Colours",
+      "german": "hell",
+      "english": "bright, light",
+      "difficulty": 2,
+      "pronunciation": "hell"
+    },
+    {
+      "id": 909,
+      "category": "Adjectives & Colours",
+      "german": "dunkel",
+      "english": "dark",
+      "difficulty": 2,
+      "pronunciation": "dunkel"
+    },
+    {
+      "id": 910,
+      "category": "Adjectives & Colours",
+      "german": "warm",
+      "english": "warm",
+      "difficulty": 1,
+      "pronunciation": "warm"
+    },
+    {
+      "id": 911,
+      "category": "Adjectives & Colours",
+      "german": "kalt",
+      "english": "cold",
+      "difficulty": 1,
+      "pronunciation": "kalt"
+    },
+    {
+      "id": 912,
+      "category": "Adjectives & Colours",
+      "german": "heiß",
+      "english": "hot",
+      "difficulty": 2,
+      "pronunciation": "heiß"
+    },
+    {
+      "id": 913,
+      "category": "Adjectives & Colours",
+      "german": "kühl",
+      "english": "cool",
+      "difficulty": 2,
+      "pronunciation": "kühl"
+    },
+    {
+      "id": 914,
+      "category": "Adjectives & Colours",
+      "german": "nass",
+      "english": "wet",
+      "difficulty": 2,
+      "pronunciation": "nass"
+    },
+    {
+      "id": 915,
+      "category": "Adjectives & Colours",
+      "german": "trocken",
+      "english": "dry",
+      "difficulty": 2,
+      "pronunciation": "trocken"
+    },
+    {
+      "id": 916,
+      "category": "Adjectives & Colours",
+      "german": "sauber",
+      "english": "clean",
+      "difficulty": 2,
+      "pronunciation": "sauber"
+    },
+    {
+      "id": 917,
+      "category": "Adjectives & Colours",
+      "german": "schmutzig",
+      "english": "dirty",
+      "difficulty": 2,
+      "pronunciation": "schmutzig"
+    },
+    {
+      "id": 918,
+      "category": "Adjectives & Colours",
+      "german": "laut",
+      "english": "loud",
+      "difficulty": 2,
+      "pronunciation": "laut"
+    },
+    {
+      "id": 919,
+      "category": "Adjectives & Colours",
+      "german": "leise",
+      "english": "quiet",
+      "difficulty": 2,
+      "pronunciation": "leise"
+    },
+    {
+      "id": 920,
+      "category": "Adjectives & Colours",
+      "german": "leicht",
+      "english": "light, easy",
+      "difficulty": 2,
+      "pronunciation": "leicht"
+    },
+    {
+      "id": 921,
+      "category": "Adjectives & Colours",
+      "german": "schwer",
+      "english": "heavy, difficult",
+      "difficulty": 2,
+      "pronunciation": "schwer"
+    },
+    {
+      "id": 922,
+      "category": "Adjectives & Colours",
+      "german": "einfach",
+      "english": "simple, easy",
+      "difficulty": 1,
+      "pronunciation": "einfach"
+    },
+    {
+      "id": 923,
+      "category": "Adjectives & Colours",
+      "german": "schwierig",
+      "english": "difficult",
+      "difficulty": 2,
+      "pronunciation": "schwierig"
+    },
+    {
+      "id": 924,
+      "category": "Adjectives & Colours",
+      "german": "teuer",
+      "english": "expensive",
+      "difficulty": 2,
+      "pronunciation": "teuer"
+    },
+    {
+      "id": 925,
+      "category": "Adjectives & Colours",
+      "german": "billig",
+      "english": "cheap",
+      "difficulty": 2,
+      "pronunciation": "billig"
+    },
+    {
+      "id": 926,
+      "category": "Adjectives & Colours",
+      "german": "günstig",
+      "english": "affordable",
+      "difficulty": 2,
+      "pronunciation": "günstig"
+    },
+    {
+      "id": 927,
+      "category": "Adjectives & Colours",
+      "german": "reich",
+      "english": "rich",
+      "difficulty": 3,
+      "pronunciation": "reich"
+    },
+    {
+      "id": 928,
+      "category": "Adjectives & Colours",
+      "german": "arm",
+      "english": "poor",
+      "difficulty": 3,
+      "pronunciation": "arm"
+    },
+    {
+      "id": 929,
+      "category": "Adjectives & Colours",
+      "german": "lustig",
+      "english": "funny",
+      "difficulty": 2,
+      "pronunciation": "lustig"
+    },
+    {
+      "id": 930,
+      "category": "Adjectives & Colours",
+      "german": "interessant",
+      "english": "interesting",
+      "difficulty": 2,
+      "pronunciation": "interessant"
+    },
+    {
+      "id": 931,
+      "category": "Adjectives & Colours",
+      "german": "langweilig",
+      "english": "boring",
+      "difficulty": 3,
+      "pronunciation": "langweilig"
+    },
+    {
+      "id": 932,
+      "category": "Adjectives & Colours",
+      "german": "wichtig",
+      "english": "important",
+      "difficulty": 1,
+      "pronunciation": "wichtig"
+    },
+    {
+      "id": 933,
+      "category": "Adjectives & Colours",
+      "german": "richtig",
+      "english": "correct, right",
+      "difficulty": 1,
+      "pronunciation": "richtig"
+    },
+    {
+      "id": 934,
+      "category": "Adjectives & Colours",
+      "german": "falsch",
+      "english": "wrong",
+      "difficulty": 1,
+      "pronunciation": "falsch"
+    },
+    {
+      "id": 935,
+      "category": "Adjectives & Colours",
+      "german": "frei",
+      "english": "free",
+      "difficulty": 2,
+      "pronunciation": "frei"
+    },
+    {
+      "id": 936,
+      "category": "Adjectives & Colours",
+      "german": "besetzt",
+      "english": "occupied, busy",
+      "difficulty": 2,
+      "pronunciation": "besetzt"
+    },
+    {
+      "id": 937,
+      "category": "Adjectives & Colours",
+      "german": "offen",
+      "english": "open",
+      "difficulty": 2,
+      "pronunciation": "offen"
+    },
+    {
+      "id": 938,
+      "category": "Adjectives & Colours",
+      "german": "geschlossen",
+      "english": "closed",
+      "difficulty": 2,
+      "pronunciation": "geschlossen"
+    },
+    {
+      "id": 939,
+      "category": "Adjectives & Colours",
+      "german": "fertig",
+      "english": "finished",
+      "difficulty": 1,
+      "pronunciation": "fertig"
+    },
+    {
+      "id": 940,
+      "category": "Adjectives & Colours",
+      "german": "bereit",
+      "english": "ready",
+      "difficulty": 2,
+      "pronunciation": "bereit"
+    },
+    {
+      "id": 941,
+      "category": "Adjectives & Colours",
+      "german": "müde",
+      "english": "tired",
+      "difficulty": 1,
+      "pronunciation": "müde"
+    },
+    {
+      "id": 942,
+      "category": "Adjectives & Colours",
+      "german": "hungrig",
+      "english": "hungry",
+      "difficulty": 2,
+      "pronunciation": "hungrig"
+    },
+    {
+      "id": 943,
+      "category": "Adjectives & Colours",
+      "german": "durstig",
+      "english": "thirsty",
+      "difficulty": 2,
+      "pronunciation": "durstig"
+    },
+    {
+      "id": 944,
+      "category": "Adjectives & Colours",
+      "german": "krank",
+      "english": "sick",
+      "difficulty": 1,
+      "pronunciation": "krank"
+    },
+    {
+      "id": 945,
+      "category": "Adjectives & Colours",
+      "german": "gesund",
+      "english": "healthy",
+      "difficulty": 1,
+      "pronunciation": "gesund"
+    },
+    {
+      "id": 946,
+      "category": "Adjectives & Colours",
+      "german": "glücklich",
+      "english": "happy",
+      "difficulty": 2,
+      "pronunciation": "glücklich"
+    },
+    {
+      "id": 947,
+      "category": "Adjectives & Colours",
+      "german": "traurig",
+      "english": "sad",
+      "difficulty": 1,
+      "pronunciation": "traurig"
+    },
+    {
+      "id": 948,
+      "category": "Adjectives & Colours",
+      "german": "froh",
+      "english": "glad",
+      "difficulty": 3,
+      "pronunciation": "froh"
+    },
+    {
+      "id": 949,
+      "category": "Adjectives & Colours",
+      "german": "wütend",
+      "english": "angry",
+      "difficulty": 2,
+      "pronunciation": "wütend"
+    },
+    {
+      "id": 950,
+      "category": "Adjectives & Colours",
+      "german": "nervös",
+      "english": "nervous",
+      "difficulty": 3,
+      "pronunciation": "nervös"
+    },
+    {
+      "id": 951,
+      "category": "Adjectives & Colours",
+      "german": "ruhig",
+      "english": "calm, quiet",
+      "difficulty": 2,
+      "pronunciation": "ruhig"
+    },
+    {
+      "id": 952,
+      "category": "Adjectives & Colours",
+      "german": "stark",
+      "english": "strong",
+      "difficulty": 2,
+      "pronunciation": "stark"
+    },
+    {
+      "id": 953,
+      "category": "Adjectives & Colours",
+      "german": "schwach",
+      "english": "weak",
+      "difficulty": 2,
+      "pronunciation": "schwach"
+    },
+    {
+      "id": 954,
+      "category": "Adjectives & Colours",
+      "german": "schnell",
+      "english": "fast, quick",
+      "difficulty": 1,
+      "pronunciation": "schnell"
+    },
+    {
+      "id": 955,
+      "category": "Adjectives & Colours",
+      "german": "langsam",
+      "english": "slow",
+      "difficulty": 1,
+      "pronunciation": "langsam"
+    },
+    {
+      "id": 956,
+      "category": "Adjectives & Colours",
+      "german": "früh",
+      "english": "early",
+      "difficulty": 1,
+      "pronunciation": "früh"
+    },
+    {
+      "id": 957,
+      "category": "Adjectives & Colours",
+      "german": "spät",
+      "english": "late",
+      "difficulty": 1,
+      "pronunciation": "spät"
+    },
+    {
+      "id": 958,
+      "category": "Adjectives & Colours",
+      "german": "lang",
+      "english": "long",
+      "difficulty": 1,
+      "pronunciation": "lang"
+    },
+    {
+      "id": 959,
+      "category": "Adjectives & Colours",
+      "german": "kurz",
+      "english": "short",
+      "difficulty": 1,
+      "pronunciation": "kurz"
+    },
+    {
+      "id": 960,
+      "category": "Adjectives & Colours",
+      "german": "hoch",
+      "english": "high",
+      "difficulty": 2,
+      "pronunciation": "hoch"
+    },
+    {
+      "id": 961,
+      "category": "Adjectives & Colours",
+      "german": "tief",
+      "english": "deep, low",
+      "difficulty": 2,
+      "pronunciation": "tief"
+    },
+    {
+      "id": 962,
+      "category": "Adjectives & Colours",
+      "german": "breit",
+      "english": "wide",
+      "difficulty": 2,
+      "pronunciation": "breit"
+    },
+    {
+      "id": 963,
+      "category": "Adjectives & Colours",
+      "german": "eng",
+      "english": "narrow, tight",
+      "difficulty": 2,
+      "pronunciation": "eng"
+    },
+    {
+      "id": 964,
+      "category": "Adjectives & Colours",
+      "german": "dick",
+      "english": "thick, fat",
+      "difficulty": 2,
+      "pronunciation": "dick"
+    },
+    {
+      "id": 965,
+      "category": "Adjectives & Colours",
+      "german": "dünn",
+      "english": "thin",
+      "difficulty": 2,
+      "pronunciation": "dünn"
+    },
+    {
+      "id": 966,
+      "category": "Adjectives & Colours",
+      "german": "nah",
+      "english": "near",
+      "difficulty": 2,
+      "pronunciation": "nah"
+    },
+    {
+      "id": 967,
+      "category": "Adjectives & Colours",
+      "german": "fern",
+      "english": "far",
+      "difficulty": 3,
+      "pronunciation": "fern"
+    },
+    {
+      "id": 968,
+      "category": "Adjectives & Colours",
+      "german": "voll",
+      "english": "full",
+      "difficulty": 2,
+      "pronunciation": "voll"
+    },
+    {
+      "id": 969,
+      "category": "Adjectives & Colours",
+      "german": "leer",
+      "english": "empty",
+      "difficulty": 2,
+      "pronunciation": "leer"
+    },
+    {
+      "id": 970,
+      "category": "Adjectives & Colours",
+      "german": "sicher",
+      "english": "safe, sure",
+      "difficulty": 2,
+      "pronunciation": "sicher"
+    },
+    {
+      "id": 971,
+      "category": "Adjectives & Colours",
+      "german": "möglich",
+      "english": "possible",
+      "difficulty": 2,
+      "pronunciation": "möglich"
+    },
+    {
+      "id": 972,
+      "category": "Adjectives & Colours",
+      "german": "nötig",
+      "english": "necessary",
+      "difficulty": 3,
+      "pronunciation": "nötig"
+    },
+    {
+      "id": 973,
+      "category": "Adjectives & Colours",
+      "german": "toll",
+      "english": "great",
+      "difficulty": 2,
+      "pronunciation": "toll"
+    },
+    {
+      "id": 974,
+      "category": "Adjectives & Colours",
+      "german": "lecker",
+      "english": "tasty",
+      "difficulty": 2,
+      "pronunciation": "lecker"
+    },
+    {
+      "id": 975,
+      "category": "Adjectives & Colours",
+      "german": "frisch",
+      "english": "fresh",
+      "difficulty": 2,
+      "pronunciation": "frisch"
+    },
+    {
+      "id": 976,
+      "category": "Adjectives & Colours",
+      "german": "bekannt",
+      "english": "known",
+      "difficulty": 2,
+      "pronunciation": "bekannt"
+    },
+    {
+      "id": 977,
+      "category": "Adjectives & Colours",
+      "german": "beliebt",
+      "english": "popular",
+      "difficulty": 3,
+      "pronunciation": "beliebt"
+    },
+    {
+      "id": 978,
+      "category": "Adjectives & Colours",
+      "german": "bequem",
+      "english": "comfortable",
+      "difficulty": 3,
+      "pronunciation": "bequem"
+    },
+    {
+      "id": 979,
+      "category": "Adjectives & Colours",
+      "german": "praktisch",
+      "english": "practical",
+      "difficulty": 3,
+      "pronunciation": "praktisch"
+    },
+    {
+      "id": 980,
+      "category": "Adjectives & Colours",
+      "german": "modern",
+      "english": "modern",
+      "difficulty": 3,
+      "pronunciation": "modern"
+    },
+    {
+      "id": 981,
+      "category": "Adjectives & Colours",
+      "german": "gemütlich",
+      "english": "cosy",
+      "difficulty": 3,
+      "pronunciation": "gemütlich"
+    },
+    {
+      "id": 982,
+      "category": "Adjectives & Colours",
+      "german": "zufrieden",
+      "english": "satisfied",
+      "difficulty": 3,
+      "pronunciation": "zufrieden"
+    },
+    {
+      "id": 983,
+      "category": "Adjectives & Colours",
+      "german": "anders",
+      "english": "different",
+      "difficulty": 2,
+      "pronunciation": "anders"
+    },
+    {
+      "id": 984,
+      "category": "Adjectives & Colours",
+      "german": "deutsch",
+      "english": "German",
+      "difficulty": 1,
+      "pronunciation": "deutsch"
+    },
+    {
+      "id": 985,
+      "category": "Adjectives & Colours",
+      "german": "österreichisch",
+      "english": "Austrian",
+      "difficulty": 2,
+      "pronunciation": "österreichisch"
+    },
+    {
+      "id": 986,
+      "category": "Adjectives & Colours",
+      "german": "bunt",
+      "english": "colourful",
+      "difficulty": 2,
+      "pronunciation": "bunt"
+    },
+    {
+      "id": 987,
+      "category": "Adjectives & Colours",
+      "german": "rot",
+      "english": "red",
+      "difficulty": 1,
+      "pronunciation": "rot"
+    },
+    {
+      "id": 988,
+      "category": "Adjectives & Colours",
+      "german": "blau",
+      "english": "blue",
+      "difficulty": 1,
+      "pronunciation": "blau"
+    },
+    {
+      "id": 989,
+      "category": "Adjectives & Colours",
+      "german": "grün",
+      "english": "green",
+      "difficulty": 1,
+      "pronunciation": "grün"
+    },
+    {
+      "id": 990,
+      "category": "Adjectives & Colours",
+      "german": "gelb",
+      "english": "yellow",
+      "difficulty": 1,
+      "pronunciation": "gelb"
+    },
+    {
+      "id": 991,
+      "category": "Adjectives & Colours",
+      "german": "weiß",
+      "english": "white",
+      "difficulty": 1,
+      "pronunciation": "weiß"
+    },
+    {
+      "id": 992,
+      "category": "Adjectives & Colours",
+      "german": "schwarz",
+      "english": "black",
+      "difficulty": 1,
+      "pronunciation": "schwarz"
+    },
+    {
+      "id": 993,
+      "category": "Adjectives & Colours",
+      "german": "braun",
+      "english": "brown",
+      "difficulty": 1,
+      "pronunciation": "braun"
+    },
+    {
+      "id": 994,
+      "category": "Adjectives & Colours",
+      "german": "grau",
+      "english": "grey",
+      "difficulty": 1,
+      "pronunciation": "grau"
+    },
+    {
+      "id": 995,
+      "category": "Adjectives & Colours",
+      "german": "rosa",
+      "english": "pink",
+      "difficulty": 2,
+      "pronunciation": "rosa"
+    },
+    {
+      "id": 996,
+      "category": "Adjectives & Colours",
+      "german": "orange",
+      "english": "orange (colour)",
+      "difficulty": 2,
+      "pronunciation": "orange"
+    },
+    {
+      "id": 997,
+      "category": "Food & Drink",
+      "german": "die Jause",
+      "english": "afternoon snack (Austria)",
+      "difficulty": 2,
+      "pronunciation": "die Jause"
+    },
+    {
+      "id": 998,
+      "category": "Home",
+      "german": "die Stiege",
+      "english": "staircase (Austria)",
+      "difficulty": 2,
+      "pronunciation": "die Stiege"
+    },
+    {
+      "id": 999,
+      "category": "Supermarket & Shopping",
+      "german": "der Fleischhauer",
+      "english": "butcher (Austria)",
+      "difficulty": 3,
+      "pronunciation": "der Fleischhauer"
+    },
+    {
+      "id": 1000,
+      "category": "Clothes",
+      "german": "das Gwand",
+      "english": "clothes (Austria)",
+      "difficulty": 3,
+      "pronunciation": "das Gwand"
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#04060c">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Deutsch">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icon-180.png">
+<title>Deutsch Österreich</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+:root{
+  --bg:#04060c;--surface:#0b1222;--surface2:#121c33;--line:#1c2947;
+  --text:#eef4ff;--muted:#7d8cb0;
+  --blue:#2f7bff;--blue-deep:#1a4fbf;--sky:#6cc8ff;
+  --ok:#5fd0ff;--ok-bg:#0a2740;--part-bg:#0c1d33;--bad:#ff6b7f;--bad-bg:#2e0f18;
+}
+html,body{background:var(--bg);color:var(--text);font-family:ui-rounded,"SF Pro Rounded",-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+body{min-height:100vh;min-height:100dvh;background:radial-gradient(900px 500px at 50% -120px,#0f2a63 0%,var(--bg) 70%) fixed}
+[hidden]{display:none !important}
+button{font-family:inherit}
+
+.app{max-width:480px;margin:0 auto;padding:calc(env(safe-area-inset-top) + 18px) 18px calc(env(safe-area-inset-bottom) + 120px)}
+.brand{display:flex;align-items:center;gap:12px;margin-bottom:22px}
+.logo{width:40px;height:40px;border-radius:13px;background:var(--blue);box-shadow:0 4px 0 var(--blue-deep);display:grid;place-items:center;font-weight:900;font-size:16px;color:#fff;letter-spacing:.5px}
+.brand b{display:block;font-size:18px;font-weight:900}
+.brand small{display:block;color:var(--muted);font-size:12px;font-weight:700}
+
+.tab{display:none}
+.tab.on{display:block}
+h1{font-size:30px;font-weight:900;letter-spacing:-.5px;margin-bottom:6px}
+.sub{color:var(--muted);font-size:14px;line-height:1.45;font-weight:600}
+.label{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.8px;color:var(--muted);margin:22px 0 8px}
+
+.seg{display:flex;gap:6px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:5px}
+.seg button{flex:1;border:0;background:transparent;color:var(--muted);font-weight:800;font-size:14px;padding:11px 6px;border-radius:12px;cursor:pointer}
+.seg button.on{background:var(--blue);color:#fff;box-shadow:0 3px 0 var(--blue-deep)}
+
+
+.btn-primary{display:block;width:100%;margin-top:26px;border:0;border-radius:18px;background:var(--blue);color:#fff;font-weight:900;font-size:17px;padding:17px;box-shadow:0 6px 0 var(--blue-deep);cursor:pointer;transition:transform .05s,box-shadow .05s}
+.btn-primary:active{transform:translateY(4px);box-shadow:0 2px 0 var(--blue-deep)}
+.btn-primary:disabled{background:#18223b;color:#55638a;box-shadow:0 6px 0 #0f1629;cursor:not-allowed;transform:none}
+.empty{text-align:center;color:var(--muted);font-weight:700;font-size:14px;line-height:1.45;margin-top:14px;min-height:20px}
+.link{display:block;margin:20px auto 0;background:none;border:0;color:var(--bad);font-weight:800;font-size:14px;cursor:pointer;padding:10px}
+.note{color:var(--muted);font-size:13px;font-weight:700;margin-top:10px;text-align:center}
+.saved{display:flex;align-items:center;gap:8px;justify-content:center;margin-top:22px;font-size:13px;font-weight:700;color:var(--sky)}
+.saved::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--sky);box-shadow:0 0 0 4px rgba(108,200,255,.18)}
+
+.nav{position:fixed;left:50%;transform:translateX(-50%);bottom:0;width:min(480px,100%);display:grid;grid-template-columns:repeat(3,1fr);gap:6px;padding:10px 14px calc(env(safe-area-inset-bottom) + 10px);background:rgba(4,6,12,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:1px solid var(--line);z-index:20}
+.nav button{border:0;background:transparent;color:var(--muted);font-weight:800;font-size:13px;padding:9px 4px;border-radius:14px;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:5px}
+.nav button.on{color:var(--text);background:var(--surface2);box-shadow:inset 0 0 0 1.5px var(--blue)}
+.badge{font-size:11px;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:2px 9px;color:var(--sky);min-width:26px}
+.nav button.on .badge{background:var(--blue);border-color:var(--blue);color:#fff}
+
+.session{position:fixed;inset:0;background:var(--bg);z-index:50;display:flex;flex-direction:column;max-width:480px;margin:0 auto;padding:calc(env(safe-area-inset-top) + 14px) 18px calc(env(safe-area-inset-bottom) + 14px);overflow:hidden}
+.s-top{display:flex;align-items:center;gap:14px}
+.x{width:40px;height:40px;border-radius:13px;border:0;background:var(--surface);color:var(--muted);font-size:16px;font-weight:900;cursor:pointer}
+.bar{flex:1;height:14px;border-radius:999px;background:var(--surface2);overflow:hidden}
+.fill{height:100%;width:0;background:linear-gradient(90deg,var(--blue),var(--sky));border-radius:999px;transition:width .3s}
+.count{font-size:13px;font-weight:800;color:var(--muted);min-width:52px;text-align:right}
+.qview{flex:1;display:flex;flex-direction:column;min-height:0}
+.s-body{flex:1;display:flex;flex-direction:column;justify-content:center;gap:14px;padding-bottom:20px}
+.kicker{font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.8px;color:var(--sky);text-align:center}
+.prompt{font-size:clamp(30px,8vw,40px);font-weight:900;text-align:center;line-height:1.15;word-break:break-word;padding:8px 6px}
+.speak{align-self:center;border:1.5px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;padding:9px 16px;font-weight:800;font-size:14px;cursor:pointer}
+.hint{align-self:center;font-size:13px;color:var(--muted);font-weight:700;min-height:18px;text-align:center}
+.answer{width:100%;font-size:20px;font-weight:700;padding:16px 18px;border-radius:18px;border:2px solid var(--line);background:var(--surface);color:var(--text);outline:none}
+.answer:focus{border-color:var(--blue);box-shadow:0 0 0 4px rgba(47,123,255,.2)}
+.answer:disabled{opacity:.7}
+.umlauts{display:flex;gap:8px;justify-content:center;margin-top:12px}
+.umlauts button{width:56px;height:44px;border-radius:13px;border:1.5px solid var(--line);background:var(--surface);color:var(--text);font-weight:800;font-size:18px;cursor:pointer}
+.s-foot{padding-top:10px;display:flex;gap:10px}
+.s-foot .btn-primary{margin-top:0;flex:1.4}
+.btn-pass{flex:1;margin-top:0;border:1.5px solid var(--line);border-radius:18px;background:var(--surface);color:var(--muted);font-weight:900;font-size:15px;padding:17px 8px;cursor:pointer;box-shadow:0 6px 0 #0c1426}
+.btn-pass:active{transform:translateY(4px);box-shadow:0 2px 0 #0c1426}
+.btn-pass:disabled{opacity:.4;cursor:not-allowed;transform:none}
+
+.sheet{position:absolute;left:0;right:0;bottom:0;padding:22px 18px calc(env(safe-area-inset-bottom) + 18px);border-radius:26px 26px 0 0;animation:up .25s ease}
+.sheet.ok{background:var(--ok-bg);border-top:2px solid var(--ok)}
+.sheet.part{background:var(--part-bg);border-top:2px solid var(--sky)}
+.sheet.bad{background:var(--bad-bg);border-top:2px solid var(--bad)}
+.sheet-title{font-size:22px;font-weight:900;margin-bottom:8px}
+.sheet.ok .sheet-title{color:var(--ok)}
+.sheet.part .sheet-title{color:var(--sky)}
+.sheet.bad .sheet-title{color:var(--bad)}
+.sheet-body{font-size:16px;line-height:1.5;margin-bottom:16px}
+.sheet-body strong{font-size:18px}
+.sheet .btn-primary{margin-top:0}
+@keyframes up{from{transform:translateY(100%)}to{transform:none}}
+
+.summary{flex:1;display:flex;flex-direction:column;justify-content:center;gap:14px;text-align:center}
+.summary h2{font-size:24px;font-weight:900}
+.big{font-size:60px;font-weight:900;color:var(--sky)}
+.rows{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:4px 18px;text-align:left}
+.rows div{display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--line);font-weight:800}
+.rows div:last-child{border-bottom:0}
+.rows span:last-child{color:var(--sky)}
+
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.7);display:grid;place-items:center;z-index:60;padding:20px}
+.modal-card{background:var(--surface);border:1px solid var(--line);border-radius:24px;padding:24px;max-width:360px;width:100%}
+.modal-card h2{font-size:22px;font-weight:900;margin-bottom:10px}
+.modal-card p{color:var(--muted);line-height:1.45;font-size:15px;font-weight:600}
+.row{display:flex;gap:10px;margin-top:22px}
+.row button{flex:1;border:0;border-radius:15px;padding:14px;font-weight:900;font-size:15px;cursor:pointer;color:#fff}
+.btn-ghost{background:var(--surface2);box-shadow:0 4px 0 #0c1426}
+.btn-danger{background:#c2324a;box-shadow:0 4px 0 #7e1d2e}
+</style>
+</head>
+<body>
+
+<div class="app">
+  <div class="brand">
+    <div class="logo">DE</div>
+    <div><b>Deutsch</b><small>Österreichisch</small></div>
+  </div>
+
+  <div id="loadError" class="empty" hidden>Could not load data.json. Make sure it is in the same folder as index.html.</div>
+
+  <!-- FLASHCARDS -->
+  <section class="tab" id="tab-flash">
+    <h1>Flashcards</h1>
+    <p class="sub">New words. Get a word right 3 times to move it to Recall. Miss it 3 times to move it to Struggling.</p>
+
+    <div class="label">Direction</div>
+    <div class="seg">
+      <button data-dir="en-de">English → German</button>
+      <button data-dir="de-en">German → English</button>
+    </div>
+
+    <div class="label">Words per session</div>
+    <div class="seg">
+      <button data-size="10">10</button>
+      <button data-size="20">20</button>
+      <button data-size="30">30</button>
+    </div>
+
+    <button class="btn-primary" id="start-flash">Start</button>
+    <div class="empty" id="empty-flash"></div>
+    <div class="saved" id="saved-flash"></div>
+    <button class="link" id="reset-btn">Reset word pool</button>
+  </section>
+
+  <!-- RECALL -->
+  <section class="tab" id="tab-recall">
+    <h1>Recall</h1>
+    <p class="sub">Words you have mastered. Miss one twice and it goes back to Flashcards.</p>
+
+    <div class="label">Direction</div>
+    <div class="seg">
+      <button data-dir="en-de">English → German</button>
+      <button data-dir="de-en">German → English</button>
+    </div>
+
+    <button class="btn-primary" id="start-recall">Start</button>
+    <div class="empty" id="empty-recall"></div>
+    <div class="note">Up to 10 words per session</div>
+  </section>
+
+  <!-- STRUGGLING -->
+  <section class="tab" id="tab-struggle">
+    <h1>Struggling</h1>
+    <p class="sub">Words you keep missing. Get one right twice and it goes back to Flashcards.</p>
+
+    <div class="label">Direction</div>
+    <div class="seg">
+      <button data-dir="en-de">English → German</button>
+      <button data-dir="de-en">German → English</button>
+    </div>
+
+    <button class="btn-primary" id="start-struggle">Start</button>
+    <div class="empty" id="empty-struggle"></div>
+    <div class="note">Up to 10 words per session</div>
+  </section>
+</div>
+
+<nav class="nav">
+  <button data-nav="flash">Flashcards <span class="badge" id="badge-flash">0</span></button>
+  <button data-nav="recall">Recall <span class="badge" id="badge-recall">0</span></button>
+  <button data-nav="struggle">Struggling <span class="badge" id="badge-struggle">0</span></button>
+</nav>
+
+<!-- SESSION -->
+<section class="session" id="session" hidden>
+  <div class="s-top">
+    <button class="x" id="quit" aria-label="Close">✕</button>
+    <div class="bar"><div class="fill" id="fill"></div></div>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="qview" id="qview">
+    <div class="s-body">
+      <div class="kicker" id="kicker"></div>
+      <div class="prompt" id="prompt"></div>
+      <button class="speak" id="speak">🔈 Listen</button>
+      <div class="hint" id="hint"></div>
+      <div>
+        <input class="answer" id="answer" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="done">
+        <div class="umlauts" id="umlauts">
+          <button type="button" data-ch="ä">ä</button>
+          <button type="button" data-ch="ö">ö</button>
+          <button type="button" data-ch="ü">ü</button>
+          <button type="button" data-ch="ß">ß</button>
+        </div>
+      </div>
+    </div>
+    <div class="s-foot">
+      <button class="btn-pass" id="pass">I don't know</button>
+      <button class="btn-primary" id="check" disabled>Check</button>
+    </div>
+  </div>
+
+  <div class="sheet ok" id="sheet" hidden>
+    <div class="sheet-title" id="sheetTitle"></div>
+    <div class="sheet-body" id="sheetBody"></div>
+    <button class="btn-primary" id="cont">Continue</button>
+  </div>
+
+  <div class="summary" id="summary" hidden>
+    <h2>Session complete</h2>
+    <div class="big" id="sumBig"></div>
+    <div class="rows" id="sumRows"></div>
+    <button class="btn-primary" id="done">Done</button>
+  </div>
+</section>
+
+<!-- RESET CONFIRMATION -->
+<div class="modal" id="modal" hidden>
+  <div class="modal-card">
+    <h2>Reset word pool?</h2>
+    <p>Every word goes back to Flashcards. Recall and Struggling will be emptied. This cannot be undone.</p>
+    <div class="row">
+      <button class="btn-ghost" id="modalCancel">Cancel</button>
+      <button class="btn-danger" id="modalConfirm">Yes, reset</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const PROGRESS_KEY = 'deutsch-progress-v1';
+const PREFS_KEY = 'deutsch-prefs-v1';
+const SAVED_AT_KEY = 'deutsch-saved-at-v1';
+const ARTICLES = ['der', 'die', 'das'];
+const TAB_STATE = { flash: 'new', recall: 'recall', struggle: 'struggling' };
+const EMPTY_TEXT = {
+  flash: 'No new words left. Reset the word pool to start again.',
+  recall: 'No words in Recall yet. A word moves here after 3 correct answers in Flashcards.',
+  struggle: 'No words in Struggling. A word moves here after 3 wrong answers in Flashcards.'
+};
+const MOVED_TEXT = {
+  recall: 'Moved to Recall.',
+  struggling: 'Moved to Struggling.',
+  new: 'Back in Flashcards.'
+};
+const MAX_REVIEW = 10;
+
+let words = [];
+let progress = {};
+let prefs = { direction: 'en-de', size: 10 };
+let session = null;
+
+const $ = id => document.getElementById(id);
+
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+function safeGet(key) { try { return localStorage.getItem(key); } catch (e) { return null; } }
+function safeSet(key, value) { try { localStorage.setItem(key, value); } catch (e) {} }
+
+/* ---------- Progress (saved on this device after every answer) ---------- */
+
+function blankProgress() {
+  return { state: 'new', correct: 0, wrong: 0, recallWrong: 0, struggleCorrect: 0 };
+}
+function stateOf(w) { return progress[w.german].state; }
+
+function loadProgress() {
+  let saved = {};
+  try { saved = JSON.parse(safeGet(PROGRESS_KEY)) || {}; } catch (e) { saved = {}; }
+  progress = {};
+  words.forEach(w => { progress[w.german] = Object.assign(blankProgress(), saved[w.german] || {}); });
+}
+
+function saveProgress() {
+  safeSet(PROGRESS_KEY, JSON.stringify(progress));
+  safeSet(SAVED_AT_KEY, new Date().toISOString());
+  renderSaved();
+}
+
+function renderSaved() {
+  const at = safeGet(SAVED_AT_KEY);
+  $('saved-flash').textContent = at
+    ? 'Progress saved on this device · ' + new Date(at).toLocaleString([], { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' })
+    : 'Progress is saved on this device after every answer';
+}
+
+function savePrefs() { safeSet(PREFS_KEY, JSON.stringify(prefs)); }
+
+function setState(p, state) {
+  p.state = state;
+  p.correct = 0;
+  p.wrong = 0;
+  p.recallWrong = 0;
+  p.struggleCorrect = 0;
+}
+
+// Flashcards (new): 3 correct -> Recall; 3 wrong -> Struggling.
+// Recall: 2 wrong -> back to Flashcards.
+// Struggling: 2 correct -> back to Flashcards.
+// Counters start from zero every time a word enters a stage.
+function applyResult(w, ok) {
+  const p = progress[w.german];
+  if (p.state === 'new') {
+    if (ok) p.correct++; else p.wrong++;
+    if (p.correct >= 3) setState(p, 'recall');
+    else if (p.wrong >= 3) setState(p, 'struggling');
+  } else if (p.state === 'recall') {
+    if (!ok) {
+      p.recallWrong++;
+      if (p.recallWrong >= 2) setState(p, 'new');
+    }
+  } else if (p.state === 'struggling') {
+    if (ok) {
+      p.struggleCorrect++;
+      if (p.struggleCorrect >= 2) setState(p, 'new');
+    }
+  }
+  saveProgress();
+}
+
+function totalIn(state) { return words.filter(w => stateOf(w) === state).length; }
+function poolFor(tab) {
+  return words.filter(w => stateOf(w) === TAB_STATE[tab]);
+}
+
+/* ---------- Session building ---------- */
+
+// Flashcards: 50% easy, 30% medium, 20% hard (5/3/2 for 10 words).
+// The chosen words are shuffled together, so the order is random.
+function pickFlashcards(pool, n) {
+  const byLevel = { 1: [], 2: [], 3: [] };
+  shuffle(pool).forEach(w => { if (byLevel[w.difficulty]) byLevel[w.difficulty].push(w); });
+
+  const targets = { 1: Math.round(n * 0.5), 2: Math.round(n * 0.3) };
+  targets[3] = n - targets[1] - targets[2];
+
+  const picked = [];
+  [1, 2, 3].forEach(l => picked.push(...byLevel[l].slice(0, targets[l])));
+
+  const missing = n - picked.length;
+  if (missing > 0) {
+    const leftovers = shuffle([
+      ...byLevel[1].slice(targets[1]),
+      ...byLevel[2].slice(targets[2]),
+      ...byLevel[3].slice(targets[3])
+    ]);
+    picked.push(...leftovers.slice(0, missing));
+  }
+
+  return shuffle(picked);
+}
+
+function startSession(tab) {
+  const pool = poolFor(tab);
+  if (!pool.length) return;
+
+  const queue = tab === 'flash'
+    ? pickFlashcards(pool, Math.min(prefs.size, pool.length))
+    : shuffle(pool).slice(0, Math.min(MAX_REVIEW, pool.length));
+
+  session = { tab, dir: prefs.direction, queue, i: 0, correct: 0, partial: 0, moved: [], answered: false };
+
+  $('session').hidden = false;
+  $('qview').hidden = false;
+  $('summary').hidden = true;
+  $('sheet').hidden = true;
+  showQuestion();
+}
+
+function closeSession() {
+  session = null;
+  $('session').hidden = true;
+  renderAll();
+}
+
+/* ---------- Question flow ---------- */
+
+function speakGerman(text) {
+  if (!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'de-AT';
+  u.rate = 0.9;
+  speechSynthesis.speak(u);
+}
+
+function showQuestion() {
+  const w = session.queue[session.i];
+  const toGerman = session.dir === 'en-de';
+  const isNoun = /^(der|die|das) /.test(w.german);
+
+  $('fill').style.width = (session.i / session.queue.length * 100) + '%';
+  $('count').textContent = (session.i + 1) + ' / ' + session.queue.length;
+  $('kicker').textContent = toGerman ? 'Translate to German' : 'Translate to English';
+  $('prompt').textContent = toGerman ? w.english : w.german;
+  $('hint').textContent = toGerman && isNoun ? 'Include the article: der, die or das' : '';
+  $('umlauts').hidden = !toGerman;
+
+  const input = $('answer');
+  input.value = '';
+  input.disabled = false;
+  input.placeholder = toGerman ? 'Type in German' : 'Type in English';
+  $('check').disabled = true;
+  $('pass').disabled = false;
+  $('sheet').hidden = true;
+  session.answered = false;
+
+  if (!toGerman) setTimeout(() => speakGerman(w.german), 350);
+}
+
+// pass = true when the user taps "I don't know": counts as wrong.
+function submitAnswer(pass = false) {
+  if (!session || session.answered) return;
+  const input = $('answer');
+  if (!pass && input.value.trim() === '') return;
+
+  const w = session.queue[session.i];
+  const res = pass ? { ok: false, kind: 'pass' } : evaluate(w, session.dir, input.value);
+  const before = stateOf(w);
+
+  applyResult(w, res.ok);
+
+  const after = stateOf(w);
+  if (res.ok) session.correct++;
+  if (res.ok && res.partial) session.partial++;
+  if (after !== before) session.moved.push({ word: w, to: after });
+
+  session.answered = true;
+  input.disabled = true;
+  $('check').disabled = true;
+  $('pass').disabled = true;
+  showFeedback(w, res, after !== before ? after : null);
+  speakGerman(w.german);
+}
+
+function showFeedback(w, res, movedTo) {
+  const sheet = $('sheet');
+  const shown = session.dir === 'en-de' ? w.german : w.english;
+  let title;
+  let cls;
+  let body;
+
+  if (res.ok && res.partial) {
+    title = 'Partly correct';
+    cls = 'part';
+    body = `<div>The word is right. The article is <strong>${esc(res.article)}</strong>.</div>
+            <div>Answer: <strong>${esc(w.german)}</strong></div>`;
+  } else if (res.ok) {
+    title = res.typo ? 'Correct, small typo' : 'Correct';
+    cls = 'ok';
+    body = `<div>Answer: <strong>${esc(shown)}</strong></div>`;
+  } else if (res.kind === 'pass') {
+    title = "Don't know";
+    cls = 'bad';
+    body = `<div>Answer: <strong>${esc(shown)}</strong></div>`;
+  } else {
+    title = 'Not quite';
+    cls = 'bad';
+    body = `<div>Answer: <strong>${esc(shown)}</strong></div>`;
+  }
+
+  if (movedTo) body += `<div style="margin-top:6px;color:var(--sky);font-weight:800;font-size:14px">${MOVED_TEXT[movedTo]}</div>`;
+
+  sheet.className = 'sheet ' + cls;
+  $('sheetTitle').textContent = title;
+  $('sheetBody').innerHTML = body;
+  sheet.hidden = false;
+}
+
+function nextQuestion() {
+  if (!session || !session.answered) return;
+  session.i++;
+  if (session.i >= session.queue.length) showSummary();
+  else showQuestion();
+}
+
+function showSummary() {
+  $('qview').hidden = true;
+  $('sheet').hidden = true;
+  $('count').textContent = '';
+  $('fill').style.width = '100%';
+  $('summary').hidden = false;
+
+  const count = to => session.moved.filter(m => m.to === to).length;
+  $('sumBig').textContent = session.correct + ' / ' + session.queue.length;
+  $('sumRows').innerHTML = `
+    <div><span>Correct</span><span>${session.correct - session.partial}</span></div>
+    <div><span>Partly correct (article)</span><span>${session.partial}</span></div>
+    <div><span>Moved to Recall</span><span>${count('recall')}</span></div>
+    <div><span>Moved to Struggling</span><span>${count('struggling')}</span></div>
+    <div><span>Back to Flashcards</span><span>${count('new')}</span></div>
+  `;
+}
+
+/* ---------- Answer checking ---------- */
+
+function levenshtein(a, b) {
+  const row = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 1; i <= a.length; i++) {
+    let prev = row[0];
+    row[0] = i;
+    for (let j = 1; j <= b.length; j++) {
+      const tmp = row[j];
+      row[j] = Math.min(row[j] + 1, row[j - 1] + 1, prev + (a[i - 1] === b[j - 1] ? 0 : 1));
+      prev = tmp;
+    }
+  }
+  return row[b.length];
+}
+
+// German comparison key: umlauts accepted as ae/oe/ue/ss, case and punctuation ignored.
+function keyDe(s) {
+  return s.normalize('NFC').toLowerCase()
+    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+    .replace(/[^a-z]/g, '');
+}
+
+// English comparison key: parentheses, leading "to/a/an/the" and punctuation ignored.
+function keyEn(s) {
+  return s.toLowerCase()
+    .replace(/\([^)]*\)/g, '')
+    .trim()
+    .replace(/^(to|a|an|the)\s+/, '')
+    .replace(/[^a-z]/g, '');
+}
+
+// Typo tolerance only for longer words, one edit at most.
+function matchKey(expected, got) {
+  if (!got) return null;
+  if (expected === got) return 'exact';
+  if (expected.length >= 5 && levenshtein(expected, got) <= 1) return 'typo';
+  return null;
+}
+
+function splitArticle(text) {
+  const parts = text.trim().split(/\s+/);
+  if (parts.length > 1 && ARTICLES.includes(parts[0].toLowerCase())) {
+    return { art: parts[0].toLowerCase(), noun: parts.slice(1).join(' ') };
+  }
+  return { art: null, noun: text.trim() };
+}
+
+// Articles are not part of the right/wrong decision for nouns:
+// the word must be right; a wrong or missing article gives "partly correct".
+function evaluate(w, dir, raw) {
+  const input = raw.trim();
+  if (!input) return { ok: false, kind: 'wrong' };
+
+  if (dir === 'en-de') {
+    const exp = splitArticle(w.german);
+    const got = splitArticle(input);
+
+    if (!exp.art) {
+      const m = matchKey(keyDe(w.german), keyDe(input));
+      return m ? { ok: true, typo: m === 'typo' } : { ok: false, kind: 'wrong' };
+    }
+
+    const m = matchKey(keyDe(exp.noun), keyDe(got.noun));
+    if (!m) return { ok: false, kind: 'wrong' };
+    if (got.art === exp.art) return { ok: true, typo: m === 'typo' };
+    return { ok: true, partial: true, article: exp.art, typo: m === 'typo' };
+  }
+
+  // German -> English: any listed meaning counts.
+  const gotKey = keyEn(input);
+  const alts = w.english.replace(/\([^)]*\)/g, '').split(/[,\/;]/).map(s => s.trim()).filter(Boolean);
+  for (const alt of alts) {
+    const m = matchKey(keyEn(alt), gotKey);
+    if (m) return { ok: true, typo: m === 'typo' };
+  }
+  return { ok: false, kind: 'wrong' };
+}
+
+/* ---------- Rendering ---------- */
+
+function renderControls() {
+  document.querySelectorAll('[data-dir]').forEach(b => b.classList.toggle('on', b.dataset.dir === prefs.direction));
+  document.querySelectorAll('[data-size]').forEach(b => b.classList.toggle('on', Number(b.dataset.size) === prefs.size));
+}
+
+function renderTab(tab) {
+  const pool = poolFor(tab).length;
+  const size = tab === 'flash' ? Math.min(prefs.size, pool) : Math.min(MAX_REVIEW, pool);
+  const btn = $('start-' + tab);
+  btn.disabled = pool === 0;
+  btn.textContent = pool ? `Start · ${size} words` : 'Nothing here yet';
+  $('empty-' + tab).textContent = pool ? '' : EMPTY_TEXT[tab];
+}
+
+function renderNav() {
+  $('badge-flash').textContent = totalIn('new');
+  $('badge-recall').textContent = totalIn('recall');
+  $('badge-struggle').textContent = totalIn('struggling');
+}
+
+function renderAll() {
+  renderControls();
+  renderTab('flash');
+  renderTab('recall');
+  renderTab('struggle');
+  renderNav();
+  renderSaved();
+}
+
+function showTab(tab) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('on', t.id === 'tab-' + tab));
+  document.querySelectorAll('.nav button').forEach(b => b.classList.toggle('on', b.dataset.nav === tab));
+  window.scrollTo(0, 0);
+}
+
+/* ---------- Reset ---------- */
+
+function openReset() { $('modal').hidden = false; }
+function closeReset() { $('modal').hidden = true; }
+function confirmReset() {
+  words.forEach(w => { progress[w.german] = blankProgress(); });
+  saveProgress();
+  closeReset();
+  renderAll();
+}
+
+/* ---------- Setup ---------- */
+
+function bindEvents() {
+  document.querySelectorAll('.nav button').forEach(b => b.addEventListener('click', () => showTab(b.dataset.nav)));
+
+  document.querySelectorAll('[data-dir]').forEach(b => b.addEventListener('click', () => {
+    prefs.direction = b.dataset.dir;
+    savePrefs();
+    renderAll();
+  }));
+
+  document.querySelectorAll('[data-size]').forEach(b => b.addEventListener('click', () => {
+    prefs.size = Number(b.dataset.size);
+    savePrefs();
+    renderAll();
+  }));
+
+  ['flash', 'recall', 'struggle'].forEach(tab => {
+    $('start-' + tab).addEventListener('click', () => startSession(tab));
+  });
+
+  $('reset-btn').addEventListener('click', openReset);
+  $('modalCancel').addEventListener('click', closeReset);
+  $('modalConfirm').addEventListener('click', confirmReset);
+
+  $('quit').addEventListener('click', closeSession);
+  $('done').addEventListener('click', closeSession);
+  $('check').addEventListener('click', () => submitAnswer(false));
+  $('pass').addEventListener('click', () => submitAnswer(true));
+  $('cont').addEventListener('click', nextQuestion);
+  $('speak').addEventListener('click', () => { if (session) speakGerman(session.queue[session.i].german); });
+
+  $('answer').addEventListener('input', () => {
+    const busy = !session || session.answered;
+    $('check').disabled = busy || $('answer').value.trim() === '';
+  });
+  $('answer').addEventListener('keydown', e => {
+    if (e.key === 'Enter') { e.preventDefault(); submitAnswer(false); }
+  });
+
+  $('umlauts').addEventListener('click', e => {
+    const b = e.target.closest('button');
+    const input = $('answer');
+    if (!b || input.disabled) return;
+    input.value += b.dataset.ch;
+    input.dispatchEvent(new Event('input'));
+    input.focus();
+  });
+
+  document.addEventListener('keydown', e => {
+    // Enter moves on only after feedback; the answer field handles its own Enter.
+    if (e.key === 'Enter' && e.target !== $('answer') && session && session.answered) nextQuestion();
+  });
+}
+
+async function init() {
+  try {
+    const saved = JSON.parse(safeGet(PREFS_KEY) || 'null');
+    if (saved) {
+      prefs.direction = saved.direction || prefs.direction;
+      prefs.size = saved.size || prefs.size;
+    }
+  } catch (e) {}
+
+  try {
+    const res = await fetch('data.json');
+    const json = await res.json();
+    words = json.flashcards.map(w => ({
+      id: w.id,
+      category: w.category,
+      german: w.german,
+      english: w.english,
+      difficulty: Number(w.difficulty)
+    }));
+  } catch (e) {
+    $('loadError').hidden = false;
+    return;
+  }
+
+  loadProgress();
+  bindEvents();
+  renderAll();
+  showTab('flash');
+
+  // Ask the browser to keep this site's data (helps on Android/desktop; harmless elsewhere).
+  if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(() => {});
+
+  if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+    navigator.serviceWorker.register('service-worker.js').catch(() => {});
+  }
+}
+
+init();
+</script>
+</body>
+</html>
