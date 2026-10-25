@@ -20,6 +20,7 @@
   --ok:#5fd0ff;--ok-bg:#0a2740;--part-bg:#0c1d33;--bad:#ff6b7f;--bad-bg:#2e0f18;
 }
 html,body{background:var(--bg);color:var(--text);font-family:ui-rounded,"SF Pro Rounded",-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.in-session .app,.in-session .nav{display:none}
 body{min-height:100vh;min-height:100dvh;background:radial-gradient(900px 500px at 50% -120px,#0f2a63 0%,var(--bg) 70%) fixed}
 [hidden]{display:none !important}
 button{font-family:inherit}
@@ -371,6 +372,7 @@ function startSession(tab) {
     ? pickFlashcards(pool, Math.min(prefs.size, pool.length))
     : shuffle(pool).slice(0, Math.min(MAX_REVIEW, pool.length));
 
+  document.body.classList.add('in-session');
   session = { tab, dir: prefs.direction, queue, i: 0, correct: 0, partial: 0, moved: [], answered: false };
 
   $('session').hidden = false;
@@ -382,6 +384,7 @@ function startSession(tab) {
 
 function closeSession() {
   session = null;
+  document.body.classList.remove('in-session');
   $('session').hidden = true;
   renderAll();
 }
@@ -658,17 +661,6 @@ function bindEvents() {
   ['flash', 'recall', 'struggle'].forEach(tab => {
     $('start-' + tab).addEventListener('click', () => startSession(tab));
   });
-
-  if (window.visualViewport) {
-    const fitToKeyboard = () => {
-      const vv = window.visualViewport;
-      const s = $('session');
-      s.style.top = vv.offsetTop + 'px';
-      s.style.height = vv.height + 'px';
-    };
-    visualViewport.addEventListener('resize', fitToKeyboard);
-    visualViewport.addEventListener('scroll', fitToKeyboard);
-  }
 
   $('reset-btn').addEventListener('click', openReset);
   $('modalCancel').addEventListener('click', closeReset);
