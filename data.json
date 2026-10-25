@@ -1202,7 +1202,7 @@
    "id": 131,
    "category": "Basics",
    "german": "ihr",
-   "english": "you",
+   "english": "you (plural)",
    "difficulty": 2,
    "pronunciation": "ihr",
    "altEnglish": []
@@ -2025,10 +2025,13 @@
    "id": 218,
    "category": "Basics",
    "german": "gleich",
-   "english": "right away",
+   "english": "in a moment",
    "difficulty": 2,
    "pronunciation": "gleich",
-   "altEnglish": []
+   "altEnglish": [
+    "right away",
+    "same"
+   ]
   },
   {
    "id": 219,
@@ -2101,11 +2104,11 @@
    "id": 226,
    "category": "Basics",
    "german": "jeder",
-   "english": "everyone",
+   "english": "each",
    "difficulty": 2,
    "pronunciation": "jeder",
    "altEnglish": [
-    "each"
+    "everyone"
    ]
   },
   {
@@ -2384,10 +2387,12 @@
    "id": 257,
    "category": "Time & Calendar",
    "german": "der Vormittag",
-   "english": "late morning",
+   "english": "forenoon",
    "difficulty": 3,
    "pronunciation": "der Vormittag",
-   "altEnglish": []
+   "altEnglish": [
+    "late morning"
+   ]
   },
   {
    "id": 258,
@@ -3133,7 +3138,7 @@
    "id": 340,
    "category": "Family & People",
    "german": "der Cousin",
-   "english": "cousin",
+   "english": "cousin (male)",
    "difficulty": 2,
    "pronunciation": "der Cousin",
    "altEnglish": []
@@ -3142,7 +3147,7 @@
    "id": 341,
    "category": "Family & People",
    "german": "die Cousine",
-   "english": "cousin",
+   "english": "cousin (female)",
    "difficulty": 2,
    "pronunciation": "die Cousine",
    "altEnglish": []
@@ -3191,7 +3196,7 @@
    "id": 346,
    "category": "Family & People",
    "german": "der Freund",
-   "english": "friend",
+   "english": "friend (male)",
    "difficulty": 1,
    "pronunciation": "der Freund",
    "altEnglish": [
@@ -3202,7 +3207,7 @@
    "id": 347,
    "category": "Family & People",
    "german": "die Freundin",
-   "english": "friend",
+   "english": "friend (female)",
    "difficulty": 1,
    "pronunciation": "die Freundin",
    "altEnglish": [
@@ -3213,7 +3218,7 @@
    "id": 348,
    "category": "Family & People",
    "german": "der Partner",
-   "english": "partner",
+   "english": "partner (male)",
    "difficulty": 2,
    "pronunciation": "der Partner",
    "altEnglish": []
@@ -3222,7 +3227,7 @@
    "id": 349,
    "category": "Family & People",
    "german": "die Partnerin",
-   "english": "partner",
+   "english": "partner (female)",
    "difficulty": 2,
    "pronunciation": "die Partnerin",
    "altEnglish": []
@@ -3287,7 +3292,7 @@
    "id": 356,
    "category": "Family & People",
    "german": "der Nachbar",
-   "english": "neighbour",
+   "english": "neighbour (male)",
    "difficulty": 2,
    "pronunciation": "der Nachbar",
    "altEnglish": []
@@ -3296,7 +3301,7 @@
    "id": 357,
    "category": "Family & People",
    "german": "die Nachbarin",
-   "english": "neighbour",
+   "english": "neighbour (female)",
    "difficulty": 2,
    "pronunciation": "die Nachbarin",
    "altEnglish": []
@@ -3305,7 +3310,7 @@
    "id": 358,
    "category": "Family & People",
    "german": "der Kollege",
-   "english": "colleague",
+   "english": "colleague (male)",
    "difficulty": 2,
    "pronunciation": "der Kollege",
    "altEnglish": []
@@ -3314,7 +3319,7 @@
    "id": 359,
    "category": "Family & People",
    "german": "die Kollegin",
-   "english": "colleague",
+   "english": "colleague (female)",
    "difficulty": 2,
    "pronunciation": "die Kollegin",
    "altEnglish": []
@@ -3323,7 +3328,7 @@
    "id": 360,
    "category": "Family & People",
    "german": "der Chef",
-   "english": "boss",
+   "english": "boss (male)",
    "difficulty": 2,
    "pronunciation": "der Chef",
    "altEnglish": []
@@ -3332,7 +3337,7 @@
    "id": 361,
    "category": "Family & People",
    "german": "die Chefin",
-   "english": "boss",
+   "english": "boss (female)",
    "difficulty": 2,
    "pronunciation": "die Chefin",
    "altEnglish": []
@@ -3341,7 +3346,7 @@
    "id": 362,
    "category": "Family & People",
    "german": "der Lehrer",
-   "english": "teacher",
+   "english": "teacher (male)",
    "difficulty": 1,
    "pronunciation": "der Lehrer",
    "altEnglish": []
@@ -3350,7 +3355,7 @@
    "id": 363,
    "category": "Family & People",
    "german": "die Lehrerin",
-   "english": "teacher",
+   "english": "teacher (female)",
    "difficulty": 1,
    "pronunciation": "die Lehrerin",
    "altEnglish": []
@@ -3359,7 +3364,7 @@
    "id": 364,
    "category": "Family & People",
    "german": "der Schüler",
-   "english": "pupil",
+   "english": "pupil (male)",
    "difficulty": 1,
    "pronunciation": "der Schüler",
    "altEnglish": []
@@ -3368,7 +3373,7 @@
    "id": 365,
    "category": "Family & People",
    "german": "die Schülerin",
-   "english": "pupil",
+   "english": "pupil (female)",
    "difficulty": 1,
    "pronunciation": "die Schülerin",
    "altEnglish": []
@@ -3377,7 +3382,7 @@
    "id": 366,
    "category": "Family & People",
    "german": "der Student",
-   "english": "student",
+   "english": "student (male)",
    "difficulty": 2,
    "pronunciation": "der Student",
    "altEnglish": []
@@ -3386,7 +3391,7 @@
    "id": 367,
    "category": "Family & People",
    "german": "die Studentin",
-   "english": "student",
+   "english": "student (female)",
    "difficulty": 2,
    "pronunciation": "die Studentin",
    "altEnglish": []
@@ -3395,7 +3400,7 @@
    "id": 368,
    "category": "Family & People",
    "german": "der Arzt",
-   "english": "doctor",
+   "english": "doctor (male)",
    "difficulty": 1,
    "pronunciation": "der Arzt",
    "altEnglish": []
@@ -3404,7 +3409,7 @@
    "id": 369,
    "category": "Family & People",
    "german": "die Ärztin",
-   "english": "doctor",
+   "english": "doctor (female)",
    "difficulty": 1,
    "pronunciation": "die Ärztin",
    "altEnglish": []
@@ -3413,7 +3418,7 @@
    "id": 370,
    "category": "Family & People",
    "german": "der Verkäufer",
-   "english": "salesperson",
+   "english": "salesperson (male)",
    "difficulty": 2,
    "pronunciation": "der Verkäufer",
    "altEnglish": []
@@ -3422,7 +3427,7 @@
    "id": 371,
    "category": "Family & People",
    "german": "die Verkäuferin",
-   "english": "salesperson",
+   "english": "salesperson (female)",
    "difficulty": 2,
    "pronunciation": "die Verkäuferin",
    "altEnglish": []
@@ -3449,7 +3454,7 @@
    "id": 374,
    "category": "Family & People",
    "german": "der Polizist",
-   "english": "police officer",
+   "english": "police officer (male)",
    "difficulty": 2,
    "pronunciation": "der Polizist",
    "altEnglish": []
@@ -3458,7 +3463,7 @@
    "id": 375,
    "category": "Family & People",
    "german": "die Polizistin",
-   "english": "police officer",
+   "english": "police officer (female)",
    "difficulty": 3,
    "pronunciation": "die Polizistin",
    "altEnglish": []
@@ -3467,7 +3472,7 @@
    "id": 376,
    "category": "Family & People",
    "german": "der Fahrer",
-   "english": "driver",
+   "english": "driver (male)",
    "difficulty": 2,
    "pronunciation": "der Fahrer",
    "altEnglish": []
@@ -3476,7 +3481,7 @@
    "id": 377,
    "category": "Family & People",
    "german": "die Fahrerin",
-   "english": "driver",
+   "english": "driver (female)",
    "difficulty": 3,
    "pronunciation": "die Fahrerin",
    "altEnglish": []
@@ -3512,7 +3517,7 @@
    "id": 381,
    "category": "Family & People",
    "german": "der Mitarbeiter",
-   "english": "employee",
+   "english": "employee (male)",
    "difficulty": 2,
    "pronunciation": "der Mitarbeiter",
    "altEnglish": []
@@ -3521,7 +3526,7 @@
    "id": 382,
    "category": "Family & People",
    "german": "die Mitarbeiterin",
-   "english": "employee",
+   "english": "employee (female)",
    "difficulty": 3,
    "pronunciation": "die Mitarbeiterin",
    "altEnglish": []
@@ -3530,7 +3535,7 @@
    "id": 383,
    "category": "Family & People",
    "german": "der Kunde",
-   "english": "customer",
+   "english": "customer (male)",
    "difficulty": 2,
    "pronunciation": "der Kunde",
    "altEnglish": []
@@ -3539,7 +3544,7 @@
    "id": 384,
    "category": "Family & People",
    "german": "die Kundin",
-   "english": "customer",
+   "english": "customer (female)",
    "difficulty": 2,
    "pronunciation": "die Kundin",
    "altEnglish": []
@@ -4350,10 +4355,12 @@
    "id": 473,
    "category": "Food & Drink",
    "german": "das Hendl",
-   "english": "chicken",
+   "english": "roast chicken",
    "difficulty": 2,
    "pronunciation": "das Hendl",
-   "altEnglish": []
+   "altEnglish": [
+    "chicken"
+   ]
   },
   {
    "id": 474,
@@ -4395,10 +4402,12 @@
    "id": 478,
    "category": "Food & Drink",
    "german": "das Würstel",
-   "english": "sausage",
+   "english": "frankfurter",
    "difficulty": 2,
    "pronunciation": "das Würstel",
-   "altEnglish": []
+   "altEnglish": [
+    "sausage"
+   ]
   },
   {
    "id": 479,
@@ -4909,11 +4918,11 @@
    "id": 534,
    "category": "Supermarket & Shopping",
    "german": "der Einkauf",
-   "english": "purchase",
+   "english": "shopping",
    "difficulty": 2,
    "pronunciation": "der Einkauf",
    "altEnglish": [
-    "shopping"
+    "purchase"
    ]
   },
   {
@@ -7422,7 +7431,7 @@
    "id": 809,
    "category": "Sports & Gym",
    "german": "der Trainer",
-   "english": "trainer",
+   "english": "trainer (male)",
    "difficulty": 2,
    "pronunciation": "der Trainer",
    "altEnglish": []
@@ -7431,7 +7440,7 @@
    "id": 810,
    "category": "Sports & Gym",
    "german": "die Trainerin",
-   "english": "trainer",
+   "english": "trainer (female)",
    "difficulty": 3,
    "pronunciation": "die Trainerin",
    "altEnglish": []
