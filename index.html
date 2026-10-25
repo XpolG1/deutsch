@@ -71,8 +71,6 @@ h1{font-size:30px;font-weight:900;letter-spacing:-.5px;margin-bottom:6px}
 .answer{width:100%;font-size:20px;font-weight:700;padding:16px 18px;border-radius:18px;border:2px solid var(--line);background:var(--surface);color:var(--text);outline:none}
 .answer:focus{border-color:var(--blue);box-shadow:0 0 0 4px rgba(47,123,255,.2)}
 .answer:disabled{opacity:.7}
-.umlauts{display:flex;gap:8px;justify-content:center;margin-top:12px}
-.umlauts button{width:56px;height:44px;border-radius:13px;border:1.5px solid var(--line);background:var(--surface);color:var(--text);font-weight:800;font-size:18px;cursor:pointer}
 .s-foot{padding-top:10px;display:flex;gap:10px}
 .s-foot .btn-primary{margin-top:0;flex:1.4}
 .btn-pass{flex:1;margin-top:0;border:1.5px solid var(--line);border-radius:18px;background:var(--surface);color:var(--muted);font-weight:900;font-size:15px;padding:17px 8px;cursor:pointer;box-shadow:0 6px 0 #0c1426}
@@ -199,12 +197,6 @@ h1{font-size:30px;font-weight:900;letter-spacing:-.5px;margin-bottom:6px}
       <div class="hint" id="hint"></div>
       <div>
         <input class="answer" id="answer" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="done">
-        <div class="umlauts" id="umlauts">
-          <button type="button" data-ch="ä">ä</button>
-          <button type="button" data-ch="ö">ö</button>
-          <button type="button" data-ch="ü">ü</button>
-          <button type="button" data-ch="ß">ß</button>
-        </div>
       </div>
     </div>
     <div class="s-foot">
@@ -415,7 +407,6 @@ function showQuestion() {
   $('kicker').textContent = toGerman ? 'Translate to German' : 'Translate to English';
   $('prompt').textContent = toGerman ? w.english : w.german;
   $('hint').textContent = toGerman && isNoun ? 'Include the article: der, die or das' : '';
-  $('umlauts').hidden = !toGerman;
 
   const input = $('answer');
   input.value = '';
@@ -426,7 +417,8 @@ function showQuestion() {
   $('sheet').hidden = true;
   session.answered = false;
 
-  if (!toGerman) setTimeout(() => speakGerman(w.german), 350);
+  clearTimeout(session.timer);
+  session.timer = setTimeout(() => speakGerman(w.german), 1000);
 }
 
 // pass = true when the user taps "I don't know": counts as wrong.
@@ -446,6 +438,7 @@ function submitAnswer(pass = false) {
   if (res.ok && res.partial) session.partial++;
   if (after !== before) session.moved.push({ word: w, to: after });
 
+  clearTimeout(session.timer);
   session.answered = true;
   input.disabled = true;
   $('check').disabled = true;
@@ -584,7 +577,7 @@ function evaluate(w, dir, raw) {
 
   // German -> English: any listed meaning counts.
   const gotKey = keyEn(input);
-  const alts = w.english.replace(/\([^)]*\)/g, '').split(/[,\/;]/).map(s => s.trim()).filter(Boolean);
+  const alts = [w.english, ...(w.altEnglish || [])].join(',').replace(/\([^)]*\)/g, '').split(/[,\/;]/).map(s => s.trim()).filter(Boolean);
   for (const alt of alts) {
     const m = matchKey(keyEn(alt), gotKey);
     if (m) return { ok: true, typo: m === 'typo' };
@@ -680,15 +673,6 @@ function bindEvents() {
     if (e.key === 'Enter') { e.preventDefault(); submitAnswer(false); }
   });
 
-  $('umlauts').addEventListener('click', e => {
-    const b = e.target.closest('button');
-    const input = $('answer');
-    if (!b || input.disabled) return;
-    input.value += b.dataset.ch;
-    input.dispatchEvent(new Event('input'));
-    input.focus();
-  });
-
   document.addEventListener('keydown', e => {
     // Enter moves on only after feedback; the answer field handles its own Enter.
     if (e.key === 'Enter' && e.target !== $('answer') && session && session.answered) nextQuestion();
@@ -712,6 +696,7 @@ async function init() {
       category: w.category,
       german: w.german,
       english: w.english,
+      altEnglish: w.altEnglish || [],
       difficulty: Number(w.difficulty)
     }));
   } catch (e) {
