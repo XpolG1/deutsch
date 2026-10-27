@@ -7,7 +7,8 @@
    "english": "to be",
    "difficulty": 1,
    "pronunciation": "sein",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 2,
@@ -16,7 +17,8 @@
    "english": "to have",
    "difficulty": 1,
    "pronunciation": "haben",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 3,
@@ -25,7 +27,8 @@
    "english": "to become",
    "difficulty": 1,
    "pronunciation": "werden",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 4,
@@ -34,7 +37,10 @@
    "english": "to be able to",
    "difficulty": 1,
    "pronunciation": "können",
-   "altEnglish": []
+   "altEnglish": [
+    "can"
+   ],
+   "altTarget": []
   },
   {
    "id": 5,
@@ -43,7 +49,10 @@
    "english": "to have to",
    "difficulty": 1,
    "pronunciation": "müssen",
-   "altEnglish": []
+   "altEnglish": [
+    "must"
+   ],
+   "altTarget": []
   },
   {
    "id": 6,
@@ -52,7 +61,8 @@
    "english": "to want",
    "difficulty": 1,
    "pronunciation": "wollen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 7,
@@ -61,7 +71,10 @@
    "english": "to be supposed to",
    "difficulty": 2,
    "pronunciation": "sollen",
-   "altEnglish": []
+   "altEnglish": [
+    "should"
+   ],
+   "altTarget": []
   },
   {
    "id": 8,
@@ -70,7 +83,8 @@
    "english": "to be allowed to",
    "difficulty": 2,
    "pronunciation": "dürfen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 9,
@@ -79,7 +93,8 @@
    "english": "to like",
    "difficulty": 2,
    "pronunciation": "mögen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 10,
@@ -90,7 +105,8 @@
    "pronunciation": "machen",
    "altEnglish": [
     "to do"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 11,
@@ -99,7 +115,8 @@
    "english": "to go",
    "difficulty": 1,
    "pronunciation": "gehen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 12,
@@ -108,7 +125,8 @@
    "english": "to come",
    "difficulty": 1,
    "pronunciation": "kommen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 13,
@@ -119,7 +137,8 @@
    "pronunciation": "fahren",
    "altEnglish": [
     "to travel"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 14,
@@ -128,7 +147,8 @@
    "english": "to see",
    "difficulty": 1,
    "pronunciation": "sehen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 15,
@@ -137,7 +157,10 @@
    "english": "to speak",
    "difficulty": 1,
    "pronunciation": "sprechen",
-   "altEnglish": []
+   "altEnglish": [
+    "talk"
+   ],
+   "altTarget": []
   },
   {
    "id": 16,
@@ -146,7 +169,8 @@
    "english": "to hear",
    "difficulty": 1,
    "pronunciation": "hören",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 17,
@@ -155,7 +179,8 @@
    "english": "to read",
    "difficulty": 1,
    "pronunciation": "lesen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 18,
@@ -164,7 +189,8 @@
    "english": "to write",
    "difficulty": 1,
    "pronunciation": "schreiben",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 19,
@@ -173,7 +199,8 @@
    "english": "to understand",
    "difficulty": 1,
    "pronunciation": "verstehen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 20,
@@ -182,7 +209,8 @@
    "english": "to know",
    "difficulty": 1,
    "pronunciation": "wissen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 21,
@@ -191,7 +219,8 @@
    "english": "to know",
    "difficulty": 2,
    "pronunciation": "kennen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 22,
@@ -200,7 +229,8 @@
    "english": "to think",
    "difficulty": 1,
    "pronunciation": "denken",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 23,
@@ -209,7 +239,8 @@
    "english": "to believe",
    "difficulty": 2,
    "pronunciation": "glauben",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 24,
@@ -218,7 +249,8 @@
    "english": "to say",
    "difficulty": 1,
    "pronunciation": "sagen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 25,
@@ -227,7 +259,8 @@
    "english": "to ask",
    "difficulty": 1,
    "pronunciation": "fragen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 26,
@@ -236,7 +269,10 @@
    "english": "to answer",
    "difficulty": 2,
    "pronunciation": "antworten",
-   "altEnglish": []
+   "altEnglish": [
+    "reply"
+   ],
+   "altTarget": []
   },
   {
    "id": 27,
@@ -245,7 +281,8 @@
    "english": "to give",
    "difficulty": 1,
    "pronunciation": "geben",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 28,
@@ -254,7 +291,8 @@
    "english": "to take",
    "difficulty": 1,
    "pronunciation": "nehmen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 29,
@@ -263,7 +301,8 @@
    "english": "to bring",
    "difficulty": 1,
    "pronunciation": "bringen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 30,
@@ -272,7 +311,8 @@
    "english": "to fetch",
    "difficulty": 2,
    "pronunciation": "holen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 31,
@@ -281,7 +321,10 @@
    "english": "to buy",
    "difficulty": 1,
    "pronunciation": "kaufen",
-   "altEnglish": []
+   "altEnglish": [
+    "purchase"
+   ],
+   "altTarget": []
   },
   {
    "id": 32,
@@ -290,7 +333,8 @@
    "english": "to pay",
    "difficulty": 1,
    "pronunciation": "bezahlen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 33,
@@ -299,7 +343,10 @@
    "english": "to cost",
    "difficulty": 2,
    "pronunciation": "kosten",
-   "altEnglish": []
+   "altEnglish": [
+    "costs"
+   ],
+   "altTarget": []
   },
   {
    "id": 34,
@@ -308,7 +355,10 @@
    "english": "to need",
    "difficulty": 1,
    "pronunciation": "brauchen",
-   "altEnglish": []
+   "altEnglish": [
+    "require"
+   ],
+   "altTarget": []
   },
   {
    "id": 35,
@@ -317,7 +367,8 @@
    "english": "to find",
    "difficulty": 1,
    "pronunciation": "finden",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 36,
@@ -326,7 +377,8 @@
    "english": "to look for",
    "difficulty": 1,
    "pronunciation": "suchen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 37,
@@ -335,7 +387,10 @@
    "english": "to wait",
    "difficulty": 1,
    "pronunciation": "warten",
-   "altEnglish": []
+   "altEnglish": [
+    "await"
+   ],
+   "altTarget": []
   },
   {
    "id": 38,
@@ -344,7 +399,8 @@
    "english": "to work",
    "difficulty": 1,
    "pronunciation": "arbeiten",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 39,
@@ -353,7 +409,8 @@
    "english": "to learn",
    "difficulty": 1,
    "pronunciation": "lernen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 40,
@@ -362,7 +419,8 @@
    "english": "to play",
    "difficulty": 1,
    "pronunciation": "spielen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 41,
@@ -371,7 +429,8 @@
    "english": "to eat",
    "difficulty": 1,
    "pronunciation": "essen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 42,
@@ -380,7 +439,8 @@
    "english": "to drink",
    "difficulty": 1,
    "pronunciation": "trinken",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 43,
@@ -389,7 +449,8 @@
    "english": "to cook",
    "difficulty": 1,
    "pronunciation": "kochen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 44,
@@ -398,7 +459,8 @@
    "english": "to bake",
    "difficulty": 2,
    "pronunciation": "backen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 45,
@@ -407,7 +469,8 @@
    "english": "to sleep",
    "difficulty": 1,
    "pronunciation": "schlafen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 46,
@@ -416,7 +479,8 @@
    "english": "to get up",
    "difficulty": 2,
    "pronunciation": "aufstehen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 47,
@@ -425,7 +489,10 @@
    "english": "to wake up",
    "difficulty": 2,
    "pronunciation": "aufwachen",
-   "altEnglish": []
+   "altEnglish": [
+    "awaken"
+   ],
+   "altTarget": []
   },
   {
    "id": 48,
@@ -434,7 +501,8 @@
    "english": "to shower",
    "difficulty": 2,
    "pronunciation": "duschen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 49,
@@ -443,7 +511,8 @@
    "english": "to wash",
    "difficulty": 2,
    "pronunciation": "waschen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 50,
@@ -452,7 +521,8 @@
    "english": "to put on",
    "difficulty": 2,
    "pronunciation": "anziehen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 51,
@@ -461,7 +531,8 @@
    "english": "to take off",
    "difficulty": 2,
    "pronunciation": "ausziehen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 52,
@@ -472,7 +543,8 @@
    "pronunciation": "tragen",
    "altEnglish": [
     "to wear"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 53,
@@ -481,7 +553,8 @@
    "english": "to put",
    "difficulty": 2,
    "pronunciation": "stellen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 54,
@@ -492,7 +565,8 @@
    "pronunciation": "legen",
    "altEnglish": [
     "to put down"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 55,
@@ -501,7 +575,10 @@
    "english": "to sit",
    "difficulty": 1,
    "pronunciation": "sitzen",
-   "altEnglish": []
+   "altEnglish": [
+    "sit down"
+   ],
+   "altTarget": []
   },
   {
    "id": 56,
@@ -510,7 +587,8 @@
    "english": "to stand",
    "difficulty": 1,
    "pronunciation": "stehen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 57,
@@ -519,7 +597,8 @@
    "english": "to lie",
    "difficulty": 2,
    "pronunciation": "liegen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 58,
@@ -530,7 +609,8 @@
    "pronunciation": "laufen",
    "altEnglish": [
     "to walk"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 59,
@@ -539,7 +619,8 @@
    "english": "to fly",
    "difficulty": 2,
    "pronunciation": "fliegen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 60,
@@ -548,7 +629,8 @@
    "english": "to swim",
    "difficulty": 2,
    "pronunciation": "schwimmen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 61,
@@ -557,7 +639,11 @@
    "english": "to cycle",
    "difficulty": 2,
    "pronunciation": "radfahren",
-   "altEnglish": []
+   "altEnglish": [
+    "bike",
+    "ride a bicycle"
+   ],
+   "altTarget": []
   },
   {
    "id": 62,
@@ -566,7 +652,10 @@
    "english": "to live",
    "difficulty": 1,
    "pronunciation": "wohnen",
-   "altEnglish": []
+   "altEnglish": [
+    "reside"
+   ],
+   "altTarget": []
   },
   {
    "id": 63,
@@ -575,7 +664,10 @@
    "english": "to live",
    "difficulty": 2,
    "pronunciation": "leben",
-   "altEnglish": []
+   "altEnglish": [
+    "reside"
+   ],
+   "altTarget": []
   },
   {
    "id": 64,
@@ -584,7 +676,10 @@
    "english": "to stay",
    "difficulty": 2,
    "pronunciation": "bleiben",
-   "altEnglish": []
+   "altEnglish": [
+    "remain"
+   ],
+   "altTarget": []
   },
   {
    "id": 65,
@@ -593,7 +688,8 @@
    "english": "to begin",
    "difficulty": 2,
    "pronunciation": "beginnen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 66,
@@ -602,7 +698,8 @@
    "english": "to start",
    "difficulty": 1,
    "pronunciation": "anfangen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 67,
@@ -611,7 +708,8 @@
    "english": "to stop",
    "difficulty": 2,
    "pronunciation": "aufhören",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 68,
@@ -620,7 +718,8 @@
    "english": "to open",
    "difficulty": 2,
    "pronunciation": "öffnen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 69,
@@ -629,7 +728,8 @@
    "english": "to close",
    "difficulty": 2,
    "pronunciation": "schließen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 70,
@@ -638,7 +738,8 @@
    "english": "to help",
    "difficulty": 1,
    "pronunciation": "helfen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 71,
@@ -649,7 +750,8 @@
    "pronunciation": "bitten",
    "altEnglish": [
     "to request"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 72,
@@ -658,7 +760,8 @@
    "english": "to thank",
    "difficulty": 2,
    "pronunciation": "danken",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 73,
@@ -667,7 +770,8 @@
    "english": "to explain",
    "difficulty": 2,
    "pronunciation": "erklären",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 74,
@@ -676,7 +780,8 @@
    "english": "to show",
    "difficulty": 1,
    "pronunciation": "zeigen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 75,
@@ -687,7 +792,8 @@
    "pronunciation": "bekommen",
    "altEnglish": [
     "to receive"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 76,
@@ -696,7 +802,8 @@
    "english": "to lose",
    "difficulty": 2,
    "pronunciation": "verlieren",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 77,
@@ -705,7 +812,8 @@
    "english": "to meet",
    "difficulty": 2,
    "pronunciation": "treffen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 78,
@@ -714,7 +822,8 @@
    "english": "to visit",
    "difficulty": 2,
    "pronunciation": "besuchen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 79,
@@ -723,7 +832,8 @@
    "english": "to travel",
    "difficulty": 2,
    "pronunciation": "reisen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 80,
@@ -732,7 +842,8 @@
    "english": "to arrive",
    "difficulty": 2,
    "pronunciation": "ankommen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 81,
@@ -741,7 +852,10 @@
    "english": "to depart",
    "difficulty": 2,
    "pronunciation": "abfahren",
-   "altEnglish": []
+   "altEnglish": [
+    "leave"
+   ],
+   "altTarget": []
   },
   {
    "id": 82,
@@ -752,7 +866,8 @@
    "pronunciation": "einsteigen",
    "altEnglish": [
     "to board"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 83,
@@ -761,7 +876,8 @@
    "english": "to get off",
    "difficulty": 2,
    "pronunciation": "aussteigen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 84,
@@ -770,7 +886,8 @@
    "english": "to change",
    "difficulty": 3,
    "pronunciation": "umsteigen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 85,
@@ -779,7 +896,8 @@
    "english": "to park",
    "difficulty": 2,
    "pronunciation": "parken",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 86,
@@ -788,7 +906,10 @@
    "english": "to refuel",
    "difficulty": 2,
    "pronunciation": "tanken",
-   "altEnglish": []
+   "altEnglish": [
+    "fill up"
+   ],
+   "altTarget": []
   },
   {
    "id": 87,
@@ -797,7 +918,10 @@
    "english": "to build",
    "difficulty": 2,
    "pronunciation": "bauen",
-   "altEnglish": []
+   "altEnglish": [
+    "construct"
+   ],
+   "altTarget": []
   },
   {
    "id": 88,
@@ -806,7 +930,8 @@
    "english": "to clean",
    "difficulty": 2,
    "pronunciation": "putzen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 89,
@@ -815,7 +940,8 @@
    "english": "to tidy up",
    "difficulty": 3,
    "pronunciation": "aufräumen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 90,
@@ -824,7 +950,8 @@
    "english": "to rain",
    "difficulty": 2,
    "pronunciation": "regnen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 91,
@@ -833,7 +960,8 @@
    "english": "to snow",
    "difficulty": 2,
    "pronunciation": "schneien",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 92,
@@ -844,7 +972,8 @@
    "pronunciation": "passen",
    "altEnglish": [
     "to suit"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 93,
@@ -853,7 +982,8 @@
    "english": "to hope",
    "difficulty": 2,
    "pronunciation": "hoffen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 94,
@@ -862,7 +992,8 @@
    "english": "to love",
    "difficulty": 2,
    "pronunciation": "lieben",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 95,
@@ -871,7 +1002,10 @@
    "english": "to cry",
    "difficulty": 2,
    "pronunciation": "weinen",
-   "altEnglish": []
+   "altEnglish": [
+    "weep"
+   ],
+   "altTarget": []
   },
   {
    "id": 96,
@@ -880,7 +1014,8 @@
    "english": "to laugh",
    "difficulty": 2,
    "pronunciation": "lachen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 97,
@@ -889,7 +1024,8 @@
    "english": "to smile",
    "difficulty": 2,
    "pronunciation": "lächeln",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 98,
@@ -898,7 +1034,8 @@
    "english": "to forget",
    "difficulty": 2,
    "pronunciation": "vergessen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 99,
@@ -907,7 +1044,8 @@
    "english": "to plan",
    "difficulty": 2,
    "pronunciation": "planen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 100,
@@ -916,7 +1054,8 @@
    "english": "to spend",
    "difficulty": 2,
    "pronunciation": "ausgeben",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 101,
@@ -925,7 +1064,8 @@
    "english": "to save",
    "difficulty": 2,
    "pronunciation": "sparen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 102,
@@ -934,7 +1074,8 @@
    "english": "to earn",
    "difficulty": 2,
    "pronunciation": "verdienen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 103,
@@ -943,7 +1084,8 @@
    "english": "to take along",
    "difficulty": 2,
    "pronunciation": "mitnehmen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 104,
@@ -952,7 +1094,8 @@
    "english": "to call",
    "difficulty": 2,
    "pronunciation": "anrufen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 105,
@@ -961,7 +1104,8 @@
    "english": "to send",
    "difficulty": 2,
    "pronunciation": "schicken",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 106,
@@ -970,7 +1114,10 @@
    "english": "to come back",
    "difficulty": 2,
    "pronunciation": "zurückkommen",
-   "altEnglish": []
+   "altEnglish": [
+    "return"
+   ],
+   "altTarget": []
   },
   {
    "id": 107,
@@ -979,7 +1126,10 @@
    "english": "to leave",
    "difficulty": 3,
    "pronunciation": "verlassen",
-   "altEnglish": []
+   "altEnglish": [
+    "depart"
+   ],
+   "altTarget": []
   },
   {
    "id": 108,
@@ -988,7 +1138,8 @@
    "english": "to pick up",
    "difficulty": 2,
    "pronunciation": "abholen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 109,
@@ -997,7 +1148,10 @@
    "english": "to switch on",
    "difficulty": 2,
    "pronunciation": "einschalten",
-   "altEnglish": []
+   "altEnglish": [
+    "turn on"
+   ],
+   "altTarget": []
   },
   {
    "id": 110,
@@ -1006,7 +1160,10 @@
    "english": "to switch off",
    "difficulty": 2,
    "pronunciation": "ausschalten",
-   "altEnglish": []
+   "altEnglish": [
+    "turn off"
+   ],
+   "altTarget": []
   },
   {
    "id": 111,
@@ -1015,7 +1172,8 @@
    "english": "to use",
    "difficulty": 2,
    "pronunciation": "benutzen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 112,
@@ -1025,8 +1183,10 @@
    "difficulty": 2,
    "pronunciation": "probieren",
    "altEnglish": [
-    "to taste"
-   ]
+    "to taste",
+    "attempt"
+   ],
+   "altTarget": []
   },
   {
    "id": 113,
@@ -1035,7 +1195,10 @@
    "english": "to try",
    "difficulty": 2,
    "pronunciation": "versuchen",
-   "altEnglish": []
+   "altEnglish": [
+    "attempt"
+   ],
+   "altTarget": []
   },
   {
    "id": 114,
@@ -1044,7 +1207,8 @@
    "english": "to taste",
    "difficulty": 2,
    "pronunciation": "schmecken",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 115,
@@ -1053,7 +1217,8 @@
    "english": "to feel",
    "difficulty": 2,
    "pronunciation": "fühlen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 116,
@@ -1062,7 +1227,10 @@
    "english": "to marry",
    "difficulty": 2,
    "pronunciation": "heiraten",
-   "altEnglish": []
+   "altEnglish": [
+    "wed"
+   ],
+   "altTarget": []
   },
   {
    "id": 117,
@@ -1072,8 +1240,10 @@
    "difficulty": 2,
    "pronunciation": "dauern",
    "altEnglish": [
-    "to take"
-   ]
+    "to take",
+    "endure"
+   ],
+   "altTarget": []
   },
   {
    "id": 118,
@@ -1082,7 +1252,8 @@
    "english": "to train",
    "difficulty": 2,
    "pronunciation": "trainieren",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 119,
@@ -1091,7 +1262,8 @@
    "english": "to dance",
    "difficulty": 2,
    "pronunciation": "tanzen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 120,
@@ -1100,7 +1272,8 @@
    "english": "to sing",
    "difficulty": 2,
    "pronunciation": "singen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 121,
@@ -1111,7 +1284,8 @@
    "pronunciation": "stimmen",
    "altEnglish": [
     "to be correct"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 122,
@@ -1121,8 +1295,10 @@
    "difficulty": 2,
    "pronunciation": "weggehen",
    "altEnglish": [
-    "to go away"
-   ]
+    "to go away",
+    "depart"
+   ],
+   "altTarget": []
   },
   {
    "id": 123,
@@ -1131,7 +1307,8 @@
    "english": "to come along",
    "difficulty": 2,
    "pronunciation": "mitkommen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 124,
@@ -1140,7 +1317,8 @@
    "english": "to go shopping",
    "difficulty": 1,
    "pronunciation": "einkaufen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 125,
@@ -1149,7 +1327,8 @@
    "english": "I",
    "difficulty": 1,
    "pronunciation": "ich",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 126,
@@ -1158,7 +1337,8 @@
    "english": "you",
    "difficulty": 1,
    "pronunciation": "du",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 127,
@@ -1167,7 +1347,8 @@
    "english": "he",
    "difficulty": 1,
    "pronunciation": "er",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 128,
@@ -1178,7 +1359,8 @@
    "pronunciation": "sie",
    "altEnglish": [
     "they"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 129,
@@ -1187,7 +1369,8 @@
    "english": "it",
    "difficulty": 1,
    "pronunciation": "es",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 130,
@@ -1196,7 +1379,8 @@
    "english": "we",
    "difficulty": 1,
    "pronunciation": "wir",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 131,
@@ -1205,7 +1389,8 @@
    "english": "you (plural)",
    "difficulty": 2,
    "pronunciation": "ihr",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 132,
@@ -1214,7 +1399,8 @@
    "english": "you",
    "difficulty": 1,
    "pronunciation": "Sie",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 133,
@@ -1223,7 +1409,8 @@
    "english": "me",
    "difficulty": 2,
    "pronunciation": "mich",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 134,
@@ -1232,7 +1419,8 @@
    "english": "you",
    "difficulty": 2,
    "pronunciation": "dich",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 135,
@@ -1243,7 +1431,8 @@
    "pronunciation": "mir",
    "altEnglish": [
     "for me"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 136,
@@ -1254,7 +1443,8 @@
    "pronunciation": "dir",
    "altEnglish": [
     "for you"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 137,
@@ -1263,7 +1453,8 @@
    "english": "us",
    "difficulty": 2,
    "pronunciation": "uns",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 138,
@@ -1274,7 +1465,8 @@
    "pronunciation": "ihnen",
    "altEnglish": [
     "for them"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 139,
@@ -1283,7 +1475,10 @@
    "english": "yes",
    "difficulty": 1,
    "pronunciation": "ja",
-   "altEnglish": []
+   "altEnglish": [
+    "yeah"
+   ],
+   "altTarget": []
   },
   {
    "id": 140,
@@ -1292,7 +1487,8 @@
    "english": "no",
    "difficulty": 1,
    "pronunciation": "nein",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 141,
@@ -1301,7 +1497,8 @@
    "english": "please",
    "difficulty": 1,
    "pronunciation": "bitte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 142,
@@ -1310,7 +1507,10 @@
    "english": "thank you",
    "difficulty": 1,
    "pronunciation": "danke",
-   "altEnglish": []
+   "altEnglish": [
+    "thanks"
+   ],
+   "altTarget": []
   },
   {
    "id": 143,
@@ -1319,7 +1519,10 @@
    "english": "hello",
    "difficulty": 1,
    "pronunciation": "hallo",
-   "altEnglish": []
+   "altEnglish": [
+    "hi"
+   ],
+   "altTarget": []
   },
   {
    "id": 144,
@@ -1329,8 +1532,10 @@
    "difficulty": 1,
    "pronunciation": "servus",
    "altEnglish": [
-    "bye"
-   ]
+    "bye",
+    "hello"
+   ],
+   "altTarget": []
   },
   {
    "id": 145,
@@ -1339,7 +1544,10 @@
    "english": "bye",
    "difficulty": 1,
    "pronunciation": "tschüss",
-   "altEnglish": []
+   "altEnglish": [
+    "goodbye"
+   ],
+   "altTarget": []
   },
   {
    "id": 146,
@@ -1348,7 +1556,8 @@
    "english": "and",
    "difficulty": 1,
    "pronunciation": "und",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 147,
@@ -1357,7 +1566,8 @@
    "english": "or",
    "difficulty": 1,
    "pronunciation": "oder",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 148,
@@ -1366,7 +1576,8 @@
    "english": "but",
    "difficulty": 1,
    "pronunciation": "aber",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 149,
@@ -1375,7 +1586,8 @@
    "english": "because",
    "difficulty": 2,
    "pronunciation": "denn",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 150,
@@ -1384,7 +1596,8 @@
    "english": "because",
    "difficulty": 1,
    "pronunciation": "weil",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 151,
@@ -1393,7 +1606,8 @@
    "english": "that",
    "difficulty": 2,
    "pronunciation": "dass",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 152,
@@ -1404,7 +1618,8 @@
    "pronunciation": "wenn",
    "altEnglish": [
     "when"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 153,
@@ -1413,7 +1628,8 @@
    "english": "than",
    "difficulty": 2,
    "pronunciation": "als",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 154,
@@ -1422,7 +1638,10 @@
    "english": "also",
    "difficulty": 1,
    "pronunciation": "auch",
-   "altEnglish": []
+   "altEnglish": [
+    "too"
+   ],
+   "altTarget": []
   },
   {
    "id": 155,
@@ -1433,7 +1652,8 @@
    "pronunciation": "noch",
    "altEnglish": [
     "yet"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 156,
@@ -1442,7 +1662,8 @@
    "english": "only",
    "difficulty": 1,
    "pronunciation": "nur",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 157,
@@ -1451,7 +1672,8 @@
    "english": "already",
    "difficulty": 1,
    "pronunciation": "schon",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 158,
@@ -1460,7 +1682,8 @@
    "english": "very",
    "difficulty": 1,
    "pronunciation": "sehr",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 159,
@@ -1469,7 +1692,8 @@
    "english": "not",
    "difficulty": 1,
    "pronunciation": "nicht",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 160,
@@ -1480,7 +1704,8 @@
    "pronunciation": "kein",
    "altEnglish": [
     "not a"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 161,
@@ -1489,7 +1714,8 @@
    "english": "nothing",
    "difficulty": 1,
    "pronunciation": "nichts",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 162,
@@ -1498,7 +1724,8 @@
    "english": "everything",
    "difficulty": 1,
    "pronunciation": "alles",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 163,
@@ -1507,7 +1734,8 @@
    "english": "something",
    "difficulty": 1,
    "pronunciation": "etwas",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 164,
@@ -1517,8 +1745,10 @@
    "difficulty": 1,
    "pronunciation": "viel",
    "altEnglish": [
-    "much"
-   ]
+    "much",
+    "lots"
+   ],
+   "altTarget": []
   },
   {
    "id": 165,
@@ -1527,7 +1757,8 @@
    "english": "little",
    "difficulty": 2,
    "pronunciation": "wenig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 166,
@@ -1536,7 +1767,8 @@
    "english": "more",
    "difficulty": 1,
    "pronunciation": "mehr",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 167,
@@ -1545,7 +1777,8 @@
    "english": "always",
    "difficulty": 1,
    "pronunciation": "immer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 168,
@@ -1554,7 +1787,8 @@
    "english": "never",
    "difficulty": 1,
    "pronunciation": "nie",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 169,
@@ -1563,7 +1797,10 @@
    "english": "often",
    "difficulty": 1,
    "pronunciation": "oft",
-   "altEnglish": []
+   "altEnglish": [
+    "frequently"
+   ],
+   "altTarget": []
   },
   {
    "id": 170,
@@ -1572,7 +1809,10 @@
    "english": "sometimes",
    "difficulty": 1,
    "pronunciation": "manchmal",
-   "altEnglish": []
+   "altEnglish": [
+    "occasionally"
+   ],
+   "altTarget": []
   },
   {
    "id": 171,
@@ -1581,7 +1821,8 @@
    "english": "now",
    "difficulty": 1,
    "pronunciation": "jetzt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 172,
@@ -1590,7 +1831,8 @@
    "english": "today",
    "difficulty": 1,
    "pronunciation": "heute",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 173,
@@ -1599,7 +1841,8 @@
    "english": "tomorrow",
    "difficulty": 1,
    "pronunciation": "morgen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 174,
@@ -1608,7 +1851,8 @@
    "english": "yesterday",
    "difficulty": 1,
    "pronunciation": "gestern",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 175,
@@ -1617,7 +1861,8 @@
    "english": "here",
    "difficulty": 1,
    "pronunciation": "hier",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 176,
@@ -1626,7 +1871,8 @@
    "english": "there",
    "difficulty": 2,
    "pronunciation": "dort",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 177,
@@ -1637,7 +1883,8 @@
    "pronunciation": "da",
    "altEnglish": [
     "then"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 178,
@@ -1646,7 +1893,8 @@
    "english": "where",
    "difficulty": 1,
    "pronunciation": "wo",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 179,
@@ -1655,7 +1903,8 @@
    "english": "how",
    "difficulty": 1,
    "pronunciation": "wie",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 180,
@@ -1664,7 +1913,8 @@
    "english": "what",
    "difficulty": 1,
    "pronunciation": "was",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 181,
@@ -1673,7 +1923,8 @@
    "english": "who",
    "difficulty": 1,
    "pronunciation": "wer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 182,
@@ -1682,7 +1933,8 @@
    "english": "when",
    "difficulty": 1,
    "pronunciation": "wann",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 183,
@@ -1691,7 +1943,8 @@
    "english": "why",
    "difficulty": 1,
    "pronunciation": "warum",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 184,
@@ -1702,7 +1955,8 @@
    "pronunciation": "zu",
    "altEnglish": [
     "too"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 185,
@@ -1711,7 +1965,8 @@
    "english": "with",
    "difficulty": 1,
    "pronunciation": "mit",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 186,
@@ -1720,7 +1975,8 @@
    "english": "without",
    "difficulty": 1,
    "pronunciation": "ohne",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 187,
@@ -1731,7 +1987,8 @@
    "pronunciation": "bei",
    "altEnglish": [
     "with"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 188,
@@ -1742,7 +1999,8 @@
    "pronunciation": "von",
    "altEnglish": [
     "of"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 189,
@@ -1751,7 +2009,8 @@
    "english": "for",
    "difficulty": 1,
    "pronunciation": "für",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 190,
@@ -1762,7 +2021,8 @@
    "pronunciation": "auf",
    "altEnglish": [
     "up"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 191,
@@ -1773,7 +2033,8 @@
    "pronunciation": "an",
    "altEnglish": [
     "on"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 192,
@@ -1782,7 +2043,8 @@
    "english": "in",
    "difficulty": 1,
    "pronunciation": "in",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 193,
@@ -1793,7 +2055,8 @@
    "pronunciation": "aus",
    "altEnglish": [
     "from"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 194,
@@ -1804,7 +2067,8 @@
    "pronunciation": "nach",
    "altEnglish": [
     "to"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 195,
@@ -1815,7 +2079,8 @@
    "pronunciation": "vor",
    "altEnglish": [
     "in front of"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 196,
@@ -1826,7 +2091,8 @@
    "pronunciation": "über",
    "altEnglish": [
     "about"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 197,
@@ -1835,7 +2101,10 @@
    "english": "under",
    "difficulty": 2,
    "pronunciation": "unter",
-   "altEnglish": []
+   "altEnglish": [
+    "beneath"
+   ],
+   "altTarget": []
   },
   {
    "id": 198,
@@ -1844,7 +2113,8 @@
    "english": "next to",
    "difficulty": 2,
    "pronunciation": "neben",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 199,
@@ -1853,7 +2123,8 @@
    "english": "between",
    "difficulty": 2,
    "pronunciation": "zwischen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 200,
@@ -1862,7 +2133,8 @@
    "english": "behind",
    "difficulty": 2,
    "pronunciation": "hinter",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 201,
@@ -1871,7 +2143,10 @@
    "english": "until",
    "difficulty": 1,
    "pronunciation": "bis",
-   "altEnglish": []
+   "altEnglish": [
+    "till"
+   ],
+   "altTarget": []
   },
   {
    "id": 202,
@@ -1880,7 +2155,8 @@
    "english": "against",
    "difficulty": 2,
    "pronunciation": "gegen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 203,
@@ -1889,7 +2165,8 @@
    "english": "since",
    "difficulty": 2,
    "pronunciation": "seit",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 204,
@@ -1898,7 +2175,8 @@
    "english": "during",
    "difficulty": 2,
    "pronunciation": "während",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 205,
@@ -1907,7 +2185,8 @@
    "english": "because of",
    "difficulty": 2,
    "pronunciation": "wegen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 206,
@@ -1916,7 +2195,8 @@
    "english": "through",
    "difficulty": 2,
    "pronunciation": "durch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 207,
@@ -1927,7 +2207,8 @@
    "pronunciation": "um",
    "altEnglish": [
     "around"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 208,
@@ -1936,7 +2217,8 @@
    "english": "back",
    "difficulty": 2,
    "pronunciation": "zurück",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 209,
@@ -1945,7 +2227,10 @@
    "english": "maybe",
    "difficulty": 2,
    "pronunciation": "vielleicht",
-   "altEnglish": []
+   "altEnglish": [
+    "perhaps"
+   ],
+   "altTarget": []
   },
   {
    "id": 210,
@@ -1954,7 +2239,8 @@
    "english": "really",
    "difficulty": 2,
    "pronunciation": "wirklich",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 211,
@@ -1963,7 +2249,8 @@
    "english": "actually",
    "difficulty": 2,
    "pronunciation": "eigentlich",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 212,
@@ -1972,7 +2259,10 @@
    "english": "of course",
    "difficulty": 2,
    "pronunciation": "natürlich",
-   "altEnglish": []
+   "altEnglish": [
+    "naturally"
+   ],
+   "altTarget": []
   },
   {
    "id": 213,
@@ -1981,7 +2271,10 @@
    "english": "unfortunately",
    "difficulty": 2,
    "pronunciation": "leider",
-   "altEnglish": []
+   "altEnglish": [
+    "sadly"
+   ],
+   "altTarget": []
   },
   {
    "id": 214,
@@ -1992,7 +2285,8 @@
    "pronunciation": "also",
    "altEnglish": [
     "therefore"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 215,
@@ -2001,7 +2295,8 @@
    "english": "then",
    "difficulty": 1,
    "pronunciation": "dann",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 216,
@@ -2010,7 +2305,10 @@
    "english": "afterwards",
    "difficulty": 2,
    "pronunciation": "danach",
-   "altEnglish": []
+   "altEnglish": [
+    "later"
+   ],
+   "altTarget": []
   },
   {
    "id": 217,
@@ -2019,7 +2317,10 @@
    "english": "first",
    "difficulty": 2,
    "pronunciation": "zuerst",
-   "altEnglish": []
+   "altEnglish": [
+    "firstly"
+   ],
+   "altTarget": []
   },
   {
    "id": 218,
@@ -2031,7 +2332,8 @@
    "altEnglish": [
     "right away",
     "same"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 219,
@@ -2040,7 +2342,10 @@
    "english": "rarely",
    "difficulty": 2,
    "pronunciation": "selten",
-   "altEnglish": []
+   "altEnglish": [
+    "seldom"
+   ],
+   "altTarget": []
   },
   {
    "id": 220,
@@ -2049,7 +2354,10 @@
    "english": "therefore",
    "difficulty": 2,
    "pronunciation": "deshalb",
-   "altEnglish": []
+   "altEnglish": [
+    "so"
+   ],
+   "altTarget": []
   },
   {
    "id": 221,
@@ -2058,7 +2366,8 @@
    "english": "together",
    "difficulty": 2,
    "pronunciation": "zusammen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 222,
@@ -2067,7 +2376,8 @@
    "english": "alone",
    "difficulty": 2,
    "pronunciation": "allein",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 223,
@@ -2077,8 +2387,10 @@
    "difficulty": 1,
    "pronunciation": "alle",
    "altEnglish": [
-    "all"
-   ]
+    "all",
+    "everybody"
+   ],
+   "altTarget": []
   },
   {
    "id": 224,
@@ -2087,7 +2399,8 @@
    "english": "both",
    "difficulty": 2,
    "pronunciation": "beide",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 225,
@@ -2097,8 +2410,10 @@
    "difficulty": 2,
    "pronunciation": "ganz",
    "altEnglish": [
-    "whole"
-   ]
+    "whole",
+    "rather"
+   ],
+   "altTarget": []
   },
   {
    "id": 226,
@@ -2108,8 +2423,10 @@
    "difficulty": 2,
    "pronunciation": "jeder",
    "altEnglish": [
-    "everyone"
-   ]
+    "everyone",
+    "every"
+   ],
+   "altTarget": []
   },
   {
    "id": 227,
@@ -2118,7 +2435,10 @@
    "english": "again",
    "difficulty": 1,
    "pronunciation": "wieder",
-   "altEnglish": []
+   "altEnglish": [
+    "once more"
+   ],
+   "altTarget": []
   },
   {
    "id": 228,
@@ -2127,7 +2447,10 @@
    "english": "zero",
    "difficulty": 1,
    "pronunciation": "null",
-   "altEnglish": []
+   "altEnglish": [
+    "nought"
+   ],
+   "altTarget": []
   },
   {
    "id": 229,
@@ -2136,7 +2459,8 @@
    "english": "one",
    "difficulty": 1,
    "pronunciation": "eins",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 230,
@@ -2145,7 +2469,8 @@
    "english": "two",
    "difficulty": 1,
    "pronunciation": "zwei",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 231,
@@ -2154,7 +2479,8 @@
    "english": "three",
    "difficulty": 1,
    "pronunciation": "drei",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 232,
@@ -2163,7 +2489,8 @@
    "english": "four",
    "difficulty": 1,
    "pronunciation": "vier",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 233,
@@ -2172,7 +2499,8 @@
    "english": "five",
    "difficulty": 1,
    "pronunciation": "fünf",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 234,
@@ -2181,7 +2509,8 @@
    "english": "six",
    "difficulty": 1,
    "pronunciation": "sechs",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 235,
@@ -2190,7 +2519,8 @@
    "english": "seven",
    "difficulty": 1,
    "pronunciation": "sieben",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 236,
@@ -2199,7 +2529,8 @@
    "english": "eight",
    "difficulty": 1,
    "pronunciation": "acht",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 237,
@@ -2208,7 +2539,8 @@
    "english": "nine",
    "difficulty": 1,
    "pronunciation": "neun",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 238,
@@ -2217,7 +2549,8 @@
    "english": "ten",
    "difficulty": 1,
    "pronunciation": "zehn",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 239,
@@ -2226,7 +2559,8 @@
    "english": "eleven",
    "difficulty": 2,
    "pronunciation": "elf",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 240,
@@ -2235,7 +2569,8 @@
    "english": "twelve",
    "difficulty": 2,
    "pronunciation": "zwölf",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 241,
@@ -2244,7 +2579,8 @@
    "english": "twenty",
    "difficulty": 2,
    "pronunciation": "zwanzig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 242,
@@ -2253,7 +2589,8 @@
    "english": "thirty",
    "difficulty": 2,
    "pronunciation": "dreißig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 243,
@@ -2262,7 +2599,8 @@
    "english": "forty",
    "difficulty": 2,
    "pronunciation": "vierzig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 244,
@@ -2271,7 +2609,8 @@
    "english": "fifty",
    "difficulty": 2,
    "pronunciation": "fünfzig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 245,
@@ -2280,7 +2619,8 @@
    "english": "hundred",
    "difficulty": 2,
    "pronunciation": "hundert",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 246,
@@ -2289,7 +2629,8 @@
    "english": "thousand",
    "difficulty": 2,
    "pronunciation": "tausend",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 247,
@@ -2298,7 +2639,8 @@
    "english": "half",
    "difficulty": 3,
    "pronunciation": "die Hälfte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 248,
@@ -2307,7 +2649,8 @@
    "english": "day",
    "difficulty": 1,
    "pronunciation": "der Tag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 249,
@@ -2316,7 +2659,8 @@
    "english": "week",
    "difficulty": 1,
    "pronunciation": "die Woche",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 250,
@@ -2325,7 +2669,8 @@
    "english": "month",
    "difficulty": 1,
    "pronunciation": "der Monat",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 251,
@@ -2334,7 +2679,8 @@
    "english": "year",
    "difficulty": 1,
    "pronunciation": "das Jahr",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 252,
@@ -2343,7 +2689,8 @@
    "english": "time",
    "difficulty": 1,
    "pronunciation": "die Zeit",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 253,
@@ -2352,7 +2699,8 @@
    "english": "hour",
    "difficulty": 1,
    "pronunciation": "die Stunde",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 254,
@@ -2361,7 +2709,10 @@
    "english": "minute",
    "difficulty": 1,
    "pronunciation": "die Minute",
-   "altEnglish": []
+   "altEnglish": [
+    "min"
+   ],
+   "altTarget": []
   },
   {
    "id": 255,
@@ -2372,7 +2723,8 @@
    "pronunciation": "die Uhr",
    "altEnglish": [
     "o'clock"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 256,
@@ -2381,7 +2733,8 @@
    "english": "morning",
    "difficulty": 1,
    "pronunciation": "der Morgen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 257,
@@ -2392,7 +2745,8 @@
    "pronunciation": "der Vormittag",
    "altEnglish": [
     "late morning"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 258,
@@ -2401,7 +2755,8 @@
    "english": "noon",
    "difficulty": 2,
    "pronunciation": "der Mittag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 259,
@@ -2410,7 +2765,8 @@
    "english": "afternoon",
    "difficulty": 2,
    "pronunciation": "der Nachmittag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 260,
@@ -2419,7 +2775,8 @@
    "english": "evening",
    "difficulty": 1,
    "pronunciation": "der Abend",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 261,
@@ -2428,7 +2785,8 @@
    "english": "night",
    "difficulty": 1,
    "pronunciation": "die Nacht",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 262,
@@ -2437,7 +2795,8 @@
    "english": "weekend",
    "difficulty": 1,
    "pronunciation": "das Wochenende",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 263,
@@ -2446,7 +2805,8 @@
    "english": "Monday",
    "difficulty": 1,
    "pronunciation": "der Montag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 264,
@@ -2455,7 +2815,8 @@
    "english": "Tuesday",
    "difficulty": 1,
    "pronunciation": "der Dienstag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 265,
@@ -2464,7 +2825,8 @@
    "english": "Wednesday",
    "difficulty": 1,
    "pronunciation": "der Mittwoch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 266,
@@ -2473,7 +2835,8 @@
    "english": "Thursday",
    "difficulty": 1,
    "pronunciation": "der Donnerstag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 267,
@@ -2482,7 +2845,8 @@
    "english": "Friday",
    "difficulty": 1,
    "pronunciation": "der Freitag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 268,
@@ -2491,7 +2855,8 @@
    "english": "Saturday",
    "difficulty": 1,
    "pronunciation": "der Samstag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 269,
@@ -2500,7 +2865,8 @@
    "english": "Sunday",
    "difficulty": 1,
    "pronunciation": "der Sonntag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 270,
@@ -2509,7 +2875,10 @@
    "english": "January",
    "difficulty": 2,
    "pronunciation": "der Jänner",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "der Januar"
+   ]
   },
   {
    "id": 271,
@@ -2518,7 +2887,8 @@
    "english": "February",
    "difficulty": 2,
    "pronunciation": "der Februar",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 272,
@@ -2527,7 +2897,8 @@
    "english": "March",
    "difficulty": 2,
    "pronunciation": "der März",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 273,
@@ -2536,7 +2907,8 @@
    "english": "April",
    "difficulty": 2,
    "pronunciation": "der April",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 274,
@@ -2545,7 +2917,8 @@
    "english": "May",
    "difficulty": 2,
    "pronunciation": "der Mai",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 275,
@@ -2554,7 +2927,8 @@
    "english": "June",
    "difficulty": 2,
    "pronunciation": "der Juni",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 276,
@@ -2563,7 +2937,8 @@
    "english": "July",
    "difficulty": 2,
    "pronunciation": "der Juli",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 277,
@@ -2572,7 +2947,8 @@
    "english": "August",
    "difficulty": 2,
    "pronunciation": "der August",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 278,
@@ -2581,7 +2957,8 @@
    "english": "September",
    "difficulty": 2,
    "pronunciation": "der September",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 279,
@@ -2590,7 +2967,8 @@
    "english": "October",
    "difficulty": 2,
    "pronunciation": "der Oktober",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 280,
@@ -2599,7 +2977,8 @@
    "english": "November",
    "difficulty": 2,
    "pronunciation": "der November",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 281,
@@ -2608,7 +2987,8 @@
    "english": "December",
    "difficulty": 2,
    "pronunciation": "der Dezember",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 282,
@@ -2617,7 +2997,8 @@
    "english": "date",
    "difficulty": 2,
    "pronunciation": "das Datum",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 283,
@@ -2626,7 +3007,8 @@
    "english": "calendar",
    "difficulty": 2,
    "pronunciation": "der Kalender",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 284,
@@ -2635,7 +3017,10 @@
    "english": "public holiday",
    "difficulty": 3,
    "pronunciation": "der Feiertag",
-   "altEnglish": []
+   "altEnglish": [
+    "bank holiday"
+   ],
+   "altTarget": []
   },
   {
    "id": 285,
@@ -2644,7 +3029,8 @@
    "english": "past",
    "difficulty": 3,
    "pronunciation": "die Vergangenheit",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 286,
@@ -2653,7 +3039,8 @@
    "english": "future",
    "difficulty": 3,
    "pronunciation": "die Zukunft",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 287,
@@ -2662,7 +3049,8 @@
    "english": "time",
    "difficulty": 2,
    "pronunciation": "das Mal",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 288,
@@ -2671,7 +3059,8 @@
    "english": "weather",
    "difficulty": 1,
    "pronunciation": "das Wetter",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 289,
@@ -2680,7 +3069,10 @@
    "english": "sun",
    "difficulty": 1,
    "pronunciation": "die Sonne",
-   "altEnglish": []
+   "altEnglish": [
+    "sunshine"
+   ],
+   "altTarget": []
   },
   {
    "id": 290,
@@ -2689,7 +3081,8 @@
    "english": "rain",
    "difficulty": 1,
    "pronunciation": "der Regen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 291,
@@ -2698,7 +3091,8 @@
    "english": "snow",
    "difficulty": 1,
    "pronunciation": "der Schnee",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 292,
@@ -2707,7 +3101,8 @@
    "english": "wind",
    "difficulty": 1,
    "pronunciation": "der Wind",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 293,
@@ -2716,7 +3111,10 @@
    "english": "cloud",
    "difficulty": 2,
    "pronunciation": "die Wolke",
-   "altEnglish": []
+   "altEnglish": [
+    "clouds"
+   ],
+   "altTarget": []
   },
   {
    "id": 294,
@@ -2725,7 +3123,10 @@
    "english": "fog",
    "difficulty": 3,
    "pronunciation": "der Nebel",
-   "altEnglish": []
+   "altEnglish": [
+    "mist"
+   ],
+   "altTarget": []
   },
   {
    "id": 295,
@@ -2734,7 +3135,8 @@
    "english": "temperature",
    "difficulty": 2,
    "pronunciation": "die Temperatur",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 296,
@@ -2743,7 +3145,8 @@
    "english": "frost",
    "difficulty": 3,
    "pronunciation": "der Frost",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 297,
@@ -2752,7 +3155,10 @@
    "english": "heat",
    "difficulty": 3,
    "pronunciation": "die Hitze",
-   "altEnglish": []
+   "altEnglish": [
+    "warmth"
+   ],
+   "altTarget": []
   },
   {
    "id": 298,
@@ -2761,7 +3167,8 @@
    "english": "cold",
    "difficulty": 3,
    "pronunciation": "die Kälte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 299,
@@ -2770,7 +3177,8 @@
    "english": "thunderstorm",
    "difficulty": 3,
    "pronunciation": "das Gewitter",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 300,
@@ -2779,7 +3187,8 @@
    "english": "storm",
    "difficulty": 3,
    "pronunciation": "der Sturm",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 301,
@@ -2788,7 +3197,8 @@
    "english": "moon",
    "difficulty": 2,
    "pronunciation": "der Mond",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 302,
@@ -2797,7 +3207,10 @@
    "english": "star",
    "difficulty": 3,
    "pronunciation": "der Stern",
-   "altEnglish": []
+   "altEnglish": [
+    "stars"
+   ],
+   "altTarget": []
   },
   {
    "id": 303,
@@ -2806,7 +3219,8 @@
    "english": "sky",
    "difficulty": 2,
    "pronunciation": "der Himmel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 304,
@@ -2817,7 +3231,8 @@
    "pronunciation": "die Erde",
    "altEnglish": [
     "ground"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 305,
@@ -2826,7 +3241,8 @@
    "english": "flower",
    "difficulty": 2,
    "pronunciation": "die Blume",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 306,
@@ -2835,7 +3251,10 @@
    "english": "tree",
    "difficulty": 2,
    "pronunciation": "der Baum",
-   "altEnglish": []
+   "altEnglish": [
+    "trees"
+   ],
+   "altTarget": []
   },
   {
    "id": 307,
@@ -2844,7 +3263,8 @@
    "english": "plant",
    "difficulty": 2,
    "pronunciation": "die Pflanze",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 308,
@@ -2853,7 +3273,10 @@
    "english": "grass",
    "difficulty": 2,
    "pronunciation": "das Gras",
-   "altEnglish": []
+   "altEnglish": [
+    "lawn"
+   ],
+   "altTarget": []
   },
   {
    "id": 309,
@@ -2862,7 +3285,8 @@
    "english": "nature",
    "difficulty": 2,
    "pronunciation": "die Natur",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 310,
@@ -2871,7 +3295,10 @@
    "english": "forest",
    "difficulty": 2,
    "pronunciation": "der Wald",
-   "altEnglish": []
+   "altEnglish": [
+    "woods"
+   ],
+   "altTarget": []
   },
   {
    "id": 311,
@@ -2880,7 +3307,8 @@
    "english": "lake",
    "difficulty": 2,
    "pronunciation": "der See",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 312,
@@ -2889,7 +3317,8 @@
    "english": "river",
    "difficulty": 2,
    "pronunciation": "der Fluss",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 313,
@@ -2898,7 +3327,8 @@
    "english": "mountain",
    "difficulty": 2,
    "pronunciation": "der Berg",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 314,
@@ -2907,7 +3337,8 @@
    "english": "sea",
    "difficulty": 2,
    "pronunciation": "das Meer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 315,
@@ -2916,7 +3347,10 @@
    "english": "beach",
    "difficulty": 2,
    "pronunciation": "der Strand",
-   "altEnglish": []
+   "altEnglish": [
+    "shore"
+   ],
+   "altTarget": []
   },
   {
    "id": 316,
@@ -2925,7 +3359,10 @@
    "english": "island",
    "difficulty": 3,
    "pronunciation": "die Insel",
-   "altEnglish": []
+   "altEnglish": [
+    "isle"
+   ],
+   "altTarget": []
   },
   {
    "id": 317,
@@ -2934,7 +3371,8 @@
    "english": "fire",
    "difficulty": 3,
    "pronunciation": "das Feuer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 318,
@@ -2943,7 +3381,10 @@
    "english": "stone",
    "difficulty": 3,
    "pronunciation": "der Stein",
-   "altEnglish": []
+   "altEnglish": [
+    "rock"
+   ],
+   "altTarget": []
   },
   {
    "id": 319,
@@ -2952,7 +3393,8 @@
    "english": "air",
    "difficulty": 2,
    "pronunciation": "die Luft",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 320,
@@ -2961,7 +3403,8 @@
    "english": "family",
    "difficulty": 1,
    "pronunciation": "die Familie",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 321,
@@ -2970,7 +3413,12 @@
    "english": "mother",
    "difficulty": 1,
    "pronunciation": "die Mutter",
-   "altEnglish": []
+   "altEnglish": [
+    "mum",
+    "mom",
+    "mummy"
+   ],
+   "altTarget": []
   },
   {
    "id": 322,
@@ -2979,7 +3427,11 @@
    "english": "father",
    "difficulty": 1,
    "pronunciation": "der Vater",
-   "altEnglish": []
+   "altEnglish": [
+    "dad",
+    "daddy"
+   ],
+   "altTarget": []
   },
   {
    "id": 323,
@@ -2988,7 +3440,10 @@
    "english": "parents",
    "difficulty": 1,
    "pronunciation": "die Eltern",
-   "altEnglish": []
+   "altEnglish": [
+    "parent"
+   ],
+   "altTarget": []
   },
   {
    "id": 324,
@@ -2997,7 +3452,10 @@
    "english": "child",
    "difficulty": 1,
    "pronunciation": "das Kind",
-   "altEnglish": []
+   "altEnglish": [
+    "kid"
+   ],
+   "altTarget": []
   },
   {
    "id": 325,
@@ -3006,7 +3464,8 @@
    "english": "son",
    "difficulty": 1,
    "pronunciation": "der Sohn",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 326,
@@ -3015,7 +3474,8 @@
    "english": "daughter",
    "difficulty": 1,
    "pronunciation": "die Tochter",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 327,
@@ -3024,7 +3484,8 @@
    "english": "brother",
    "difficulty": 1,
    "pronunciation": "der Bruder",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 328,
@@ -3033,7 +3494,8 @@
    "english": "sister",
    "difficulty": 1,
    "pronunciation": "die Schwester",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 329,
@@ -3042,7 +3504,8 @@
    "english": "uncle",
    "difficulty": 2,
    "pronunciation": "der Onkel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 330,
@@ -3051,7 +3514,10 @@
    "english": "aunt",
    "difficulty": 2,
    "pronunciation": "die Tante",
-   "altEnglish": []
+   "altEnglish": [
+    "auntie"
+   ],
+   "altTarget": []
   },
   {
    "id": 331,
@@ -3060,7 +3526,14 @@
    "english": "grandpa",
    "difficulty": 1,
    "pronunciation": "der Opa",
-   "altEnglish": []
+   "altEnglish": [
+    "grandfather",
+    "grandad",
+    "granddad"
+   ],
+   "altTarget": [
+    "der Großvater"
+   ]
   },
   {
    "id": 332,
@@ -3069,7 +3542,14 @@
    "english": "grandma",
    "difficulty": 1,
    "pronunciation": "die Oma",
-   "altEnglish": []
+   "altEnglish": [
+    "grandmother",
+    "granny",
+    "nan"
+   ],
+   "altTarget": [
+    "die Großmutter"
+   ]
   },
   {
    "id": 333,
@@ -3078,7 +3558,13 @@
    "english": "dad",
    "difficulty": 1,
    "pronunciation": "der Papa",
-   "altEnglish": []
+   "altEnglish": [
+    "father",
+    "daddy"
+   ],
+   "altTarget": [
+    "der Vati"
+   ]
   },
   {
    "id": 334,
@@ -3087,7 +3573,14 @@
    "english": "mum",
    "difficulty": 1,
    "pronunciation": "die Mama",
-   "altEnglish": []
+   "altEnglish": [
+    "mother",
+    "mom",
+    "mummy"
+   ],
+   "altTarget": [
+    "die Mutti"
+   ]
   },
   {
    "id": 335,
@@ -3096,7 +3589,10 @@
    "english": "baby",
    "difficulty": 1,
    "pronunciation": "das Baby",
-   "altEnglish": []
+   "altEnglish": [
+    "infant"
+   ],
+   "altTarget": []
   },
   {
    "id": 336,
@@ -3105,7 +3601,14 @@
    "english": "grandfather",
    "difficulty": 3,
    "pronunciation": "der Großvater",
-   "altEnglish": []
+   "altEnglish": [
+    "grandpa",
+    "grandad",
+    "granddad"
+   ],
+   "altTarget": [
+    "der Opa"
+   ]
   },
   {
    "id": 337,
@@ -3114,7 +3617,14 @@
    "english": "grandmother",
    "difficulty": 3,
    "pronunciation": "die Großmutter",
-   "altEnglish": []
+   "altEnglish": [
+    "grandma",
+    "granny",
+    "nan"
+   ],
+   "altTarget": [
+    "die Oma"
+   ]
   },
   {
    "id": 338,
@@ -3123,7 +3633,8 @@
    "english": "grandson",
    "difficulty": 3,
    "pronunciation": "der Enkel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 339,
@@ -3132,7 +3643,8 @@
    "english": "granddaughter",
    "difficulty": 3,
    "pronunciation": "die Enkelin",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 340,
@@ -3141,7 +3653,8 @@
    "english": "cousin (male)",
    "difficulty": 2,
    "pronunciation": "der Cousin",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 341,
@@ -3150,7 +3663,8 @@
    "english": "cousin (female)",
    "difficulty": 2,
    "pronunciation": "die Cousine",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 342,
@@ -3159,7 +3673,8 @@
    "english": "nephew",
    "difficulty": 3,
    "pronunciation": "der Neffe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 343,
@@ -3168,7 +3683,8 @@
    "english": "niece",
    "difficulty": 3,
    "pronunciation": "die Nichte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 344,
@@ -3179,7 +3695,8 @@
    "pronunciation": "der Mann",
    "altEnglish": [
     "husband"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 345,
@@ -3190,7 +3707,8 @@
    "pronunciation": "die Frau",
    "altEnglish": [
     "wife"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 346,
@@ -3201,7 +3719,8 @@
    "pronunciation": "der Freund",
    "altEnglish": [
     "boyfriend"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 347,
@@ -3212,7 +3731,8 @@
    "pronunciation": "die Freundin",
    "altEnglish": [
     "girlfriend"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 348,
@@ -3221,7 +3741,8 @@
    "english": "partner (male)",
    "difficulty": 2,
    "pronunciation": "der Partner",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 349,
@@ -3230,7 +3751,8 @@
    "english": "partner (female)",
    "difficulty": 2,
    "pronunciation": "die Partnerin",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 350,
@@ -3239,7 +3761,11 @@
    "english": "human being",
    "difficulty": 2,
    "pronunciation": "der Mensch",
-   "altEnglish": []
+   "altEnglish": [
+    "person",
+    "human"
+   ],
+   "altTarget": []
   },
   {
    "id": 351,
@@ -3248,7 +3774,11 @@
    "english": "person",
    "difficulty": 2,
    "pronunciation": "die Person",
-   "altEnglish": []
+   "altEnglish": [
+    "human being",
+    "human"
+   ],
+   "altTarget": []
   },
   {
    "id": 352,
@@ -3257,7 +3787,10 @@
    "english": "boy",
    "difficulty": 1,
    "pronunciation": "der Junge",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "der Bub"
+   ]
   },
   {
    "id": 353,
@@ -3266,7 +3799,10 @@
    "english": "girl",
    "difficulty": 1,
    "pronunciation": "das Mädchen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "das Mädel"
+   ]
   },
   {
    "id": 354,
@@ -3276,8 +3812,10 @@
    "difficulty": 1,
    "pronunciation": "der Herr",
    "altEnglish": [
-    "gentleman"
-   ]
+    "gentleman",
+    "mister"
+   ],
+   "altTarget": []
   },
   {
    "id": 355,
@@ -3286,7 +3824,8 @@
    "english": "lady",
    "difficulty": 2,
    "pronunciation": "die Dame",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 356,
@@ -3295,7 +3834,10 @@
    "english": "neighbour (male)",
    "difficulty": 2,
    "pronunciation": "der Nachbar",
-   "altEnglish": []
+   "altEnglish": [
+    "neighbor"
+   ],
+   "altTarget": []
   },
   {
    "id": 357,
@@ -3304,7 +3846,10 @@
    "english": "neighbour (female)",
    "difficulty": 2,
    "pronunciation": "die Nachbarin",
-   "altEnglish": []
+   "altEnglish": [
+    "neighbor"
+   ],
+   "altTarget": []
   },
   {
    "id": 358,
@@ -3313,7 +3858,10 @@
    "english": "colleague (male)",
    "difficulty": 2,
    "pronunciation": "der Kollege",
-   "altEnglish": []
+   "altEnglish": [
+    "coworker"
+   ],
+   "altTarget": []
   },
   {
    "id": 359,
@@ -3322,7 +3870,10 @@
    "english": "colleague (female)",
    "difficulty": 2,
    "pronunciation": "die Kollegin",
-   "altEnglish": []
+   "altEnglish": [
+    "coworker"
+   ],
+   "altTarget": []
   },
   {
    "id": 360,
@@ -3331,7 +3882,10 @@
    "english": "boss (male)",
    "difficulty": 2,
    "pronunciation": "der Chef",
-   "altEnglish": []
+   "altEnglish": [
+    "manager"
+   ],
+   "altTarget": []
   },
   {
    "id": 361,
@@ -3340,7 +3894,10 @@
    "english": "boss (female)",
    "difficulty": 2,
    "pronunciation": "die Chefin",
-   "altEnglish": []
+   "altEnglish": [
+    "manager"
+   ],
+   "altTarget": []
   },
   {
    "id": 362,
@@ -3349,7 +3906,8 @@
    "english": "teacher (male)",
    "difficulty": 1,
    "pronunciation": "der Lehrer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 363,
@@ -3358,7 +3916,8 @@
    "english": "teacher (female)",
    "difficulty": 1,
    "pronunciation": "die Lehrerin",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 364,
@@ -3367,7 +3926,10 @@
    "english": "pupil (male)",
    "difficulty": 1,
    "pronunciation": "der Schüler",
-   "altEnglish": []
+   "altEnglish": [
+    "student"
+   ],
+   "altTarget": []
   },
   {
    "id": 365,
@@ -3376,7 +3938,10 @@
    "english": "pupil (female)",
    "difficulty": 1,
    "pronunciation": "die Schülerin",
-   "altEnglish": []
+   "altEnglish": [
+    "student"
+   ],
+   "altTarget": []
   },
   {
    "id": 366,
@@ -3385,7 +3950,10 @@
    "english": "student (male)",
    "difficulty": 2,
    "pronunciation": "der Student",
-   "altEnglish": []
+   "altEnglish": [
+    "pupil"
+   ],
+   "altTarget": []
   },
   {
    "id": 367,
@@ -3394,7 +3962,10 @@
    "english": "student (female)",
    "difficulty": 2,
    "pronunciation": "die Studentin",
-   "altEnglish": []
+   "altEnglish": [
+    "pupil"
+   ],
+   "altTarget": []
   },
   {
    "id": 368,
@@ -3403,7 +3974,10 @@
    "english": "doctor (male)",
    "difficulty": 1,
    "pronunciation": "der Arzt",
-   "altEnglish": []
+   "altEnglish": [
+    "physician"
+   ],
+   "altTarget": []
   },
   {
    "id": 369,
@@ -3412,7 +3986,10 @@
    "english": "doctor (female)",
    "difficulty": 1,
    "pronunciation": "die Ärztin",
-   "altEnglish": []
+   "altEnglish": [
+    "physician"
+   ],
+   "altTarget": []
   },
   {
    "id": 370,
@@ -3421,7 +3998,11 @@
    "english": "salesperson (male)",
    "difficulty": 2,
    "pronunciation": "der Verkäufer",
-   "altEnglish": []
+   "altEnglish": [
+    "shop assistant",
+    "sales assistant"
+   ],
+   "altTarget": []
   },
   {
    "id": 371,
@@ -3430,7 +4011,11 @@
    "english": "salesperson (female)",
    "difficulty": 2,
    "pronunciation": "die Verkäuferin",
-   "altEnglish": []
+   "altEnglish": [
+    "shop assistant",
+    "sales assistant"
+   ],
+   "altTarget": []
   },
   {
    "id": 372,
@@ -3439,7 +4024,10 @@
    "english": "waiter",
    "difficulty": 2,
    "pronunciation": "der Kellner",
-   "altEnglish": []
+   "altEnglish": [
+    "server"
+   ],
+   "altTarget": []
   },
   {
    "id": 373,
@@ -3448,7 +4036,8 @@
    "english": "waitress",
    "difficulty": 2,
    "pronunciation": "die Kellnerin",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 374,
@@ -3457,7 +4046,12 @@
    "english": "police officer (male)",
    "difficulty": 2,
    "pronunciation": "der Polizist",
-   "altEnglish": []
+   "altEnglish": [
+    "policeman",
+    "policewoman",
+    "cop"
+   ],
+   "altTarget": []
   },
   {
    "id": 375,
@@ -3466,7 +4060,12 @@
    "english": "police officer (female)",
    "difficulty": 3,
    "pronunciation": "die Polizistin",
-   "altEnglish": []
+   "altEnglish": [
+    "policeman",
+    "policewoman",
+    "cop"
+   ],
+   "altTarget": []
   },
   {
    "id": 376,
@@ -3475,7 +4074,8 @@
    "english": "driver (male)",
    "difficulty": 2,
    "pronunciation": "der Fahrer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 377,
@@ -3484,7 +4084,8 @@
    "english": "driver (female)",
    "difficulty": 3,
    "pronunciation": "die Fahrerin",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 378,
@@ -3493,7 +4094,8 @@
    "english": "guest",
    "difficulty": 2,
    "pronunciation": "der Gast",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 379,
@@ -3502,7 +4104,8 @@
    "english": "name",
    "difficulty": 1,
    "pronunciation": "der Name",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 380,
@@ -3511,7 +4114,8 @@
    "english": "people",
    "difficulty": 1,
    "pronunciation": "die Leute",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 381,
@@ -3520,7 +4124,10 @@
    "english": "employee (male)",
    "difficulty": 2,
    "pronunciation": "der Mitarbeiter",
-   "altEnglish": []
+   "altEnglish": [
+    "worker"
+   ],
+   "altTarget": []
   },
   {
    "id": 382,
@@ -3529,7 +4136,10 @@
    "english": "employee (female)",
    "difficulty": 3,
    "pronunciation": "die Mitarbeiterin",
-   "altEnglish": []
+   "altEnglish": [
+    "worker"
+   ],
+   "altTarget": []
   },
   {
    "id": 383,
@@ -3538,7 +4148,10 @@
    "english": "customer (male)",
    "difficulty": 2,
    "pronunciation": "der Kunde",
-   "altEnglish": []
+   "altEnglish": [
+    "client"
+   ],
+   "altTarget": []
   },
   {
    "id": 384,
@@ -3547,7 +4160,10 @@
    "english": "customer (female)",
    "difficulty": 2,
    "pronunciation": "die Kundin",
-   "altEnglish": []
+   "altEnglish": [
+    "client"
+   ],
+   "altTarget": []
   },
   {
    "id": 385,
@@ -3556,7 +4172,8 @@
    "english": "birthday",
    "difficulty": 2,
    "pronunciation": "der Geburtstag",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 386,
@@ -3565,7 +4182,10 @@
    "english": "first name",
    "difficulty": 3,
    "pronunciation": "der Vorname",
-   "altEnglish": []
+   "altEnglish": [
+    "given name"
+   ],
+   "altTarget": []
   },
   {
    "id": 387,
@@ -3574,7 +4194,11 @@
    "english": "surname",
    "difficulty": 3,
    "pronunciation": "der Nachname",
-   "altEnglish": []
+   "altEnglish": [
+    "last name",
+    "family name"
+   ],
+   "altTarget": []
   },
   {
    "id": 388,
@@ -3583,7 +4207,8 @@
    "english": "head",
    "difficulty": 1,
    "pronunciation": "der Kopf",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 389,
@@ -3592,7 +4217,8 @@
    "english": "eye",
    "difficulty": 1,
    "pronunciation": "das Auge",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 390,
@@ -3601,7 +4227,8 @@
    "english": "ear",
    "difficulty": 1,
    "pronunciation": "das Ohr",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 391,
@@ -3610,7 +4237,8 @@
    "english": "nose",
    "difficulty": 1,
    "pronunciation": "die Nase",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 392,
@@ -3619,7 +4247,8 @@
    "english": "mouth",
    "difficulty": 1,
    "pronunciation": "der Mund",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 393,
@@ -3630,7 +4259,8 @@
    "pronunciation": "der Hals",
    "altEnglish": [
     "neck"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 394,
@@ -3639,7 +4269,10 @@
    "english": "tooth",
    "difficulty": 2,
    "pronunciation": "der Zahn",
-   "altEnglish": []
+   "altEnglish": [
+    "teeth"
+   ],
+   "altTarget": []
   },
   {
    "id": 395,
@@ -3648,7 +4281,8 @@
    "english": "hand",
    "difficulty": 1,
    "pronunciation": "die Hand",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 396,
@@ -3657,7 +4291,8 @@
    "english": "finger",
    "difficulty": 1,
    "pronunciation": "der Finger",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 397,
@@ -3666,7 +4301,8 @@
    "english": "arm",
    "difficulty": 1,
    "pronunciation": "der Arm",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 398,
@@ -3675,7 +4311,10 @@
    "english": "leg",
    "difficulty": 1,
    "pronunciation": "das Bein",
-   "altEnglish": []
+   "altEnglish": [
+    "legs"
+   ],
+   "altTarget": []
   },
   {
    "id": 399,
@@ -3684,7 +4323,10 @@
    "english": "foot",
    "difficulty": 1,
    "pronunciation": "der Fuß",
-   "altEnglish": []
+   "altEnglish": [
+    "feet"
+   ],
+   "altTarget": []
   },
   {
    "id": 400,
@@ -3693,7 +4335,8 @@
    "english": "knee",
    "difficulty": 2,
    "pronunciation": "das Knie",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 401,
@@ -3702,7 +4345,8 @@
    "english": "back",
    "difficulty": 1,
    "pronunciation": "der Rücken",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 402,
@@ -3712,8 +4356,10 @@
    "difficulty": 1,
    "pronunciation": "der Bauch",
    "altEnglish": [
-    "belly"
-   ]
+    "belly",
+    "tummy"
+   ],
+   "altTarget": []
   },
   {
    "id": 403,
@@ -3722,7 +4368,8 @@
    "english": "chest",
    "difficulty": 2,
    "pronunciation": "die Brust",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 404,
@@ -3731,7 +4378,8 @@
    "english": "hair",
    "difficulty": 2,
    "pronunciation": "das Haar",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 405,
@@ -3740,7 +4388,8 @@
    "english": "skin",
    "difficulty": 2,
    "pronunciation": "die Haut",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 406,
@@ -3749,7 +4398,8 @@
    "english": "heart",
    "difficulty": 1,
    "pronunciation": "das Herz",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 407,
@@ -3758,7 +4408,11 @@
    "english": "stomach",
    "difficulty": 2,
    "pronunciation": "der Magen",
-   "altEnglish": []
+   "altEnglish": [
+    "belly",
+    "tummy"
+   ],
+   "altTarget": []
   },
   {
    "id": 408,
@@ -3767,7 +4421,8 @@
    "english": "shoulder",
    "difficulty": 2,
    "pronunciation": "die Schulter",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 409,
@@ -3776,7 +4431,8 @@
    "english": "headache",
    "difficulty": 2,
    "pronunciation": "die Kopfschmerzen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 410,
@@ -3785,7 +4441,8 @@
    "english": "fever",
    "difficulty": 2,
    "pronunciation": "das Fieber",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 411,
@@ -3794,7 +4451,10 @@
    "english": "illness",
    "difficulty": 2,
    "pronunciation": "die Krankheit",
-   "altEnglish": []
+   "altEnglish": [
+    "sickness"
+   ],
+   "altTarget": []
   },
   {
    "id": 412,
@@ -3803,7 +4463,10 @@
    "english": "flu",
    "difficulty": 2,
    "pronunciation": "die Grippe",
-   "altEnglish": []
+   "altEnglish": [
+    "influenza"
+   ],
+   "altTarget": []
   },
   {
    "id": 413,
@@ -3812,7 +4475,10 @@
    "english": "medicine",
    "difficulty": 2,
    "pronunciation": "die Medizin",
-   "altEnglish": []
+   "altEnglish": [
+    "medication"
+   ],
+   "altTarget": []
   },
   {
    "id": 414,
@@ -3823,7 +4489,8 @@
    "pronunciation": "die Tablette",
    "altEnglish": [
     "pill"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 415,
@@ -3832,7 +4499,10 @@
    "english": "pharmacy",
    "difficulty": 2,
    "pronunciation": "die Apotheke",
-   "altEnglish": []
+   "altEnglish": [
+    "chemist"
+   ],
+   "altTarget": []
   },
   {
    "id": 416,
@@ -3841,7 +4511,8 @@
    "english": "hospital",
    "difficulty": 2,
    "pronunciation": "das Krankenhaus",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 417,
@@ -3850,7 +4521,10 @@
    "english": "health",
    "difficulty": 2,
    "pronunciation": "die Gesundheit",
-   "altEnglish": []
+   "altEnglish": [
+    "wellbeing"
+   ],
+   "altTarget": []
   },
   {
    "id": 418,
@@ -3859,7 +4533,10 @@
    "english": "pain",
    "difficulty": 2,
    "pronunciation": "der Schmerz",
-   "altEnglish": []
+   "altEnglish": [
+    "ache"
+   ],
+   "altTarget": []
   },
   {
    "id": 419,
@@ -3870,7 +4547,8 @@
    "pronunciation": "das Pflaster",
    "altEnglish": [
     "band-aid"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 420,
@@ -3879,7 +4557,8 @@
    "english": "bandage",
    "difficulty": 3,
    "pronunciation": "der Verband",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 421,
@@ -3888,7 +4567,10 @@
    "english": "glasses",
    "difficulty": 2,
    "pronunciation": "die Brille",
-   "altEnglish": []
+   "altEnglish": [
+    "spectacles"
+   ],
+   "altTarget": []
   },
   {
    "id": 422,
@@ -3897,7 +4579,8 @@
    "english": "dentist",
    "difficulty": 2,
    "pronunciation": "der Zahnarzt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 423,
@@ -3906,7 +4589,8 @@
    "english": "cough",
    "difficulty": 2,
    "pronunciation": "der Husten",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 424,
@@ -3915,7 +4599,8 @@
    "english": "cold",
    "difficulty": 2,
    "pronunciation": "die Erkältung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 425,
@@ -3924,7 +4609,8 @@
    "english": "injury",
    "difficulty": 3,
    "pronunciation": "die Verletzung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 426,
@@ -3933,7 +4619,8 @@
    "english": "diet",
    "difficulty": 3,
    "pronunciation": "die Diät",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 427,
@@ -3942,7 +4629,8 @@
    "english": "massage",
    "difficulty": 3,
    "pronunciation": "die Massage",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 428,
@@ -3951,7 +4639,8 @@
    "english": "bread",
    "difficulty": 1,
    "pronunciation": "das Brot",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 429,
@@ -3960,7 +4649,11 @@
    "english": "bread roll",
    "difficulty": 1,
    "pronunciation": "die Semmel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "das Weckerl",
+    "das Brötchen"
+   ]
   },
   {
    "id": 430,
@@ -3969,7 +4662,10 @@
    "english": "vegetables",
    "difficulty": 1,
    "pronunciation": "das Gemüse",
-   "altEnglish": []
+   "altEnglish": [
+    "veg"
+   ],
+   "altTarget": []
   },
   {
    "id": 431,
@@ -3978,7 +4674,8 @@
    "english": "fruit",
    "difficulty": 1,
    "pronunciation": "das Obst",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 432,
@@ -3987,7 +4684,8 @@
    "english": "apple",
    "difficulty": 1,
    "pronunciation": "der Apfel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 433,
@@ -3996,7 +4694,8 @@
    "english": "banana",
    "difficulty": 1,
    "pronunciation": "die Banane",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 434,
@@ -4005,7 +4704,8 @@
    "english": "orange",
    "difficulty": 1,
    "pronunciation": "die Orange",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 435,
@@ -4014,7 +4714,8 @@
    "english": "pear",
    "difficulty": 1,
    "pronunciation": "die Birne",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 436,
@@ -4023,7 +4724,8 @@
    "english": "grape",
    "difficulty": 2,
    "pronunciation": "die Traube",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 437,
@@ -4032,7 +4734,8 @@
    "english": "strawberry",
    "difficulty": 2,
    "pronunciation": "die Erdbeere",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 438,
@@ -4041,7 +4744,10 @@
    "english": "apricot",
    "difficulty": 2,
    "pronunciation": "die Marille",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "die Aprikose"
+   ]
   },
   {
    "id": 439,
@@ -4050,7 +4756,8 @@
    "english": "cherry",
    "difficulty": 2,
    "pronunciation": "die Kirsche",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 440,
@@ -4059,7 +4766,8 @@
    "english": "lemon",
    "difficulty": 2,
    "pronunciation": "die Zitrone",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 441,
@@ -4068,7 +4776,8 @@
    "english": "cucumber",
    "difficulty": 2,
    "pronunciation": "die Gurke",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 442,
@@ -4077,7 +4786,12 @@
    "english": "tomato",
    "difficulty": 2,
    "pronunciation": "der Paradeiser",
-   "altEnglish": []
+   "altEnglish": [
+    "tomatoes"
+   ],
+   "altTarget": [
+    "die Tomate"
+   ]
   },
   {
    "id": 443,
@@ -4086,7 +4800,8 @@
    "english": "onion",
    "difficulty": 2,
    "pronunciation": "die Zwiebel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 444,
@@ -4095,7 +4810,8 @@
    "english": "garlic",
    "difficulty": 2,
    "pronunciation": "der Knoblauch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 445,
@@ -4106,7 +4822,8 @@
    "pronunciation": "der Salat",
    "altEnglish": [
     "lettuce"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 446,
@@ -4115,7 +4832,10 @@
    "english": "carrot",
    "difficulty": 2,
    "pronunciation": "die Karotte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "die Möhre"
+   ]
   },
   {
    "id": 447,
@@ -4124,7 +4844,10 @@
    "english": "cauliflower",
    "difficulty": 3,
    "pronunciation": "der Karfiol",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "der Blumenkohl"
+   ]
   },
   {
    "id": 448,
@@ -4133,7 +4856,8 @@
    "english": "cabbage",
    "difficulty": 2,
    "pronunciation": "der Kohl",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 449,
@@ -4142,7 +4866,8 @@
    "english": "spinach",
    "difficulty": 2,
    "pronunciation": "der Spinat",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 450,
@@ -4151,7 +4876,10 @@
    "english": "mushroom",
    "difficulty": 2,
    "pronunciation": "der Pilz",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "der Schwammerl"
+   ]
   },
   {
    "id": 451,
@@ -4160,7 +4888,8 @@
    "english": "pea",
    "difficulty": 2,
    "pronunciation": "die Erbse",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 452,
@@ -4169,7 +4898,12 @@
    "english": "bean",
    "difficulty": 2,
    "pronunciation": "die Bohne",
-   "altEnglish": []
+   "altEnglish": [
+    "beans"
+   ],
+   "altTarget": [
+    "die Fisole"
+   ]
   },
   {
    "id": 453,
@@ -4178,7 +4912,12 @@
    "english": "aubergine",
    "difficulty": 3,
    "pronunciation": "die Melanzani",
-   "altEnglish": []
+   "altEnglish": [
+    "eggplant"
+   ],
+   "altTarget": [
+    "die Aubergine"
+   ]
   },
   {
    "id": 454,
@@ -4187,7 +4926,8 @@
    "english": "pumpkin",
    "difficulty": 3,
    "pronunciation": "der Kürbis",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 455,
@@ -4196,7 +4936,13 @@
    "english": "potato",
    "difficulty": 1,
    "pronunciation": "die Kartoffel",
-   "altEnglish": []
+   "altEnglish": [
+    "potatoes",
+    "spud"
+   ],
+   "altTarget": [
+    "der Erdapfel"
+   ]
   },
   {
    "id": 456,
@@ -4205,7 +4951,13 @@
    "english": "potato",
    "difficulty": 2,
    "pronunciation": "der Erdapfel",
-   "altEnglish": []
+   "altEnglish": [
+    "potatoes",
+    "spud"
+   ],
+   "altTarget": [
+    "die Kartoffel"
+   ]
   },
   {
    "id": 457,
@@ -4214,7 +4966,8 @@
    "english": "rice",
    "difficulty": 1,
    "pronunciation": "der Reis",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 458,
@@ -4223,7 +4976,8 @@
    "english": "pasta",
    "difficulty": 1,
    "pronunciation": "die Nudeln",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 459,
@@ -4232,7 +4986,8 @@
    "english": "flour",
    "difficulty": 2,
    "pronunciation": "das Mehl",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 460,
@@ -4241,7 +4996,8 @@
    "english": "sugar",
    "difficulty": 1,
    "pronunciation": "der Zucker",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 461,
@@ -4250,7 +5006,8 @@
    "english": "salt",
    "difficulty": 1,
    "pronunciation": "das Salz",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 462,
@@ -4259,7 +5016,8 @@
    "english": "pepper",
    "difficulty": 2,
    "pronunciation": "der Pfeffer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 463,
@@ -4268,7 +5026,8 @@
    "english": "oil",
    "difficulty": 2,
    "pronunciation": "das Öl",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 464,
@@ -4277,7 +5036,8 @@
    "english": "vinegar",
    "difficulty": 3,
    "pronunciation": "der Essig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 465,
@@ -4286,7 +5046,8 @@
    "english": "butter",
    "difficulty": 1,
    "pronunciation": "die Butter",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 466,
@@ -4295,7 +5056,8 @@
    "english": "milk",
    "difficulty": 1,
    "pronunciation": "die Milch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 467,
@@ -4304,7 +5066,8 @@
    "english": "cheese",
    "difficulty": 1,
    "pronunciation": "der Käse",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 468,
@@ -4313,7 +5076,12 @@
    "english": "yogurt",
    "difficulty": 2,
    "pronunciation": "der Joghurt",
-   "altEnglish": []
+   "altEnglish": [
+    "yoghurt"
+   ],
+   "altTarget": [
+    "der Jogurt"
+   ]
   },
   {
    "id": 469,
@@ -4322,7 +5090,10 @@
    "english": "quark",
    "difficulty": 2,
    "pronunciation": "der Topfen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "der Quark"
+   ]
   },
   {
    "id": 470,
@@ -4331,7 +5102,10 @@
    "english": "cream",
    "difficulty": 3,
    "pronunciation": "der Obers",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "die Sahne"
+   ]
   },
   {
    "id": 471,
@@ -4340,7 +5114,10 @@
    "english": "egg",
    "difficulty": 1,
    "pronunciation": "das Ei",
-   "altEnglish": []
+   "altEnglish": [
+    "eggs"
+   ],
+   "altTarget": []
   },
   {
    "id": 472,
@@ -4349,7 +5126,8 @@
    "english": "meat",
    "difficulty": 1,
    "pronunciation": "das Fleisch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 473,
@@ -4360,6 +5138,10 @@
    "pronunciation": "das Hendl",
    "altEnglish": [
     "chicken"
+   ],
+   "altTarget": [
+    "das Hähnchen",
+    "das Brathendl"
    ]
   },
   {
@@ -4369,7 +5151,8 @@
    "english": "schnitzel",
    "difficulty": 1,
    "pronunciation": "das Schnitzel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 475,
@@ -4378,7 +5161,10 @@
    "english": "minced meat",
    "difficulty": 3,
    "pronunciation": "das Faschierte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "das Hackfleisch"
+   ]
   },
   {
    "id": 476,
@@ -4387,7 +5173,8 @@
    "english": "ham",
    "difficulty": 2,
    "pronunciation": "der Schinken",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 477,
@@ -4396,7 +5183,10 @@
    "english": "sausage",
    "difficulty": 2,
    "pronunciation": "die Wurst",
-   "altEnglish": []
+   "altEnglish": [
+    "frankfurter"
+   ],
+   "altTarget": []
   },
   {
    "id": 478,
@@ -4407,6 +5197,9 @@
    "pronunciation": "das Würstel",
    "altEnglish": [
     "sausage"
+   ],
+   "altTarget": [
+    "das Würstchen"
    ]
   },
   {
@@ -4416,7 +5209,8 @@
    "english": "bacon",
    "difficulty": 3,
    "pronunciation": "der Speck",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 480,
@@ -4425,7 +5219,8 @@
    "english": "fish",
    "difficulty": 2,
    "pronunciation": "der Fisch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 481,
@@ -4434,7 +5229,8 @@
    "english": "water",
    "difficulty": 1,
    "pronunciation": "das Wasser",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 482,
@@ -4443,7 +5239,8 @@
    "english": "coffee",
    "difficulty": 1,
    "pronunciation": "der Kaffee",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 483,
@@ -4452,7 +5249,8 @@
    "english": "tea",
    "difficulty": 1,
    "pronunciation": "der Tee",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 484,
@@ -4461,7 +5259,8 @@
    "english": "juice",
    "difficulty": 2,
    "pronunciation": "der Saft",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 485,
@@ -4470,7 +5269,8 @@
    "english": "beer",
    "difficulty": 1,
    "pronunciation": "das Bier",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 486,
@@ -4479,7 +5279,8 @@
    "english": "wine",
    "difficulty": 1,
    "pronunciation": "der Wein",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 487,
@@ -4488,7 +5289,13 @@
    "english": "lemonade",
    "difficulty": 2,
    "pronunciation": "die Limo",
-   "altEnglish": []
+   "altEnglish": [
+    "soft drink",
+    "fizzy drink"
+   ],
+   "altTarget": [
+    "die Limonade"
+   ]
   },
   {
    "id": 488,
@@ -4497,7 +5304,8 @@
    "english": "cake",
    "difficulty": 2,
    "pronunciation": "der Kuchen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 489,
@@ -4508,7 +5316,8 @@
    "pronunciation": "die Torte",
    "altEnglish": [
     "layer cake"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 490,
@@ -4517,7 +5326,8 @@
    "english": "chocolate",
    "difficulty": 2,
    "pronunciation": "die Schokolade",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 491,
@@ -4526,7 +5336,12 @@
    "english": "ice cream",
    "difficulty": 1,
    "pronunciation": "das Eis",
-   "altEnglish": []
+   "altEnglish": [
+    "gelato"
+   ],
+   "altTarget": [
+    "das Speiseeis"
+   ]
   },
   {
    "id": 492,
@@ -4535,7 +5350,10 @@
    "english": "biscuit",
    "difficulty": 2,
    "pronunciation": "der Keks",
-   "altEnglish": []
+   "altEnglish": [
+    "cookie"
+   ],
+   "altTarget": []
   },
   {
    "id": 493,
@@ -4544,7 +5362,8 @@
    "english": "muesli",
    "difficulty": 3,
    "pronunciation": "das Müsli",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 494,
@@ -4553,7 +5372,8 @@
    "english": "jam",
    "difficulty": 3,
    "pronunciation": "die Marmelade",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 495,
@@ -4562,7 +5382,8 @@
    "english": "honey",
    "difficulty": 3,
    "pronunciation": "der Honig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 496,
@@ -4571,7 +5392,8 @@
    "english": "soup",
    "difficulty": 2,
    "pronunciation": "die Suppe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 497,
@@ -4580,7 +5402,8 @@
    "english": "breakfast",
    "difficulty": 1,
    "pronunciation": "das Frühstück",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 498,
@@ -4589,7 +5412,8 @@
    "english": "lunch",
    "difficulty": 1,
    "pronunciation": "das Mittagessen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 499,
@@ -4598,7 +5422,10 @@
    "english": "dinner",
    "difficulty": 1,
    "pronunciation": "das Abendessen",
-   "altEnglish": []
+   "altEnglish": [
+    "supper"
+   ],
+   "altTarget": []
   },
   {
    "id": 500,
@@ -4609,7 +5436,8 @@
    "pronunciation": "das Essen",
    "altEnglish": [
     "meal"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 501,
@@ -4618,7 +5446,8 @@
    "english": "hunger",
    "difficulty": 2,
    "pronunciation": "der Hunger",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 502,
@@ -4627,7 +5456,8 @@
    "english": "thirst",
    "difficulty": 2,
    "pronunciation": "der Durst",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 503,
@@ -4636,7 +5466,8 @@
    "english": "menu",
    "difficulty": 2,
    "pronunciation": "die Speisekarte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 504,
@@ -4645,7 +5476,8 @@
    "english": "restaurant",
    "difficulty": 1,
    "pronunciation": "das Restaurant",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 505,
@@ -4654,7 +5486,11 @@
    "english": "bill",
    "difficulty": 2,
    "pronunciation": "die Rechnung",
-   "altEnglish": []
+   "altEnglish": [
+    "check",
+    "invoice"
+   ],
+   "altTarget": []
   },
   {
    "id": 506,
@@ -4663,7 +5499,10 @@
    "english": "tip",
    "difficulty": 2,
    "pronunciation": "das Trinkgeld",
-   "altEnglish": []
+   "altEnglish": [
+    "gratuity"
+   ],
+   "altTarget": []
   },
   {
    "id": 507,
@@ -4672,7 +5511,10 @@
    "english": "plate",
    "difficulty": 1,
    "pronunciation": "der Teller",
-   "altEnglish": []
+   "altEnglish": [
+    "dish"
+   ],
+   "altTarget": []
   },
   {
    "id": 508,
@@ -4681,7 +5523,8 @@
    "english": "fork",
    "difficulty": 1,
    "pronunciation": "die Gabel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 509,
@@ -4690,7 +5533,8 @@
    "english": "knife",
    "difficulty": 1,
    "pronunciation": "das Messer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 510,
@@ -4699,7 +5543,8 @@
    "english": "spoon",
    "difficulty": 1,
    "pronunciation": "der Löffel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 511,
@@ -4708,7 +5553,10 @@
    "english": "cup",
    "difficulty": 1,
    "pronunciation": "die Tasse",
-   "altEnglish": []
+   "altEnglish": [
+    "mug"
+   ],
+   "altTarget": []
   },
   {
    "id": 512,
@@ -4717,7 +5565,8 @@
    "english": "glass",
    "difficulty": 1,
    "pronunciation": "das Glas",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 513,
@@ -4726,7 +5575,8 @@
    "english": "bottle",
    "difficulty": 1,
    "pronunciation": "die Flasche",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 514,
@@ -4735,7 +5585,10 @@
    "english": "frying pan",
    "difficulty": 2,
    "pronunciation": "die Pfanne",
-   "altEnglish": []
+   "altEnglish": [
+    "skillet"
+   ],
+   "altTarget": []
   },
   {
    "id": 515,
@@ -4744,7 +5597,10 @@
    "english": "pot",
    "difficulty": 2,
    "pronunciation": "der Topf",
-   "altEnglish": []
+   "altEnglish": [
+    "saucepan"
+   ],
+   "altTarget": []
   },
   {
    "id": 516,
@@ -4753,7 +5609,8 @@
    "english": "bowl",
    "difficulty": 2,
    "pronunciation": "die Schüssel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 517,
@@ -4762,7 +5619,8 @@
    "english": "oven",
    "difficulty": 2,
    "pronunciation": "der Ofen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 518,
@@ -4771,7 +5629,10 @@
    "english": "fridge",
    "difficulty": 2,
    "pronunciation": "der Kühlschrank",
-   "altEnglish": []
+   "altEnglish": [
+    "refrigerator"
+   ],
+   "altTarget": []
   },
   {
    "id": 519,
@@ -4780,7 +5641,10 @@
    "english": "stove",
    "difficulty": 3,
    "pronunciation": "der Herd",
-   "altEnglish": []
+   "altEnglish": [
+    "cooker"
+   ],
+   "altTarget": []
   },
   {
    "id": 520,
@@ -4789,7 +5653,10 @@
    "english": "portion",
    "difficulty": 3,
    "pronunciation": "die Portion",
-   "altEnglish": []
+   "altEnglish": [
+    "serving"
+   ],
+   "altTarget": []
   },
   {
    "id": 521,
@@ -4798,7 +5665,8 @@
    "english": "snack",
    "difficulty": 2,
    "pronunciation": "der Snack",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 522,
@@ -4807,7 +5675,10 @@
    "english": "spice",
    "difficulty": 3,
    "pronunciation": "das Gewürz",
-   "altEnglish": []
+   "altEnglish": [
+    "seasoning"
+   ],
+   "altTarget": []
   },
   {
    "id": 523,
@@ -4816,7 +5687,8 @@
    "english": "sauce",
    "difficulty": 3,
    "pronunciation": "die Soße",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 524,
@@ -4827,6 +5699,9 @@
    "pronunciation": "die Pommes",
    "altEnglish": [
     "chips"
+   ],
+   "altTarget": [
+    "die Fritten"
    ]
   },
   {
@@ -4836,7 +5711,8 @@
    "english": "pizza",
    "difficulty": 2,
    "pronunciation": "die Pizza",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 526,
@@ -4845,7 +5721,10 @@
    "english": "supermarket",
    "difficulty": 1,
    "pronunciation": "der Supermarkt",
-   "altEnglish": []
+   "altEnglish": [
+    "grocery store"
+   ],
+   "altTarget": []
   },
   {
    "id": 527,
@@ -4854,7 +5733,10 @@
    "english": "market",
    "difficulty": 2,
    "pronunciation": "der Markt",
-   "altEnglish": []
+   "altEnglish": [
+    "marketplace"
+   ],
+   "altTarget": []
   },
   {
    "id": 528,
@@ -4863,7 +5745,12 @@
    "english": "shop",
    "difficulty": 2,
    "pronunciation": "der Laden",
-   "altEnglish": []
+   "altEnglish": [
+    "store"
+   ],
+   "altTarget": [
+    "das Geschäft"
+   ]
   },
   {
    "id": 529,
@@ -4873,7 +5760,11 @@
    "difficulty": 2,
    "pronunciation": "das Geschäft",
    "altEnglish": [
-    "business"
+    "business",
+    "store"
+   ],
+   "altTarget": [
+    "der Laden"
    ]
   },
   {
@@ -4885,6 +5776,9 @@
    "pronunciation": "die Kasse",
    "altEnglish": [
     "till"
+   ],
+   "altTarget": [
+    "die Kassa"
    ]
   },
   {
@@ -4894,7 +5788,12 @@
    "english": "shopping trolley",
    "difficulty": 2,
    "pronunciation": "der Einkaufswagen",
-   "altEnglish": []
+   "altEnglish": [
+    "shopping cart",
+    "trolley",
+    "cart"
+   ],
+   "altTarget": []
   },
   {
    "id": 532,
@@ -4903,7 +5802,12 @@
    "english": "carrier bag",
    "difficulty": 2,
    "pronunciation": "die Tüte",
-   "altEnglish": []
+   "altEnglish": [
+    "plastic bag"
+   ],
+   "altTarget": [
+    "das Sackerl"
+   ]
   },
   {
    "id": 533,
@@ -4912,7 +5816,13 @@
    "english": "plastic bag",
    "difficulty": 2,
    "pronunciation": "das Sackerl",
-   "altEnglish": []
+   "altEnglish": [
+    "carrier bag"
+   ],
+   "altTarget": [
+    "die Tüte",
+    "das Plastiksackerl"
+   ]
   },
   {
    "id": 534,
@@ -4923,7 +5833,8 @@
    "pronunciation": "der Einkauf",
    "altEnglish": [
     "purchase"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 535,
@@ -4934,7 +5845,8 @@
    "pronunciation": "die Packung",
    "altEnglish": [
     "packet"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 536,
@@ -4943,7 +5855,8 @@
    "english": "piece",
    "difficulty": 1,
    "pronunciation": "das Stück",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 537,
@@ -4954,7 +5867,8 @@
    "pronunciation": "das Angebot",
    "altEnglish": [
     "deal"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 538,
@@ -4963,7 +5877,8 @@
    "english": "price",
    "difficulty": 1,
    "pronunciation": "der Preis",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 539,
@@ -4972,7 +5887,8 @@
    "english": "discount",
    "difficulty": 2,
    "pronunciation": "der Rabatt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 540,
@@ -4981,7 +5897,10 @@
    "english": "voucher",
    "difficulty": 3,
    "pronunciation": "der Gutschein",
-   "altEnglish": []
+   "altEnglish": [
+    "coupon"
+   ],
+   "altTarget": []
   },
   {
    "id": 541,
@@ -4990,7 +5909,8 @@
    "english": "list",
    "difficulty": 2,
    "pronunciation": "die Liste",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 542,
@@ -5001,6 +5921,9 @@
    "pronunciation": "der Zettel",
    "altEnglish": [
     "slip"
+   ],
+   "altTarget": [
+    "die Notiz"
    ]
   },
   {
@@ -5010,7 +5933,11 @@
    "english": "receipt",
    "difficulty": 3,
    "pronunciation": "der Bon",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "der Kassenbon",
+    "der Beleg"
+   ]
   },
   {
    "id": 544,
@@ -5019,7 +5946,8 @@
    "english": "money",
    "difficulty": 1,
    "pronunciation": "das Geld",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 545,
@@ -5028,7 +5956,8 @@
    "english": "coin",
    "difficulty": 2,
    "pronunciation": "die Münze",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 546,
@@ -5037,7 +5966,8 @@
    "english": "banknote",
    "difficulty": 3,
    "pronunciation": "der Schein",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 547,
@@ -5046,7 +5976,10 @@
    "english": "bank account",
    "difficulty": 2,
    "pronunciation": "das Konto",
-   "altEnglish": []
+   "altEnglish": [
+    "account"
+   ],
+   "altTarget": []
   },
   {
    "id": 548,
@@ -5055,7 +5988,8 @@
    "english": "bank",
    "difficulty": 2,
    "pronunciation": "die Bank",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 549,
@@ -5064,7 +5998,8 @@
    "english": "euro",
    "difficulty": 1,
    "pronunciation": "der Euro",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 550,
@@ -5073,7 +6008,11 @@
    "english": "cash machine",
    "difficulty": 2,
    "pronunciation": "der Geldautomat",
-   "altEnglish": []
+   "altEnglish": [
+    "atm",
+    "cashpoint"
+   ],
+   "altTarget": []
   },
   {
    "id": 551,
@@ -5082,7 +6021,8 @@
    "english": "card",
    "difficulty": 1,
    "pronunciation": "die Karte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 552,
@@ -5091,7 +6031,8 @@
    "english": "credit card",
    "difficulty": 2,
    "pronunciation": "die Kreditkarte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 553,
@@ -5100,7 +6041,8 @@
    "english": "change",
    "difficulty": 3,
    "pronunciation": "das Wechselgeld",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 554,
@@ -5109,7 +6051,8 @@
    "english": "size",
    "difficulty": 2,
    "pronunciation": "die Größe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 555,
@@ -5118,7 +6061,10 @@
    "english": "colour",
    "difficulty": 2,
    "pronunciation": "die Farbe",
-   "altEnglish": []
+   "altEnglish": [
+    "color"
+   ],
+   "altTarget": []
   },
   {
    "id": 556,
@@ -5127,7 +6073,8 @@
    "english": "sale",
    "difficulty": 3,
    "pronunciation": "der Verkauf",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 557,
@@ -5136,7 +6083,8 @@
    "english": "goods",
    "difficulty": 3,
    "pronunciation": "die Ware",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 558,
@@ -5145,7 +6093,10 @@
    "english": "costs",
    "difficulty": 3,
    "pronunciation": "die Kosten",
-   "altEnglish": []
+   "altEnglish": [
+    "cost"
+   ],
+   "altTarget": []
   },
   {
    "id": 559,
@@ -5154,7 +6105,8 @@
    "english": "rent",
    "difficulty": 2,
    "pronunciation": "die Miete",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 560,
@@ -5163,7 +6115,8 @@
    "english": "tax",
    "difficulty": 3,
    "pronunciation": "die Steuer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 561,
@@ -5172,7 +6125,8 @@
    "english": "deposit",
    "difficulty": 3,
    "pronunciation": "das Pfand",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 562,
@@ -5181,7 +6135,8 @@
    "english": "bag",
    "difficulty": 2,
    "pronunciation": "die Tasche",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 563,
@@ -5190,7 +6145,10 @@
    "english": "backpack",
    "difficulty": 2,
    "pronunciation": "der Rucksack",
-   "altEnglish": []
+   "altEnglish": [
+    "rucksack"
+   ],
+   "altTarget": []
   },
   {
    "id": 564,
@@ -5199,7 +6157,8 @@
    "english": "suitcase",
    "difficulty": 2,
    "pronunciation": "der Koffer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 565,
@@ -5208,7 +6167,8 @@
    "english": "scales",
    "difficulty": 3,
    "pronunciation": "die Waage",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 566,
@@ -5217,7 +6177,10 @@
    "english": "parcel",
    "difficulty": 2,
    "pronunciation": "das Paket",
-   "altEnglish": []
+   "altEnglish": [
+    "package"
+   ],
+   "altTarget": []
   },
   {
    "id": 567,
@@ -5226,7 +6189,8 @@
    "english": "packaging",
    "difficulty": 3,
    "pronunciation": "die Verpackung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 568,
@@ -5235,7 +6199,10 @@
    "english": "house",
    "difficulty": 1,
    "pronunciation": "das Haus",
-   "altEnglish": []
+   "altEnglish": [
+    "home"
+   ],
+   "altTarget": []
   },
   {
    "id": 569,
@@ -5246,7 +6213,8 @@
    "pronunciation": "die Wohnung",
    "altEnglish": [
     "apartment"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 570,
@@ -5255,7 +6223,8 @@
    "english": "room",
    "difficulty": 1,
    "pronunciation": "das Zimmer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 571,
@@ -5264,7 +6233,8 @@
    "english": "kitchen",
    "difficulty": 1,
    "pronunciation": "die Küche",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 572,
@@ -5273,7 +6243,8 @@
    "english": "bathroom",
    "difficulty": 1,
    "pronunciation": "das Badezimmer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 573,
@@ -5282,7 +6253,10 @@
    "english": "bathroom",
    "difficulty": 2,
    "pronunciation": "das Bad",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "das Badezimmer"
+   ]
   },
   {
    "id": 574,
@@ -5291,7 +6265,15 @@
    "english": "toilet",
    "difficulty": 1,
    "pronunciation": "die Toilette",
-   "altEnglish": []
+   "altEnglish": [
+    "restroom",
+    "loo",
+    "wc"
+   ],
+   "altTarget": [
+    "das WC",
+    "das Klo"
+   ]
   },
   {
    "id": 575,
@@ -5300,7 +6282,15 @@
    "english": "toilet",
    "difficulty": 2,
    "pronunciation": "das WC",
-   "altEnglish": []
+   "altEnglish": [
+    "restroom",
+    "loo",
+    "wc"
+   ],
+   "altTarget": [
+    "die Toilette",
+    "das Klo"
+   ]
   },
   {
    "id": 576,
@@ -5309,7 +6299,10 @@
    "english": "living room",
    "difficulty": 1,
    "pronunciation": "das Wohnzimmer",
-   "altEnglish": []
+   "altEnglish": [
+    "lounge"
+   ],
+   "altTarget": []
   },
   {
    "id": 577,
@@ -5318,7 +6311,8 @@
    "english": "bedroom",
    "difficulty": 1,
    "pronunciation": "das Schlafzimmer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 578,
@@ -5327,7 +6321,8 @@
    "english": "garden",
    "difficulty": 1,
    "pronunciation": "der Garten",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 579,
@@ -5336,7 +6331,8 @@
    "english": "balcony",
    "difficulty": 2,
    "pronunciation": "der Balkon",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 580,
@@ -5345,7 +6341,8 @@
    "english": "door",
    "difficulty": 1,
    "pronunciation": "die Tür",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 581,
@@ -5354,7 +6351,8 @@
    "english": "window",
    "difficulty": 1,
    "pronunciation": "das Fenster",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 582,
@@ -5363,7 +6361,12 @@
    "english": "stairs",
    "difficulty": 2,
    "pronunciation": "die Treppe",
-   "altEnglish": []
+   "altEnglish": [
+    "staircase"
+   ],
+   "altTarget": [
+    "die Stiege"
+   ]
   },
   {
    "id": 583,
@@ -5372,7 +6375,8 @@
    "english": "floor",
    "difficulty": 2,
    "pronunciation": "der Boden",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 584,
@@ -5381,7 +6385,8 @@
    "english": "wall",
    "difficulty": 2,
    "pronunciation": "die Wand",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 585,
@@ -5390,7 +6395,8 @@
    "english": "roof",
    "difficulty": 2,
    "pronunciation": "das Dach",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 586,
@@ -5399,7 +6405,8 @@
    "english": "key",
    "difficulty": 1,
    "pronunciation": "der Schlüssel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 587,
@@ -5408,7 +6415,8 @@
    "english": "bed",
    "difficulty": 1,
    "pronunciation": "das Bett",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 588,
@@ -5417,7 +6425,8 @@
    "english": "table",
    "difficulty": 1,
    "pronunciation": "der Tisch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 589,
@@ -5426,7 +6435,8 @@
    "english": "chair",
    "difficulty": 1,
    "pronunciation": "der Stuhl",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 590,
@@ -5435,7 +6445,12 @@
    "english": "sofa",
    "difficulty": 2,
    "pronunciation": "die Couch",
-   "altEnglish": []
+   "altEnglish": [
+    "couch"
+   ],
+   "altTarget": [
+    "das Sofa"
+   ]
   },
   {
    "id": 591,
@@ -5445,7 +6460,11 @@
    "difficulty": 2,
    "pronunciation": "der Schrank",
    "altEnglish": [
-    "wardrobe"
+    "wardrobe",
+    "closet"
+   ],
+   "altTarget": [
+    "der Kasten"
    ]
   },
   {
@@ -5455,7 +6474,8 @@
    "english": "shelf",
    "difficulty": 2,
    "pronunciation": "das Regal",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 593,
@@ -5464,7 +6484,8 @@
    "english": "lamp",
    "difficulty": 1,
    "pronunciation": "die Lampe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 594,
@@ -5473,7 +6494,8 @@
    "english": "mirror",
    "difficulty": 2,
    "pronunciation": "der Spiegel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 595,
@@ -5482,7 +6504,10 @@
    "english": "carpet",
    "difficulty": 2,
    "pronunciation": "der Teppich",
-   "altEnglish": []
+   "altEnglish": [
+    "rug"
+   ],
+   "altTarget": []
   },
   {
    "id": 596,
@@ -5491,7 +6516,8 @@
    "english": "cushion",
    "difficulty": 2,
    "pronunciation": "das Kissen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 597,
@@ -5501,8 +6527,10 @@
    "difficulty": 2,
    "pronunciation": "die Decke",
    "altEnglish": [
-    "ceiling"
-   ]
+    "ceiling",
+    "duvet"
+   ],
+   "altTarget": []
   },
   {
    "id": 598,
@@ -5511,7 +6539,14 @@
    "english": "TV",
    "difficulty": 2,
    "pronunciation": "der Fernseher",
-   "altEnglish": []
+   "altEnglish": [
+    "television",
+    "telly"
+   ],
+   "altTarget": [
+    "das Fernsehgerät",
+    "der Fernsehapparat"
+   ]
   },
   {
    "id": 599,
@@ -5520,7 +6555,8 @@
    "english": "radio",
    "difficulty": 2,
    "pronunciation": "das Radio",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 600,
@@ -5529,7 +6565,8 @@
    "english": "washing machine",
    "difficulty": 2,
    "pronunciation": "die Waschmaschine",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 601,
@@ -5538,7 +6575,10 @@
    "english": "vacuum cleaner",
    "difficulty": 3,
    "pronunciation": "der Staubsauger",
-   "altEnglish": []
+   "altEnglish": [
+    "hoover"
+   ],
+   "altTarget": []
   },
   {
    "id": 602,
@@ -5547,7 +6587,8 @@
    "english": "broom",
    "difficulty": 3,
    "pronunciation": "der Besen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 603,
@@ -5556,7 +6597,11 @@
    "english": "rubbish",
    "difficulty": 2,
    "pronunciation": "der Müll",
-   "altEnglish": []
+   "altEnglish": [
+    "garbage",
+    "trash"
+   ],
+   "altTarget": []
   },
   {
    "id": 604,
@@ -5565,7 +6610,13 @@
    "english": "bin",
    "difficulty": 3,
    "pronunciation": "die Mülltonne",
-   "altEnglish": []
+   "altEnglish": [
+    "trash can",
+    "garbage can"
+   ],
+   "altTarget": [
+    "der Mistkübel"
+   ]
   },
   {
    "id": 605,
@@ -5574,7 +6625,8 @@
    "english": "soap",
    "difficulty": 2,
    "pronunciation": "die Seife",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 606,
@@ -5583,7 +6635,8 @@
    "english": "shower",
    "difficulty": 2,
    "pronunciation": "die Dusche",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 607,
@@ -5592,7 +6645,10 @@
    "english": "bath",
    "difficulty": 3,
    "pronunciation": "die Badewanne",
-   "altEnglish": []
+   "altEnglish": [
+    "bathtub"
+   ],
+   "altTarget": []
   },
   {
    "id": 608,
@@ -5601,7 +6657,8 @@
    "english": "towel",
    "difficulty": 2,
    "pronunciation": "das Handtuch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 609,
@@ -5610,7 +6667,8 @@
    "english": "toilet paper",
    "difficulty": 2,
    "pronunciation": "das Toilettenpapier",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 610,
@@ -5619,7 +6677,8 @@
    "english": "heating",
    "difficulty": 3,
    "pronunciation": "die Heizung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 611,
@@ -5628,7 +6687,8 @@
    "english": "electricity",
    "difficulty": 3,
    "pronunciation": "der Strom",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 612,
@@ -5637,7 +6697,11 @@
    "english": "power socket",
    "difficulty": 3,
    "pronunciation": "die Steckdose",
-   "altEnglish": []
+   "altEnglish": [
+    "socket",
+    "outlet"
+   ],
+   "altTarget": []
   },
   {
    "id": 613,
@@ -5646,7 +6710,10 @@
    "english": "light bulb",
    "difficulty": 3,
    "pronunciation": "die Glühbirne",
-   "altEnglish": []
+   "altEnglish": [
+    "bulb"
+   ],
+   "altTarget": []
   },
   {
    "id": 614,
@@ -5655,7 +6722,8 @@
    "english": "light",
    "difficulty": 2,
    "pronunciation": "das Licht",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 615,
@@ -5664,7 +6732,8 @@
    "english": "switch",
    "difficulty": 3,
    "pronunciation": "der Schalter",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 616,
@@ -5673,7 +6742,8 @@
    "english": "garage",
    "difficulty": 2,
    "pronunciation": "die Garage",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 617,
@@ -5684,7 +6754,8 @@
    "pronunciation": "der Keller",
    "altEnglish": [
     "basement"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 618,
@@ -5693,7 +6764,10 @@
    "english": "letterbox",
    "difficulty": 3,
    "pronunciation": "der Briefkasten",
-   "altEnglish": []
+   "altEnglish": [
+    "mailbox"
+   ],
+   "altTarget": []
   },
   {
    "id": 619,
@@ -5702,7 +6776,8 @@
    "english": "child's room",
    "difficulty": 3,
    "pronunciation": "das Kinderzimmer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 620,
@@ -5711,7 +6786,8 @@
    "english": "doorbell",
    "difficulty": 3,
    "pronunciation": "die Klingel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 621,
@@ -5720,7 +6796,12 @@
    "english": "clothing",
    "difficulty": 2,
    "pronunciation": "die Kleidung",
-   "altEnglish": []
+   "altEnglish": [
+    "clothes"
+   ],
+   "altTarget": [
+    "das Gwand"
+   ]
   },
   {
    "id": 622,
@@ -5729,7 +6810,8 @@
    "english": "shirt",
    "difficulty": 2,
    "pronunciation": "das Hemd",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 623,
@@ -5738,7 +6820,10 @@
    "english": "trousers",
    "difficulty": 1,
    "pronunciation": "die Hose",
-   "altEnglish": []
+   "altEnglish": [
+    "pants"
+   ],
+   "altTarget": []
   },
   {
    "id": 624,
@@ -5747,7 +6832,8 @@
    "english": "skirt",
    "difficulty": 2,
    "pronunciation": "der Rock",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 625,
@@ -5756,7 +6842,8 @@
    "english": "dress",
    "difficulty": 1,
    "pronunciation": "das Kleid",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 626,
@@ -5765,7 +6852,13 @@
    "english": "jumper",
    "difficulty": 2,
    "pronunciation": "der Pulli",
-   "altEnglish": []
+   "altEnglish": [
+    "sweater",
+    "pullover"
+   ],
+   "altTarget": [
+    "der Pullover"
+   ]
   },
   {
    "id": 627,
@@ -5774,7 +6867,8 @@
    "english": "jacket",
    "difficulty": 1,
    "pronunciation": "die Jacke",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 628,
@@ -5783,7 +6877,8 @@
    "english": "coat",
    "difficulty": 2,
    "pronunciation": "der Mantel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 629,
@@ -5792,7 +6887,10 @@
    "english": "sock",
    "difficulty": 2,
    "pronunciation": "die Socke",
-   "altEnglish": []
+   "altEnglish": [
+    "socks"
+   ],
+   "altTarget": []
   },
   {
    "id": 630,
@@ -5801,7 +6899,8 @@
    "english": "shoe",
    "difficulty": 1,
    "pronunciation": "der Schuh",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 631,
@@ -5810,7 +6909,8 @@
    "english": "hat",
    "difficulty": 2,
    "pronunciation": "der Hut",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 632,
@@ -5821,6 +6921,9 @@
    "pronunciation": "die Mütze",
    "altEnglish": [
     "beanie"
+   ],
+   "altTarget": [
+    "die Kappe"
    ]
   },
   {
@@ -5830,7 +6933,8 @@
    "english": "scarf",
    "difficulty": 2,
    "pronunciation": "der Schal",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 634,
@@ -5839,7 +6943,8 @@
    "english": "glove",
    "difficulty": 2,
    "pronunciation": "der Handschuh",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 635,
@@ -5848,7 +6953,8 @@
    "english": "underwear",
    "difficulty": 2,
    "pronunciation": "die Unterwäsche",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 636,
@@ -5857,7 +6963,8 @@
    "english": "t-shirt",
    "difficulty": 1,
    "pronunciation": "das T-Shirt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 637,
@@ -5866,7 +6973,8 @@
    "english": "blouse",
    "difficulty": 2,
    "pronunciation": "die Bluse",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 638,
@@ -5875,7 +6983,8 @@
    "english": "tie",
    "difficulty": 3,
    "pronunciation": "die Krawatte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 639,
@@ -5884,7 +6993,8 @@
    "english": "tights",
    "difficulty": 3,
    "pronunciation": "die Strumpfhose",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 640,
@@ -5893,7 +7003,8 @@
    "english": "belt",
    "difficulty": 2,
    "pronunciation": "der Gürtel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 641,
@@ -5902,7 +7013,8 @@
    "english": "suit",
    "difficulty": 2,
    "pronunciation": "der Anzug",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 642,
@@ -5911,7 +7023,10 @@
    "english": "raincoat",
    "difficulty": 3,
    "pronunciation": "die Regenjacke",
-   "altEnglish": []
+   "altEnglish": [
+    "mac"
+   ],
+   "altTarget": []
   },
   {
    "id": 643,
@@ -5920,7 +7035,11 @@
    "english": "swimming trunks",
    "difficulty": 3,
    "pronunciation": "die Badehose",
-   "altEnglish": []
+   "altEnglish": [
+    "swimsuit",
+    "swimming shorts"
+   ],
+   "altTarget": []
   },
   {
    "id": 644,
@@ -5929,7 +7048,10 @@
    "english": "pyjamas",
    "difficulty": 3,
    "pronunciation": "der Schlafanzug",
-   "altEnglish": []
+   "altEnglish": [
+    "pajamas"
+   ],
+   "altTarget": []
   },
   {
    "id": 645,
@@ -5938,7 +7060,8 @@
    "english": "bikini",
    "difficulty": 3,
    "pronunciation": "der Bikini",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 646,
@@ -5947,7 +7070,8 @@
    "english": "sandal",
    "difficulty": 3,
    "pronunciation": "die Sandale",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 647,
@@ -5956,7 +7080,8 @@
    "english": "boot",
    "difficulty": 3,
    "pronunciation": "der Stiefel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 648,
@@ -5965,7 +7090,8 @@
    "english": "ring",
    "difficulty": 3,
    "pronunciation": "der Ring",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 649,
@@ -5974,7 +7100,8 @@
    "english": "necklace",
    "difficulty": 3,
    "pronunciation": "die Kette",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 650,
@@ -5983,7 +7110,8 @@
    "english": "bus",
    "difficulty": 1,
    "pronunciation": "der Bus",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 651,
@@ -5992,7 +7120,8 @@
    "english": "tram",
    "difficulty": 2,
    "pronunciation": "die Straßenbahn",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 652,
@@ -6003,6 +7132,9 @@
    "pronunciation": "die Bahn",
    "altEnglish": [
     "railway"
+   ],
+   "altTarget": [
+    "der Zug"
    ]
   },
   {
@@ -6012,7 +7144,10 @@
    "english": "train",
    "difficulty": 1,
    "pronunciation": "der Zug",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "die Bahn"
+   ]
   },
   {
    "id": 654,
@@ -6021,7 +7156,11 @@
    "english": "underground",
    "difficulty": 2,
    "pronunciation": "die U-Bahn",
-   "altEnglish": []
+   "altEnglish": [
+    "subway",
+    "tube"
+   ],
+   "altTarget": []
   },
   {
    "id": 655,
@@ -6030,7 +7169,8 @@
    "english": "train station",
    "difficulty": 1,
    "pronunciation": "der Bahnhof",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 656,
@@ -6039,7 +7179,10 @@
    "english": "stop",
    "difficulty": 2,
    "pronunciation": "die Haltestelle",
-   "altEnglish": []
+   "altEnglish": [
+    "bus stop"
+   ],
+   "altTarget": []
   },
   {
    "id": 657,
@@ -6048,7 +7191,10 @@
    "english": "timetable",
    "difficulty": 2,
    "pronunciation": "der Fahrplan",
-   "altEnglish": []
+   "altEnglish": [
+    "schedule"
+   ],
+   "altTarget": []
   },
   {
    "id": 658,
@@ -6057,7 +7203,10 @@
    "english": "ticket",
    "difficulty": 2,
    "pronunciation": "die Fahrkarte",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "das Ticket"
+   ]
   },
   {
    "id": 659,
@@ -6066,7 +7215,10 @@
    "english": "ticket",
    "difficulty": 1,
    "pronunciation": "das Ticket",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "die Fahrkarte"
+   ]
   },
   {
    "id": 660,
@@ -6075,7 +7227,8 @@
    "english": "airport",
    "difficulty": 2,
    "pronunciation": "der Flughafen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 661,
@@ -6084,7 +7237,11 @@
    "english": "aeroplane",
    "difficulty": 2,
    "pronunciation": "das Flugzeug",
-   "altEnglish": []
+   "altEnglish": [
+    "airplane",
+    "plane"
+   ],
+   "altTarget": []
   },
   {
    "id": 662,
@@ -6093,7 +7250,8 @@
    "english": "flight",
    "difficulty": 2,
    "pronunciation": "der Flug",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 663,
@@ -6102,7 +7260,13 @@
    "english": "car",
    "difficulty": 1,
    "pronunciation": "das Auto",
-   "altEnglish": []
+   "altEnglish": [
+    "automobile"
+   ],
+   "altTarget": [
+    "der Wagen",
+    "der PKW"
+   ]
   },
   {
    "id": 664,
@@ -6111,7 +7275,8 @@
    "english": "traffic",
    "difficulty": 2,
    "pronunciation": "der Verkehr",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 665,
@@ -6120,7 +7285,8 @@
    "english": "street",
    "difficulty": 1,
    "pronunciation": "die Straße",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 666,
@@ -6129,7 +7295,11 @@
    "english": "motorway",
    "difficulty": 2,
    "pronunciation": "die Autobahn",
-   "altEnglish": []
+   "altEnglish": [
+    "highway",
+    "freeway"
+   ],
+   "altTarget": []
   },
   {
    "id": 667,
@@ -6138,7 +7308,10 @@
    "english": "crossroads",
    "difficulty": 2,
    "pronunciation": "die Kreuzung",
-   "altEnglish": []
+   "altEnglish": [
+    "junction"
+   ],
+   "altTarget": []
   },
   {
    "id": 668,
@@ -6147,7 +7320,11 @@
    "english": "traffic light",
    "difficulty": 2,
    "pronunciation": "die Ampel",
-   "altEnglish": []
+   "altEnglish": [
+    "traffic lights",
+    "stoplight"
+   ],
+   "altTarget": []
   },
   {
    "id": 669,
@@ -6156,7 +7333,10 @@
    "english": "parking space",
    "difficulty": 2,
    "pronunciation": "der Parkplatz",
-   "altEnglish": []
+   "altEnglish": [
+    "parking spot"
+   ],
+   "altTarget": []
   },
   {
    "id": 670,
@@ -6165,7 +7345,11 @@
    "english": "petrol station",
    "difficulty": 2,
    "pronunciation": "die Tankstelle",
-   "altEnglish": []
+   "altEnglish": [
+    "gas station",
+    "service station"
+   ],
+   "altTarget": []
   },
   {
    "id": 671,
@@ -6174,7 +7358,10 @@
    "english": "petrol",
    "difficulty": 2,
    "pronunciation": "das Benzin",
-   "altEnglish": []
+   "altEnglish": [
+    "gasoline"
+   ],
+   "altTarget": []
   },
   {
    "id": 672,
@@ -6183,7 +7370,11 @@
    "english": "driving licence",
    "difficulty": 2,
    "pronunciation": "der Führerschein",
-   "altEnglish": []
+   "altEnglish": [
+    "driving license",
+    "drivers license"
+   ],
+   "altTarget": []
   },
   {
    "id": 673,
@@ -6192,7 +7383,11 @@
    "english": "bicycle",
    "difficulty": 1,
    "pronunciation": "das Fahrrad",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "das Rad",
+    "das Radl"
+   ]
   },
   {
    "id": 674,
@@ -6201,7 +7396,8 @@
    "english": "helmet",
    "difficulty": 2,
    "pronunciation": "der Helm",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 675,
@@ -6212,7 +7408,8 @@
    "pronunciation": "der Weg",
    "altEnglish": [
     "path"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 676,
@@ -6221,7 +7418,8 @@
    "english": "direction",
    "difficulty": 2,
    "pronunciation": "die Richtung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 677,
@@ -6230,7 +7428,8 @@
    "english": "bridge",
    "difficulty": 2,
    "pronunciation": "die Brücke",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 678,
@@ -6239,7 +7438,8 @@
    "english": "tunnel",
    "difficulty": 2,
    "pronunciation": "der Tunnel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 679,
@@ -6249,8 +7449,10 @@
    "difficulty": 3,
    "pronunciation": "der Hafen",
    "altEnglish": [
-    "port"
-   ]
+    "port",
+    "harbor"
+   ],
+   "altTarget": []
   },
   {
    "id": 680,
@@ -6259,7 +7461,8 @@
    "english": "ship",
    "difficulty": 2,
    "pronunciation": "das Schiff",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 681,
@@ -6268,7 +7471,10 @@
    "english": "trip",
    "difficulty": 2,
    "pronunciation": "die Reise",
-   "altEnglish": []
+   "altEnglish": [
+    "journey"
+   ],
+   "altTarget": []
   },
   {
    "id": 682,
@@ -6277,7 +7483,10 @@
    "english": "holiday",
    "difficulty": 1,
    "pronunciation": "der Urlaub",
-   "altEnglish": []
+   "altEnglish": [
+    "vacation"
+   ],
+   "altTarget": []
   },
   {
    "id": 683,
@@ -6286,7 +7495,8 @@
    "english": "hotel",
    "difficulty": 1,
    "pronunciation": "das Hotel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 684,
@@ -6295,7 +7505,10 @@
    "english": "accommodation",
    "difficulty": 3,
    "pronunciation": "die Unterkunft",
-   "altEnglish": []
+   "altEnglish": [
+    "lodging"
+   ],
+   "altTarget": []
   },
   {
    "id": 685,
@@ -6304,7 +7517,8 @@
    "english": "passport",
    "difficulty": 2,
    "pronunciation": "der Reisepass",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 686,
@@ -6313,7 +7527,11 @@
    "english": "ID card",
    "difficulty": 2,
    "pronunciation": "der Ausweis",
-   "altEnglish": []
+   "altEnglish": [
+    "identity card",
+    "ID"
+   ],
+   "altTarget": []
   },
   {
    "id": 687,
@@ -6322,7 +7540,10 @@
    "english": "luggage",
    "difficulty": 2,
    "pronunciation": "das Gepäck",
-   "altEnglish": []
+   "altEnglish": [
+    "baggage"
+   ],
+   "altTarget": []
   },
   {
    "id": 688,
@@ -6331,7 +7552,8 @@
    "english": "departure",
    "difficulty": 2,
    "pronunciation": "die Abfahrt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 689,
@@ -6340,7 +7562,8 @@
    "english": "arrival",
    "difficulty": 2,
    "pronunciation": "die Ankunft",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 690,
@@ -6349,7 +7572,8 @@
    "english": "delay",
    "difficulty": 2,
    "pronunciation": "die Verspätung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 691,
@@ -6358,7 +7582,8 @@
    "english": "taxi",
    "difficulty": 1,
    "pronunciation": "das Taxi",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 692,
@@ -6367,7 +7592,8 @@
    "english": "connection",
    "difficulty": 3,
    "pronunciation": "die Verbindung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 693,
@@ -6376,7 +7602,8 @@
    "english": "seat",
    "difficulty": 3,
    "pronunciation": "der Sitzplatz",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 694,
@@ -6385,7 +7612,8 @@
    "english": "city",
    "difficulty": 1,
    "pronunciation": "die Stadt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 695,
@@ -6394,7 +7622,8 @@
    "english": "country",
    "difficulty": 1,
    "pronunciation": "das Land",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 696,
@@ -6403,7 +7632,8 @@
    "english": "place",
    "difficulty": 2,
    "pronunciation": "der Ort",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 697,
@@ -6412,7 +7642,8 @@
    "english": "corner",
    "difficulty": 2,
    "pronunciation": "die Ecke",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 698,
@@ -6421,7 +7652,8 @@
    "english": "park",
    "difficulty": 2,
    "pronunciation": "der Park",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 699,
@@ -6430,7 +7662,8 @@
    "english": "square",
    "difficulty": 2,
    "pronunciation": "der Platz",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 700,
@@ -6439,7 +7672,10 @@
    "english": "border",
    "difficulty": 2,
    "pronunciation": "die Grenze",
-   "altEnglish": []
+   "altEnglish": [
+    "frontier"
+   ],
+   "altTarget": []
   },
   {
    "id": 701,
@@ -6448,7 +7684,8 @@
    "english": "museum",
    "difficulty": 2,
    "pronunciation": "das Museum",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 702,
@@ -6457,7 +7694,8 @@
    "english": "church",
    "difficulty": 2,
    "pronunciation": "die Kirche",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 703,
@@ -6466,7 +7704,8 @@
    "english": "castle",
    "difficulty": 2,
    "pronunciation": "das Schloss",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 704,
@@ -6475,7 +7714,10 @@
    "english": "entrance",
    "difficulty": 2,
    "pronunciation": "der Eingang",
-   "altEnglish": []
+   "altEnglish": [
+    "entry"
+   ],
+   "altTarget": []
   },
   {
    "id": 705,
@@ -6484,7 +7726,10 @@
    "english": "exit",
    "difficulty": 2,
    "pronunciation": "der Ausgang",
-   "altEnglish": []
+   "altEnglish": [
+    "way out"
+   ],
+   "altTarget": []
   },
   {
    "id": 706,
@@ -6493,7 +7738,8 @@
    "english": "escalator",
    "difficulty": 3,
    "pronunciation": "die Rolltreppe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 707,
@@ -6502,7 +7748,10 @@
    "english": "lift",
    "difficulty": 2,
    "pronunciation": "der Aufzug",
-   "altEnglish": []
+   "altEnglish": [
+    "elevator"
+   ],
+   "altTarget": []
   },
   {
    "id": 708,
@@ -6511,7 +7760,8 @@
    "english": "traffic jam",
    "difficulty": 3,
    "pronunciation": "der Stau",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 709,
@@ -6520,7 +7770,8 @@
    "english": "work",
    "difficulty": 1,
    "pronunciation": "die Arbeit",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 710,
@@ -6529,7 +7780,8 @@
    "english": "job",
    "difficulty": 2,
    "pronunciation": "der Job",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 711,
@@ -6538,7 +7790,10 @@
    "english": "company",
    "difficulty": 2,
    "pronunciation": "die Firma",
-   "altEnglish": []
+   "altEnglish": [
+    "firm"
+   ],
+   "altTarget": []
   },
   {
    "id": 712,
@@ -6547,7 +7802,8 @@
    "english": "office",
    "difficulty": 1,
    "pronunciation": "das Büro",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 713,
@@ -6556,7 +7812,8 @@
    "english": "desk",
    "difficulty": 2,
    "pronunciation": "der Schreibtisch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 714,
@@ -6565,7 +7822,10 @@
    "english": "computer",
    "difficulty": 1,
    "pronunciation": "der Computer",
-   "altEnglish": []
+   "altEnglish": [
+    "PC"
+   ],
+   "altTarget": []
   },
   {
    "id": 715,
@@ -6574,7 +7834,10 @@
    "english": "laptop",
    "difficulty": 2,
    "pronunciation": "der Laptop",
-   "altEnglish": []
+   "altEnglish": [
+    "notebook computer"
+   ],
+   "altTarget": []
   },
   {
    "id": 716,
@@ -6583,7 +7846,10 @@
    "english": "telephone",
    "difficulty": 2,
    "pronunciation": "das Telefon",
-   "altEnglish": []
+   "altEnglish": [
+    "phone"
+   ],
+   "altTarget": []
   },
   {
    "id": 717,
@@ -6592,7 +7858,14 @@
    "english": "mobile phone",
    "difficulty": 1,
    "pronunciation": "das Handy",
-   "altEnglish": []
+   "altEnglish": [
+    "cell phone",
+    "mobile",
+    "cellphone"
+   ],
+   "altTarget": [
+    "das Mobiltelefon"
+   ]
   },
   {
    "id": 718,
@@ -6601,7 +7874,8 @@
    "english": "internet",
    "difficulty": 1,
    "pronunciation": "das Internet",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 719,
@@ -6610,7 +7884,8 @@
    "english": "email",
    "difficulty": 1,
    "pronunciation": "die E-Mail",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 720,
@@ -6619,7 +7894,8 @@
    "english": "letter",
    "difficulty": 2,
    "pronunciation": "der Brief",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 721,
@@ -6630,7 +7906,8 @@
    "pronunciation": "die Post",
    "altEnglish": [
     "mail"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 722,
@@ -6639,7 +7916,8 @@
    "english": "printer",
    "difficulty": 2,
    "pronunciation": "der Drucker",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 723,
@@ -6648,7 +7926,8 @@
    "english": "paper",
    "difficulty": 2,
    "pronunciation": "das Papier",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 724,
@@ -6657,7 +7936,10 @@
    "english": "pen",
    "difficulty": 2,
    "pronunciation": "der Stift",
-   "altEnglish": []
+   "altEnglish": [
+    "ballpoint"
+   ],
+   "altTarget": []
   },
   {
    "id": 725,
@@ -6666,7 +7948,10 @@
    "english": "folder",
    "difficulty": 2,
    "pronunciation": "der Ordner",
-   "altEnglish": []
+   "altEnglish": [
+    "binder"
+   ],
+   "altTarget": []
   },
   {
    "id": 726,
@@ -6675,7 +7960,8 @@
    "english": "file",
    "difficulty": 2,
    "pronunciation": "die Datei",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 727,
@@ -6684,7 +7970,8 @@
    "english": "document",
    "difficulty": 2,
    "pronunciation": "das Dokument",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 728,
@@ -6693,7 +7980,8 @@
    "english": "report",
    "difficulty": 2,
    "pronunciation": "der Bericht",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 729,
@@ -6702,7 +7990,8 @@
    "english": "meeting",
    "difficulty": 2,
    "pronunciation": "die Besprechung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 730,
@@ -6713,7 +8002,8 @@
    "pronunciation": "die Sitzung",
    "altEnglish": [
     "meeting"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 731,
@@ -6722,7 +8012,8 @@
    "english": "conference",
    "difficulty": 3,
    "pronunciation": "die Konferenz",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 732,
@@ -6731,7 +8022,8 @@
    "english": "appointment",
    "difficulty": 2,
    "pronunciation": "der Termin",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 733,
@@ -6740,7 +8032,10 @@
    "english": "contract",
    "difficulty": 2,
    "pronunciation": "der Vertrag",
-   "altEnglish": []
+   "altEnglish": [
+    "agreement"
+   ],
+   "altTarget": []
   },
   {
    "id": 734,
@@ -6749,7 +8044,10 @@
    "english": "deadline",
    "difficulty": 3,
    "pronunciation": "die Frist",
-   "altEnglish": []
+   "altEnglish": [
+    "due date"
+   ],
+   "altTarget": []
   },
   {
    "id": 735,
@@ -6758,7 +8056,8 @@
    "english": "project",
    "difficulty": 2,
    "pronunciation": "das Projekt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 736,
@@ -6767,7 +8066,10 @@
    "english": "task",
    "difficulty": 2,
    "pronunciation": "die Aufgabe",
-   "altEnglish": []
+   "altEnglish": [
+    "assignment"
+   ],
+   "altTarget": []
   },
   {
    "id": 737,
@@ -6776,7 +8078,11 @@
    "english": "goal",
    "difficulty": 2,
    "pronunciation": "das Ziel",
-   "altEnglish": []
+   "altEnglish": [
+    "aim",
+    "objective"
+   ],
+   "altTarget": []
   },
   {
    "id": 738,
@@ -6785,7 +8091,8 @@
    "english": "idea",
    "difficulty": 1,
    "pronunciation": "die Idee",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 739,
@@ -6794,7 +8101,8 @@
    "english": "plan",
    "difficulty": 2,
    "pronunciation": "der Plan",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 740,
@@ -6803,7 +8111,8 @@
    "english": "presentation",
    "difficulty": 3,
    "pronunciation": "die Präsentation",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 741,
@@ -6812,7 +8121,10 @@
    "english": "salary",
    "difficulty": 3,
    "pronunciation": "das Gehalt",
-   "altEnglish": []
+   "altEnglish": [
+    "wage"
+   ],
+   "altTarget": []
   },
   {
    "id": 742,
@@ -6821,7 +8133,10 @@
    "english": "break",
    "difficulty": 1,
    "pronunciation": "die Pause",
-   "altEnglish": []
+   "altEnglish": [
+    "pause"
+   ],
+   "altTarget": []
   },
   {
    "id": 743,
@@ -6830,7 +8145,8 @@
    "english": "lunch break",
    "difficulty": 2,
    "pronunciation": "die Mittagspause",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 744,
@@ -6839,7 +8155,8 @@
    "english": "department",
    "difficulty": 3,
    "pronunciation": "die Abteilung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 745,
@@ -6848,7 +8165,8 @@
    "english": "responsibility",
    "difficulty": 3,
    "pronunciation": "die Verantwortung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 746,
@@ -6857,7 +8175,8 @@
    "english": "experience",
    "difficulty": 2,
    "pronunciation": "die Erfahrung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 747,
@@ -6866,7 +8185,10 @@
    "english": "problem",
    "difficulty": 1,
    "pronunciation": "das Problem",
-   "altEnglish": []
+   "altEnglish": [
+    "issue"
+   ],
+   "altTarget": []
   },
   {
    "id": 748,
@@ -6875,7 +8197,8 @@
    "english": "solution",
    "difficulty": 2,
    "pronunciation": "die Lösung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 749,
@@ -6884,7 +8207,10 @@
    "english": "question",
    "difficulty": 1,
    "pronunciation": "die Frage",
-   "altEnglish": []
+   "altEnglish": [
+    "query"
+   ],
+   "altTarget": []
   },
   {
    "id": 750,
@@ -6893,7 +8219,10 @@
    "english": "answer",
    "difficulty": 1,
    "pronunciation": "die Antwort",
-   "altEnglish": []
+   "altEnglish": [
+    "reply"
+   ],
+   "altTarget": []
   },
   {
    "id": 751,
@@ -6902,7 +8231,10 @@
    "english": "information",
    "difficulty": 2,
    "pronunciation": "die Information",
-   "altEnglish": []
+   "altEnglish": [
+    "info"
+   ],
+   "altTarget": []
   },
   {
    "id": 752,
@@ -6911,7 +8243,8 @@
    "english": "message",
    "difficulty": 2,
    "pronunciation": "die Nachricht",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 753,
@@ -6920,7 +8253,8 @@
    "english": "contact",
    "difficulty": 2,
    "pronunciation": "der Kontakt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 754,
@@ -6929,7 +8263,10 @@
    "english": "cooperation",
    "difficulty": 3,
    "pronunciation": "die Zusammenarbeit",
-   "altEnglish": []
+   "altEnglish": [
+    "collaboration"
+   ],
+   "altTarget": []
   },
   {
    "id": 755,
@@ -6938,7 +8275,8 @@
    "english": "team",
    "difficulty": 1,
    "pronunciation": "das Team",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 756,
@@ -6947,7 +8285,8 @@
    "english": "group",
    "difficulty": 2,
    "pronunciation": "die Gruppe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 757,
@@ -6957,8 +8296,10 @@
    "difficulty": 2,
    "pronunciation": "die Stelle",
    "altEnglish": [
-    "job"
-   ]
+    "job",
+    "post"
+   ],
+   "altTarget": []
   },
   {
    "id": 758,
@@ -6967,7 +8308,10 @@
    "english": "CV",
    "difficulty": 3,
    "pronunciation": "der Lebenslauf",
-   "altEnglish": []
+   "altEnglish": [
+    "resume"
+   ],
+   "altTarget": []
   },
   {
    "id": 759,
@@ -6976,7 +8320,10 @@
    "english": "job interview",
    "difficulty": 3,
    "pronunciation": "das Bewerbungsgespräch",
-   "altEnglish": []
+   "altEnglish": [
+    "interview"
+   ],
+   "altTarget": []
   },
   {
    "id": 760,
@@ -6985,7 +8332,10 @@
    "english": "company",
    "difficulty": 3,
    "pronunciation": "das Unternehmen",
-   "altEnglish": []
+   "altEnglish": [
+    "firm"
+   ],
+   "altTarget": []
   },
   {
    "id": 761,
@@ -6995,8 +8345,10 @@
    "difficulty": 3,
    "pronunciation": "der Umsatz",
    "altEnglish": [
-    "sales"
-   ]
+    "sales",
+    "revenue"
+   ],
+   "altTarget": []
   },
   {
    "id": 762,
@@ -7005,7 +8357,8 @@
    "english": "success",
    "difficulty": 2,
    "pronunciation": "der Erfolg",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 763,
@@ -7014,7 +8367,10 @@
    "english": "mistake",
    "difficulty": 2,
    "pronunciation": "der Fehler",
-   "altEnglish": []
+   "altEnglish": [
+    "error"
+   ],
+   "altTarget": []
   },
   {
    "id": 764,
@@ -7023,7 +8379,10 @@
    "english": "copy",
    "difficulty": 3,
    "pronunciation": "die Kopie",
-   "altEnglish": []
+   "altEnglish": [
+    "duplicate"
+   ],
+   "altTarget": []
   },
   {
    "id": 765,
@@ -7034,7 +8393,8 @@
    "pronunciation": "die Unterlagen",
    "altEnglish": [
     "papers"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 766,
@@ -7043,7 +8403,8 @@
    "english": "school",
    "difficulty": 1,
    "pronunciation": "die Schule",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 767,
@@ -7052,7 +8413,10 @@
    "english": "class",
    "difficulty": 1,
    "pronunciation": "die Klasse",
-   "altEnglish": []
+   "altEnglish": [
+    "lesson"
+   ],
+   "altTarget": []
   },
   {
    "id": 768,
@@ -7061,7 +8425,8 @@
    "english": "classroom",
    "difficulty": 2,
    "pronunciation": "das Klassenzimmer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 769,
@@ -7070,7 +8435,10 @@
    "english": "exercise book",
    "difficulty": 2,
    "pronunciation": "das Heft",
-   "altEnglish": []
+   "altEnglish": [
+    "notebook"
+   ],
+   "altTarget": []
   },
   {
    "id": 770,
@@ -7079,7 +8447,8 @@
    "english": "book",
    "difficulty": 1,
    "pronunciation": "das Buch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 771,
@@ -7088,7 +8457,8 @@
    "english": "dictionary",
    "difficulty": 2,
    "pronunciation": "das Wörterbuch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 772,
@@ -7097,7 +8467,10 @@
    "english": "exam",
    "difficulty": 2,
    "pronunciation": "die Prüfung",
-   "altEnglish": []
+   "altEnglish": [
+    "test"
+   ],
+   "altTarget": []
   },
   {
    "id": 773,
@@ -7106,7 +8479,10 @@
    "english": "grade",
    "difficulty": 2,
    "pronunciation": "die Note",
-   "altEnglish": []
+   "altEnglish": [
+    "mark"
+   ],
+   "altTarget": []
   },
   {
    "id": 774,
@@ -7115,7 +8491,8 @@
    "english": "homework",
    "difficulty": 2,
    "pronunciation": "die Hausaufgabe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 775,
@@ -7124,7 +8501,10 @@
    "english": "test",
    "difficulty": 2,
    "pronunciation": "der Test",
-   "altEnglish": []
+   "altEnglish": [
+    "exam"
+   ],
+   "altTarget": []
   },
   {
    "id": 776,
@@ -7133,7 +8513,10 @@
    "english": "university",
    "difficulty": 2,
    "pronunciation": "die Universität",
-   "altEnglish": []
+   "altEnglish": [
+    "college"
+   ],
+   "altTarget": []
   },
   {
    "id": 777,
@@ -7142,7 +8525,8 @@
    "english": "lecture",
    "difficulty": 3,
    "pronunciation": "die Vorlesung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 778,
@@ -7151,7 +8535,8 @@
    "english": "language",
    "difficulty": 1,
    "pronunciation": "die Sprache",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 779,
@@ -7160,7 +8545,8 @@
    "english": "word",
    "difficulty": 1,
    "pronunciation": "das Wort",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 780,
@@ -7169,7 +8555,8 @@
    "english": "sentence",
    "difficulty": 2,
    "pronunciation": "der Satz",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 781,
@@ -7178,7 +8565,8 @@
    "english": "text",
    "difficulty": 2,
    "pronunciation": "der Text",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 782,
@@ -7187,7 +8575,8 @@
    "english": "exercise",
    "difficulty": 2,
    "pronunciation": "die Übung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 783,
@@ -7196,7 +8585,8 @@
    "english": "lessons",
    "difficulty": 2,
    "pronunciation": "der Unterricht",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 784,
@@ -7205,7 +8595,10 @@
    "english": "topic",
    "difficulty": 2,
    "pronunciation": "das Thema",
-   "altEnglish": []
+   "altEnglish": [
+    "subject"
+   ],
+   "altTarget": []
   },
   {
    "id": 785,
@@ -7216,7 +8609,8 @@
    "pronunciation": "die Geschichte",
    "altEnglish": [
     "story"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 786,
@@ -7225,7 +8619,10 @@
    "english": "subject",
    "difficulty": 2,
    "pronunciation": "das Fach",
-   "altEnglish": []
+   "altEnglish": [
+    "topic"
+   ],
+   "altTarget": []
   },
   {
    "id": 787,
@@ -7234,7 +8631,8 @@
    "english": "course",
    "difficulty": 2,
    "pronunciation": "der Kurs",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 788,
@@ -7243,7 +8641,8 @@
    "english": "knowledge",
    "difficulty": 3,
    "pronunciation": "das Wissen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 789,
@@ -7252,7 +8651,10 @@
    "english": "education",
    "difficulty": 3,
    "pronunciation": "die Bildung",
-   "altEnglish": []
+   "altEnglish": [
+    "schooling"
+   ],
+   "altTarget": []
   },
   {
    "id": 790,
@@ -7261,7 +8663,10 @@
    "english": "example",
    "difficulty": 2,
    "pronunciation": "das Beispiel",
-   "altEnglish": []
+   "altEnglish": [
+    "instance"
+   ],
+   "altTarget": []
   },
   {
    "id": 791,
@@ -7270,7 +8675,8 @@
    "english": "rule",
    "difficulty": 2,
    "pronunciation": "die Regel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 792,
@@ -7279,7 +8685,8 @@
    "english": "grammar",
    "difficulty": 3,
    "pronunciation": "die Grammatik",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 793,
@@ -7288,7 +8695,8 @@
    "english": "pronunciation",
    "difficulty": 3,
    "pronunciation": "die Aussprache",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 794,
@@ -7297,7 +8705,10 @@
    "english": "lesson",
    "difficulty": 3,
    "pronunciation": "die Lektion",
-   "altEnglish": []
+   "altEnglish": [
+    "class"
+   ],
+   "altTarget": []
   },
   {
    "id": 795,
@@ -7306,7 +8717,8 @@
    "english": "letter",
    "difficulty": 2,
    "pronunciation": "der Buchstabe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 796,
@@ -7315,7 +8727,8 @@
    "english": "number",
    "difficulty": 2,
    "pronunciation": "die Zahl",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 797,
@@ -7324,7 +8737,8 @@
    "english": "alphabet",
    "difficulty": 3,
    "pronunciation": "das Alphabet",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 798,
@@ -7333,7 +8747,10 @@
    "english": "meaning",
    "difficulty": 3,
    "pronunciation": "die Bedeutung",
-   "altEnglish": []
+   "altEnglish": [
+    "sense"
+   ],
+   "altTarget": []
   },
   {
    "id": 799,
@@ -7342,7 +8759,10 @@
    "english": "vocabulary",
    "difficulty": 3,
    "pronunciation": "der Wortschatz",
-   "altEnglish": []
+   "altEnglish": [
+    "vocab"
+   ],
+   "altTarget": []
   },
   {
    "id": 800,
@@ -7351,7 +8771,10 @@
    "english": "sport",
    "difficulty": 1,
    "pronunciation": "der Sport",
-   "altEnglish": []
+   "altEnglish": [
+    "sports"
+   ],
+   "altTarget": []
   },
   {
    "id": 801,
@@ -7360,7 +8783,10 @@
    "english": "training",
    "difficulty": 2,
    "pronunciation": "das Training",
-   "altEnglish": []
+   "altEnglish": [
+    "practice"
+   ],
+   "altTarget": []
   },
   {
    "id": 802,
@@ -7369,7 +8795,12 @@
    "english": "gym",
    "difficulty": 2,
    "pronunciation": "das Fitnessstudio",
-   "altEnglish": []
+   "altEnglish": [
+    "fitness centre",
+    "fitness center",
+    "fitness studio"
+   ],
+   "altTarget": []
   },
   {
    "id": 803,
@@ -7378,7 +8809,8 @@
    "english": "ball",
    "difficulty": 1,
    "pronunciation": "der Ball",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 804,
@@ -7389,7 +8821,8 @@
    "pronunciation": "das Spiel",
    "altEnglish": [
     "match"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 805,
@@ -7398,7 +8831,10 @@
    "english": "football",
    "difficulty": 1,
    "pronunciation": "der Fußball",
-   "altEnglish": []
+   "altEnglish": [
+    "soccer"
+   ],
+   "altTarget": []
   },
   {
    "id": 806,
@@ -7407,7 +8843,8 @@
    "english": "goal",
    "difficulty": 2,
    "pronunciation": "das Tor",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 807,
@@ -7416,7 +8853,10 @@
    "english": "victory",
    "difficulty": 3,
    "pronunciation": "der Sieg",
-   "altEnglish": []
+   "altEnglish": [
+    "win"
+   ],
+   "altTarget": []
   },
   {
    "id": 808,
@@ -7425,7 +8865,8 @@
    "english": "team",
    "difficulty": 2,
    "pronunciation": "die Mannschaft",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 809,
@@ -7434,7 +8875,10 @@
    "english": "trainer (male)",
    "difficulty": 2,
    "pronunciation": "der Trainer",
-   "altEnglish": []
+   "altEnglish": [
+    "coach"
+   ],
+   "altTarget": []
   },
   {
    "id": 810,
@@ -7443,7 +8887,10 @@
    "english": "trainer (female)",
    "difficulty": 3,
    "pronunciation": "die Trainerin",
-   "altEnglish": []
+   "altEnglish": [
+    "coach"
+   ],
+   "altTarget": []
   },
   {
    "id": 811,
@@ -7452,7 +8899,8 @@
    "english": "weight",
    "difficulty": 2,
    "pronunciation": "das Gewicht",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 812,
@@ -7461,7 +8909,10 @@
    "english": "strength",
    "difficulty": 2,
    "pronunciation": "die Kraft",
-   "altEnglish": []
+   "altEnglish": [
+    "power"
+   ],
+   "altTarget": []
   },
   {
    "id": 813,
@@ -7472,7 +8923,8 @@
    "pronunciation": "die Runde",
    "altEnglish": [
     "round"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 814,
@@ -7481,7 +8933,10 @@
    "english": "sweat",
    "difficulty": 3,
    "pronunciation": "der Schweiß",
-   "altEnglish": []
+   "altEnglish": [
+    "perspiration"
+   ],
+   "altTarget": []
   },
   {
    "id": 815,
@@ -7490,7 +8945,8 @@
    "english": "muscle",
    "difficulty": 3,
    "pronunciation": "der Muskel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 816,
@@ -7499,7 +8955,8 @@
    "english": "fitness",
    "difficulty": 3,
    "pronunciation": "die Kondition",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 817,
@@ -7508,7 +8965,10 @@
    "english": "swimming pool",
    "difficulty": 2,
    "pronunciation": "das Schwimmbad",
-   "altEnglish": []
+   "altEnglish": [
+    "pool"
+   ],
+   "altTarget": []
   },
   {
    "id": 818,
@@ -7517,7 +8977,8 @@
    "english": "ski",
    "difficulty": 3,
    "pronunciation": "der Ski",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 819,
@@ -7526,7 +8987,8 @@
    "english": "tennis",
    "difficulty": 2,
    "pronunciation": "das Tennis",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 820,
@@ -7535,7 +8997,8 @@
    "english": "hike",
    "difficulty": 3,
    "pronunciation": "die Wanderung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 821,
@@ -7546,7 +9009,8 @@
    "pronunciation": "die Bewegung",
    "altEnglish": [
     "exercise"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 822,
@@ -7555,7 +9019,10 @@
    "english": "competition",
    "difficulty": 3,
    "pronunciation": "der Wettkampf",
-   "altEnglish": []
+   "altEnglish": [
+    "contest"
+   ],
+   "altTarget": []
   },
   {
    "id": 823,
@@ -7564,7 +9031,8 @@
    "english": "dumbbell",
    "difficulty": 3,
    "pronunciation": "die Hantel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 824,
@@ -7573,7 +9041,8 @@
    "english": "stadium",
    "difficulty": 2,
    "pronunciation": "das Stadion",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 825,
@@ -7582,7 +9051,11 @@
    "english": "sports ground",
    "difficulty": 3,
    "pronunciation": "der Sportplatz",
-   "altEnglish": []
+   "altEnglish": [
+    "sports field",
+    "playing field"
+   ],
+   "altTarget": []
   },
   {
    "id": 826,
@@ -7591,7 +9064,8 @@
    "english": "smartphone",
    "difficulty": 2,
    "pronunciation": "das Smartphone",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 827,
@@ -7600,7 +9074,10 @@
    "english": "app",
    "difficulty": 2,
    "pronunciation": "die App",
-   "altEnglish": []
+   "altEnglish": [
+    "application"
+   ],
+   "altTarget": []
   },
   {
    "id": 828,
@@ -7609,7 +9086,11 @@
    "english": "website",
    "difficulty": 2,
    "pronunciation": "die Webseite",
-   "altEnglish": []
+   "altEnglish": [
+    "web site",
+    "site"
+   ],
+   "altTarget": []
   },
   {
    "id": 829,
@@ -7618,7 +9099,8 @@
    "english": "password",
    "difficulty": 3,
    "pronunciation": "das Passwort",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 830,
@@ -7627,7 +9109,8 @@
    "english": "battery",
    "difficulty": 2,
    "pronunciation": "der Akku",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 831,
@@ -7636,7 +9119,8 @@
    "english": "charging cable",
    "difficulty": 3,
    "pronunciation": "das Ladekabel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 832,
@@ -7645,7 +9129,11 @@
    "english": "photo",
    "difficulty": 1,
    "pronunciation": "das Foto",
-   "altEnglish": []
+   "altEnglish": [
+    "picture",
+    "photograph"
+   ],
+   "altTarget": []
   },
   {
    "id": 833,
@@ -7654,7 +9142,8 @@
    "english": "camera",
    "difficulty": 2,
    "pronunciation": "die Kamera",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 834,
@@ -7663,7 +9152,8 @@
    "english": "video",
    "difficulty": 2,
    "pronunciation": "das Video",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 835,
@@ -7672,7 +9162,12 @@
    "english": "picture",
    "difficulty": 1,
    "pronunciation": "das Bild",
-   "altEnglish": []
+   "altEnglish": [
+    "photo",
+    "photograph",
+    "image"
+   ],
+   "altTarget": []
   },
   {
    "id": 836,
@@ -7683,7 +9178,8 @@
    "pronunciation": "der Film",
    "altEnglish": [
     "movie"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 837,
@@ -7692,7 +9188,8 @@
    "english": "music",
    "difficulty": 1,
    "pronunciation": "die Musik",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 838,
@@ -7701,7 +9198,8 @@
    "english": "song",
    "difficulty": 2,
    "pronunciation": "das Lied",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 839,
@@ -7710,7 +9208,11 @@
    "english": "text message",
    "difficulty": 2,
    "pronunciation": "die SMS",
-   "altEnglish": []
+   "altEnglish": [
+    "SMS",
+    "text"
+   ],
+   "altTarget": []
   },
   {
    "id": 840,
@@ -7719,7 +9221,8 @@
    "english": "phone call",
    "difficulty": 2,
    "pronunciation": "der Anruf",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 841,
@@ -7728,7 +9231,8 @@
    "english": "phone number",
    "difficulty": 2,
    "pronunciation": "die Telefonnummer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 842,
@@ -7737,7 +9241,8 @@
    "english": "address",
    "difficulty": 2,
    "pronunciation": "die Adresse",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 843,
@@ -7746,7 +9251,10 @@
    "english": "link",
    "difficulty": 3,
    "pronunciation": "der Link",
-   "altEnglish": []
+   "altEnglish": [
+    "hyperlink"
+   ],
+   "altTarget": []
   },
   {
    "id": 844,
@@ -7755,7 +9263,8 @@
    "english": "download",
    "difficulty": 3,
    "pronunciation": "der Download",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 845,
@@ -7764,7 +9273,10 @@
    "english": "program",
    "difficulty": 2,
    "pronunciation": "das Programm",
-   "altEnglish": []
+   "altEnglish": [
+    "programme"
+   ],
+   "altTarget": []
   },
   {
    "id": 846,
@@ -7773,7 +9285,8 @@
    "english": "chat",
    "difficulty": 3,
    "pronunciation": "der Chat",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 847,
@@ -7782,7 +9295,8 @@
    "english": "wifi",
    "difficulty": 2,
    "pronunciation": "das WLAN",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 848,
@@ -7791,7 +9305,10 @@
    "english": "screen",
    "difficulty": 2,
    "pronunciation": "der Bildschirm",
-   "altEnglish": []
+   "altEnglish": [
+    "display"
+   ],
+   "altTarget": []
   },
   {
    "id": 849,
@@ -7800,7 +9317,8 @@
    "english": "computer mouse",
    "difficulty": 3,
    "pronunciation": "die Maus",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 850,
@@ -7809,7 +9327,8 @@
    "english": "keyboard",
    "difficulty": 3,
    "pronunciation": "die Tastatur",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 851,
@@ -7818,7 +9337,8 @@
    "english": "monitor",
    "difficulty": 3,
    "pronunciation": "der Monitor",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 852,
@@ -7827,7 +9347,8 @@
    "english": "sound",
    "difficulty": 3,
    "pronunciation": "der Ton",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 853,
@@ -7836,7 +9357,8 @@
    "english": "voice",
    "difficulty": 2,
    "pronunciation": "die Stimme",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 854,
@@ -7847,7 +9369,8 @@
    "pronunciation": "die Taste",
    "altEnglish": [
     "button"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 855,
@@ -7856,7 +9379,11 @@
    "english": "television",
    "difficulty": 2,
    "pronunciation": "das Fernsehen",
-   "altEnglish": []
+   "altEnglish": [
+    "TV",
+    "telly"
+   ],
+   "altTarget": []
   },
   {
    "id": 856,
@@ -7865,7 +9392,8 @@
    "english": "newspaper",
    "difficulty": 2,
    "pronunciation": "die Zeitung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 857,
@@ -7874,7 +9402,8 @@
    "english": "magazine",
    "difficulty": 3,
    "pronunciation": "das Magazin",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 858,
@@ -7883,7 +9412,10 @@
    "english": "joy",
    "difficulty": 2,
    "pronunciation": "die Freude",
-   "altEnglish": []
+   "altEnglish": [
+    "delight"
+   ],
+   "altTarget": []
   },
   {
    "id": 859,
@@ -7892,7 +9424,8 @@
    "english": "love",
    "difficulty": 1,
    "pronunciation": "die Liebe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 860,
@@ -7901,7 +9434,8 @@
    "english": "fear",
    "difficulty": 2,
    "pronunciation": "die Angst",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 861,
@@ -7910,7 +9444,10 @@
    "english": "anger",
    "difficulty": 3,
    "pronunciation": "die Wut",
-   "altEnglish": []
+   "altEnglish": [
+    "rage"
+   ],
+   "altTarget": []
   },
   {
    "id": 862,
@@ -7919,7 +9456,10 @@
    "english": "sadness",
    "difficulty": 3,
    "pronunciation": "die Trauer",
-   "altEnglish": []
+   "altEnglish": [
+    "sorrow"
+   ],
+   "altTarget": []
   },
   {
    "id": 863,
@@ -7929,8 +9469,10 @@
    "difficulty": 2,
    "pronunciation": "das Glück",
    "altEnglish": [
-    "happiness"
-   ]
+    "happiness",
+    "fortune"
+   ],
+   "altTarget": []
   },
   {
    "id": 864,
@@ -7939,7 +9481,8 @@
    "english": "stress",
    "difficulty": 2,
    "pronunciation": "der Stress",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 865,
@@ -7948,7 +9491,10 @@
    "english": "worry",
    "difficulty": 3,
    "pronunciation": "die Sorge",
-   "altEnglish": []
+   "altEnglish": [
+    "concern"
+   ],
+   "altTarget": []
   },
   {
    "id": 866,
@@ -7957,7 +9503,8 @@
    "english": "mood",
    "difficulty": 3,
    "pronunciation": "die Laune",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 867,
@@ -7966,7 +9513,8 @@
    "english": "hope",
    "difficulty": 2,
    "pronunciation": "die Hoffnung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 868,
@@ -7975,7 +9523,8 @@
    "english": "dream",
    "difficulty": 2,
    "pronunciation": "der Traum",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 869,
@@ -7984,7 +9533,8 @@
    "english": "patience",
    "difficulty": 3,
    "pronunciation": "die Geduld",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 870,
@@ -7993,7 +9543,10 @@
    "english": "feeling",
    "difficulty": 2,
    "pronunciation": "das Gefühl",
-   "altEnglish": []
+   "altEnglish": [
+    "sensation"
+   ],
+   "altTarget": []
   },
   {
    "id": 871,
@@ -8002,7 +9555,10 @@
    "english": "opinion",
    "difficulty": 2,
    "pronunciation": "die Meinung",
-   "altEnglish": []
+   "altEnglish": [
+    "view"
+   ],
+   "altTarget": []
   },
   {
    "id": 872,
@@ -8011,7 +9567,10 @@
    "english": "wish",
    "difficulty": 2,
    "pronunciation": "der Wunsch",
-   "altEnglish": []
+   "altEnglish": [
+    "desire"
+   ],
+   "altTarget": []
   },
   {
    "id": 873,
@@ -8020,7 +9579,8 @@
    "english": "reason",
    "difficulty": 2,
    "pronunciation": "der Grund",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 874,
@@ -8031,7 +9591,8 @@
    "pronunciation": "die Ruhe",
    "altEnglish": [
     "quiet"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 875,
@@ -8041,8 +9602,10 @@
    "difficulty": 3,
    "pronunciation": "die Lust",
    "altEnglish": [
-    "enjoyment"
-   ]
+    "enjoyment",
+    "wish"
+   ],
+   "altTarget": []
   },
   {
    "id": 876,
@@ -8051,7 +9614,10 @@
    "english": "boredom",
    "difficulty": 3,
    "pronunciation": "die Langeweile",
-   "altEnglish": []
+   "altEnglish": [
+    "tedium"
+   ],
+   "altTarget": []
   },
   {
    "id": 877,
@@ -8060,7 +9626,8 @@
    "english": "animal",
    "difficulty": 1,
    "pronunciation": "das Tier",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 878,
@@ -8069,7 +9636,8 @@
    "english": "dog",
    "difficulty": 1,
    "pronunciation": "der Hund",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 879,
@@ -8078,7 +9646,8 @@
    "english": "cat",
    "difficulty": 1,
    "pronunciation": "die Katze",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 880,
@@ -8087,7 +9656,8 @@
    "english": "horse",
    "difficulty": 2,
    "pronunciation": "das Pferd",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 881,
@@ -8096,7 +9666,8 @@
    "english": "cow",
    "difficulty": 2,
    "pronunciation": "die Kuh",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 882,
@@ -8105,7 +9676,8 @@
    "english": "pig",
    "difficulty": 2,
    "pronunciation": "das Schwein",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 883,
@@ -8114,7 +9686,10 @@
    "english": "chicken",
    "difficulty": 2,
    "pronunciation": "das Huhn",
-   "altEnglish": []
+   "altEnglish": [
+    "hen"
+   ],
+   "altTarget": []
   },
   {
    "id": 884,
@@ -8123,7 +9698,8 @@
    "english": "bird",
    "difficulty": 1,
    "pronunciation": "der Vogel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 885,
@@ -8132,7 +9708,10 @@
    "english": "bee",
    "difficulty": 2,
    "pronunciation": "die Biene",
-   "altEnglish": []
+   "altEnglish": [
+    "honeybee"
+   ],
+   "altTarget": []
   },
   {
    "id": 886,
@@ -8141,7 +9720,8 @@
    "english": "ant",
    "difficulty": 3,
    "pronunciation": "die Ameise",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 887,
@@ -8150,7 +9730,8 @@
    "english": "fly",
    "difficulty": 3,
    "pronunciation": "die Fliege",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 888,
@@ -8159,7 +9740,8 @@
    "english": "snake",
    "difficulty": 2,
    "pronunciation": "die Schlange",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 889,
@@ -8168,7 +9750,8 @@
    "english": "bear",
    "difficulty": 3,
    "pronunciation": "der Bär",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 890,
@@ -8177,7 +9760,8 @@
    "english": "wolf",
    "difficulty": 3,
    "pronunciation": "der Wolf",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 891,
@@ -8186,7 +9770,8 @@
    "english": "fox",
    "difficulty": 3,
    "pronunciation": "der Fuchs",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 892,
@@ -8195,7 +9780,8 @@
    "english": "hare",
    "difficulty": 2,
    "pronunciation": "der Hase",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 893,
@@ -8204,7 +9790,8 @@
    "english": "rabbit",
    "difficulty": 2,
    "pronunciation": "das Kaninchen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 894,
@@ -8213,7 +9800,8 @@
    "english": "squirrel",
    "difficulty": 3,
    "pronunciation": "das Eichhörnchen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 895,
@@ -8222,7 +9810,8 @@
    "english": "butterfly",
    "difficulty": 3,
    "pronunciation": "der Schmetterling",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 896,
@@ -8231,7 +9820,8 @@
    "english": "spider",
    "difficulty": 3,
    "pronunciation": "die Spinne",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 897,
@@ -8240,7 +9830,8 @@
    "english": "monkey",
    "difficulty": 3,
    "pronunciation": "der Affe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 898,
@@ -8249,7 +9840,8 @@
    "english": "lion",
    "difficulty": 3,
    "pronunciation": "der Löwe",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 899,
@@ -8258,7 +9850,8 @@
    "english": "good",
    "difficulty": 1,
    "pronunciation": "gut",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 900,
@@ -8267,7 +9860,8 @@
    "english": "bad",
    "difficulty": 1,
    "pronunciation": "schlecht",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 901,
@@ -8277,8 +9871,10 @@
    "difficulty": 1,
    "pronunciation": "groß",
    "altEnglish": [
-    "tall"
-   ]
+    "tall",
+    "large"
+   ],
+   "altTarget": []
   },
   {
    "id": 902,
@@ -8287,7 +9883,8 @@
    "english": "small",
    "difficulty": 1,
    "pronunciation": "klein",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 903,
@@ -8296,7 +9893,10 @@
    "english": "old",
    "difficulty": 1,
    "pronunciation": "alt",
-   "altEnglish": []
+   "altEnglish": [
+    "elderly"
+   ],
+   "altTarget": []
   },
   {
    "id": 904,
@@ -8305,7 +9905,8 @@
    "english": "new",
    "difficulty": 1,
    "pronunciation": "neu",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 905,
@@ -8314,7 +9915,8 @@
    "english": "young",
    "difficulty": 1,
    "pronunciation": "jung",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 906,
@@ -8324,8 +9926,11 @@
    "difficulty": 1,
    "pronunciation": "schön",
    "altEnglish": [
-    "nice"
-   ]
+    "nice",
+    "pretty",
+    "lovely"
+   ],
+   "altTarget": []
   },
   {
    "id": 907,
@@ -8334,7 +9939,8 @@
    "english": "ugly",
    "difficulty": 3,
    "pronunciation": "hässlich",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 908,
@@ -8345,7 +9951,8 @@
    "pronunciation": "hell",
    "altEnglish": [
     "light"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 909,
@@ -8354,7 +9961,8 @@
    "english": "dark",
    "difficulty": 2,
    "pronunciation": "dunkel",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 910,
@@ -8363,7 +9971,8 @@
    "english": "warm",
    "difficulty": 1,
    "pronunciation": "warm",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 911,
@@ -8372,7 +9981,8 @@
    "english": "cold",
    "difficulty": 1,
    "pronunciation": "kalt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 912,
@@ -8381,7 +9991,8 @@
    "english": "hot",
    "difficulty": 2,
    "pronunciation": "heiß",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 913,
@@ -8390,7 +10001,8 @@
    "english": "cool",
    "difficulty": 2,
    "pronunciation": "kühl",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 914,
@@ -8399,7 +10011,10 @@
    "english": "wet",
    "difficulty": 2,
    "pronunciation": "nass",
-   "altEnglish": []
+   "altEnglish": [
+    "damp"
+   ],
+   "altTarget": []
   },
   {
    "id": 915,
@@ -8408,7 +10023,8 @@
    "english": "dry",
    "difficulty": 2,
    "pronunciation": "trocken",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 916,
@@ -8417,7 +10033,8 @@
    "english": "clean",
    "difficulty": 2,
    "pronunciation": "sauber",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 917,
@@ -8426,7 +10043,8 @@
    "english": "dirty",
    "difficulty": 2,
    "pronunciation": "schmutzig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 918,
@@ -8435,7 +10053,10 @@
    "english": "loud",
    "difficulty": 2,
    "pronunciation": "laut",
-   "altEnglish": []
+   "altEnglish": [
+    "noisy"
+   ],
+   "altTarget": []
   },
   {
    "id": 919,
@@ -8444,7 +10065,10 @@
    "english": "quiet",
    "difficulty": 2,
    "pronunciation": "leise",
-   "altEnglish": []
+   "altEnglish": [
+    "silent"
+   ],
+   "altTarget": []
   },
   {
    "id": 920,
@@ -8455,7 +10079,8 @@
    "pronunciation": "leicht",
    "altEnglish": [
     "easy"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 921,
@@ -8466,7 +10091,8 @@
    "pronunciation": "schwer",
    "altEnglish": [
     "difficult"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 922,
@@ -8477,7 +10103,8 @@
    "pronunciation": "einfach",
    "altEnglish": [
     "easy"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 923,
@@ -8486,7 +10113,10 @@
    "english": "difficult",
    "difficulty": 2,
    "pronunciation": "schwierig",
-   "altEnglish": []
+   "altEnglish": [
+    "hard"
+   ],
+   "altTarget": []
   },
   {
    "id": 924,
@@ -8495,7 +10125,10 @@
    "english": "expensive",
    "difficulty": 2,
    "pronunciation": "teuer",
-   "altEnglish": []
+   "altEnglish": [
+    "dear"
+   ],
+   "altTarget": []
   },
   {
    "id": 925,
@@ -8504,7 +10137,11 @@
    "english": "cheap",
    "difficulty": 2,
    "pronunciation": "billig",
-   "altEnglish": []
+   "altEnglish": [
+    "inexpensive",
+    "affordable"
+   ],
+   "altTarget": []
   },
   {
    "id": 926,
@@ -8513,7 +10150,11 @@
    "english": "affordable",
    "difficulty": 2,
    "pronunciation": "günstig",
-   "altEnglish": []
+   "altEnglish": [
+    "cheap",
+    "inexpensive"
+   ],
+   "altTarget": []
   },
   {
    "id": 927,
@@ -8522,7 +10163,10 @@
    "english": "rich",
    "difficulty": 3,
    "pronunciation": "reich",
-   "altEnglish": []
+   "altEnglish": [
+    "wealthy"
+   ],
+   "altTarget": []
   },
   {
    "id": 928,
@@ -8531,7 +10175,8 @@
    "english": "poor",
    "difficulty": 3,
    "pronunciation": "arm",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 929,
@@ -8540,7 +10185,10 @@
    "english": "funny",
    "difficulty": 2,
    "pronunciation": "lustig",
-   "altEnglish": []
+   "altEnglish": [
+    "amusing"
+   ],
+   "altTarget": []
   },
   {
    "id": 930,
@@ -8549,7 +10197,10 @@
    "english": "interesting",
    "difficulty": 2,
    "pronunciation": "interessant",
-   "altEnglish": []
+   "altEnglish": [
+    "fascinating"
+   ],
+   "altTarget": []
   },
   {
    "id": 931,
@@ -8558,7 +10209,10 @@
    "english": "boring",
    "difficulty": 3,
    "pronunciation": "langweilig",
-   "altEnglish": []
+   "altEnglish": [
+    "dull"
+   ],
+   "altTarget": []
   },
   {
    "id": 932,
@@ -8567,7 +10221,10 @@
    "english": "important",
    "difficulty": 1,
    "pronunciation": "wichtig",
-   "altEnglish": []
+   "altEnglish": [
+    "significant"
+   ],
+   "altTarget": []
   },
   {
    "id": 933,
@@ -8578,7 +10235,8 @@
    "pronunciation": "richtig",
    "altEnglish": [
     "right"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 934,
@@ -8587,7 +10245,11 @@
    "english": "wrong",
    "difficulty": 1,
    "pronunciation": "falsch",
-   "altEnglish": []
+   "altEnglish": [
+    "incorrect",
+    "false"
+   ],
+   "altTarget": []
   },
   {
    "id": 935,
@@ -8596,7 +10258,10 @@
    "english": "free",
    "difficulty": 2,
    "pronunciation": "frei",
-   "altEnglish": []
+   "altEnglish": [
+    "vacant"
+   ],
+   "altTarget": []
   },
   {
    "id": 936,
@@ -8607,7 +10272,8 @@
    "pronunciation": "besetzt",
    "altEnglish": [
     "busy"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 937,
@@ -8616,7 +10282,8 @@
    "english": "open",
    "difficulty": 2,
    "pronunciation": "offen",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 938,
@@ -8625,7 +10292,10 @@
    "english": "closed",
    "difficulty": 2,
    "pronunciation": "geschlossen",
-   "altEnglish": []
+   "altEnglish": [
+    "shut"
+   ],
+   "altTarget": []
   },
   {
    "id": 939,
@@ -8634,7 +10304,10 @@
    "english": "finished",
    "difficulty": 1,
    "pronunciation": "fertig",
-   "altEnglish": []
+   "altEnglish": [
+    "done"
+   ],
+   "altTarget": []
   },
   {
    "id": 940,
@@ -8643,7 +10316,10 @@
    "english": "ready",
    "difficulty": 2,
    "pronunciation": "bereit",
-   "altEnglish": []
+   "altEnglish": [
+    "prepared"
+   ],
+   "altTarget": []
   },
   {
    "id": 941,
@@ -8652,7 +10328,8 @@
    "english": "tired",
    "difficulty": 1,
    "pronunciation": "müde",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 942,
@@ -8661,7 +10338,8 @@
    "english": "hungry",
    "difficulty": 2,
    "pronunciation": "hungrig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 943,
@@ -8670,7 +10348,8 @@
    "english": "thirsty",
    "difficulty": 2,
    "pronunciation": "durstig",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 944,
@@ -8679,7 +10358,10 @@
    "english": "sick",
    "difficulty": 1,
    "pronunciation": "krank",
-   "altEnglish": []
+   "altEnglish": [
+    "ill"
+   ],
+   "altTarget": []
   },
   {
    "id": 945,
@@ -8688,7 +10370,8 @@
    "english": "healthy",
    "difficulty": 1,
    "pronunciation": "gesund",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 946,
@@ -8697,7 +10380,10 @@
    "english": "happy",
    "difficulty": 2,
    "pronunciation": "glücklich",
-   "altEnglish": []
+   "altEnglish": [
+    "glad"
+   ],
+   "altTarget": []
   },
   {
    "id": 947,
@@ -8706,7 +10392,10 @@
    "english": "sad",
    "difficulty": 1,
    "pronunciation": "traurig",
-   "altEnglish": []
+   "altEnglish": [
+    "unhappy"
+   ],
+   "altTarget": []
   },
   {
    "id": 948,
@@ -8715,7 +10404,10 @@
    "english": "glad",
    "difficulty": 3,
    "pronunciation": "froh",
-   "altEnglish": []
+   "altEnglish": [
+    "happy"
+   ],
+   "altTarget": []
   },
   {
    "id": 949,
@@ -8724,7 +10416,11 @@
    "english": "angry",
    "difficulty": 2,
    "pronunciation": "wütend",
-   "altEnglish": []
+   "altEnglish": [
+    "annoyed",
+    "cross"
+   ],
+   "altTarget": []
   },
   {
    "id": 950,
@@ -8733,7 +10429,10 @@
    "english": "nervous",
    "difficulty": 3,
    "pronunciation": "nervös",
-   "altEnglish": []
+   "altEnglish": [
+    "anxious"
+   ],
+   "altTarget": []
   },
   {
    "id": 951,
@@ -8744,7 +10443,8 @@
    "pronunciation": "ruhig",
    "altEnglish": [
     "quiet"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 952,
@@ -8753,7 +10453,8 @@
    "english": "strong",
    "difficulty": 2,
    "pronunciation": "stark",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 953,
@@ -8762,7 +10463,8 @@
    "english": "weak",
    "difficulty": 2,
    "pronunciation": "schwach",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 954,
@@ -8772,8 +10474,10 @@
    "difficulty": 1,
    "pronunciation": "schnell",
    "altEnglish": [
-    "quick"
-   ]
+    "quick",
+    "rapid"
+   ],
+   "altTarget": []
   },
   {
    "id": 955,
@@ -8782,7 +10486,8 @@
    "english": "slow",
    "difficulty": 1,
    "pronunciation": "langsam",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 956,
@@ -8791,7 +10496,8 @@
    "english": "early",
    "difficulty": 1,
    "pronunciation": "früh",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 957,
@@ -8800,7 +10506,8 @@
    "english": "late",
    "difficulty": 1,
    "pronunciation": "spät",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 958,
@@ -8809,7 +10516,8 @@
    "english": "long",
    "difficulty": 1,
    "pronunciation": "lang",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 959,
@@ -8818,7 +10526,8 @@
    "english": "short",
    "difficulty": 1,
    "pronunciation": "kurz",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 960,
@@ -8827,7 +10536,8 @@
    "english": "high",
    "difficulty": 2,
    "pronunciation": "hoch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 961,
@@ -8838,7 +10548,8 @@
    "pronunciation": "tief",
    "altEnglish": [
     "low"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 962,
@@ -8847,7 +10558,10 @@
    "english": "wide",
    "difficulty": 2,
    "pronunciation": "breit",
-   "altEnglish": []
+   "altEnglish": [
+    "broad"
+   ],
+   "altTarget": []
   },
   {
    "id": 963,
@@ -8858,7 +10572,8 @@
    "pronunciation": "eng",
    "altEnglish": [
     "tight"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 964,
@@ -8869,7 +10584,8 @@
    "pronunciation": "dick",
    "altEnglish": [
     "fat"
-   ]
+   ],
+   "altTarget": []
   },
   {
    "id": 965,
@@ -8878,7 +10594,10 @@
    "english": "thin",
    "difficulty": 2,
    "pronunciation": "dünn",
-   "altEnglish": []
+   "altEnglish": [
+    "slim"
+   ],
+   "altTarget": []
   },
   {
    "id": 966,
@@ -8887,7 +10606,8 @@
    "english": "near",
    "difficulty": 2,
    "pronunciation": "nah",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 967,
@@ -8896,7 +10616,8 @@
    "english": "far",
    "difficulty": 3,
    "pronunciation": "fern",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 968,
@@ -8905,7 +10626,8 @@
    "english": "full",
    "difficulty": 2,
    "pronunciation": "voll",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 969,
@@ -8914,7 +10636,8 @@
    "english": "empty",
    "difficulty": 2,
    "pronunciation": "leer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 970,
@@ -8924,8 +10647,10 @@
    "difficulty": 2,
    "pronunciation": "sicher",
    "altEnglish": [
-    "sure"
-   ]
+    "sure",
+    "secure"
+   ],
+   "altTarget": []
   },
   {
    "id": 971,
@@ -8934,7 +10659,8 @@
    "english": "possible",
    "difficulty": 2,
    "pronunciation": "möglich",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 972,
@@ -8943,7 +10669,10 @@
    "english": "necessary",
    "difficulty": 3,
    "pronunciation": "nötig",
-   "altEnglish": []
+   "altEnglish": [
+    "needed"
+   ],
+   "altTarget": []
   },
   {
    "id": 973,
@@ -8952,7 +10681,10 @@
    "english": "great",
    "difficulty": 2,
    "pronunciation": "toll",
-   "altEnglish": []
+   "altEnglish": [
+    "excellent"
+   ],
+   "altTarget": []
   },
   {
    "id": 974,
@@ -8961,7 +10693,10 @@
    "english": "tasty",
    "difficulty": 2,
    "pronunciation": "lecker",
-   "altEnglish": []
+   "altEnglish": [
+    "delicious"
+   ],
+   "altTarget": []
   },
   {
    "id": 975,
@@ -8970,7 +10705,8 @@
    "english": "fresh",
    "difficulty": 2,
    "pronunciation": "frisch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 976,
@@ -8979,7 +10715,8 @@
    "english": "known",
    "difficulty": 2,
    "pronunciation": "bekannt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 977,
@@ -8988,7 +10725,8 @@
    "english": "popular",
    "difficulty": 3,
    "pronunciation": "beliebt",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 978,
@@ -8997,7 +10735,8 @@
    "english": "comfortable",
    "difficulty": 3,
    "pronunciation": "bequem",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 979,
@@ -9006,7 +10745,8 @@
    "english": "practical",
    "difficulty": 3,
    "pronunciation": "praktisch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 980,
@@ -9015,7 +10755,8 @@
    "english": "modern",
    "difficulty": 3,
    "pronunciation": "modern",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 981,
@@ -9024,7 +10765,10 @@
    "english": "cosy",
    "difficulty": 3,
    "pronunciation": "gemütlich",
-   "altEnglish": []
+   "altEnglish": [
+    "cozy"
+   ],
+   "altTarget": []
   },
   {
    "id": 982,
@@ -9033,7 +10777,10 @@
    "english": "satisfied",
    "difficulty": 3,
    "pronunciation": "zufrieden",
-   "altEnglish": []
+   "altEnglish": [
+    "content"
+   ],
+   "altTarget": []
   },
   {
    "id": 983,
@@ -9042,7 +10789,8 @@
    "english": "different",
    "difficulty": 2,
    "pronunciation": "anders",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 984,
@@ -9051,7 +10799,8 @@
    "english": "German",
    "difficulty": 1,
    "pronunciation": "deutsch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 985,
@@ -9060,7 +10809,8 @@
    "english": "Austrian",
    "difficulty": 2,
    "pronunciation": "österreichisch",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 986,
@@ -9069,7 +10819,10 @@
    "english": "colourful",
    "difficulty": 2,
    "pronunciation": "bunt",
-   "altEnglish": []
+   "altEnglish": [
+    "colorful"
+   ],
+   "altTarget": []
   },
   {
    "id": 987,
@@ -9078,7 +10831,8 @@
    "english": "red",
    "difficulty": 1,
    "pronunciation": "rot",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 988,
@@ -9087,7 +10841,8 @@
    "english": "blue",
    "difficulty": 1,
    "pronunciation": "blau",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 989,
@@ -9096,7 +10851,8 @@
    "english": "green",
    "difficulty": 1,
    "pronunciation": "grün",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 990,
@@ -9105,7 +10861,8 @@
    "english": "yellow",
    "difficulty": 1,
    "pronunciation": "gelb",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 991,
@@ -9114,7 +10871,8 @@
    "english": "white",
    "difficulty": 1,
    "pronunciation": "weiß",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 992,
@@ -9123,7 +10881,8 @@
    "english": "black",
    "difficulty": 1,
    "pronunciation": "schwarz",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 993,
@@ -9132,7 +10891,8 @@
    "english": "brown",
    "difficulty": 1,
    "pronunciation": "braun",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 994,
@@ -9141,7 +10901,10 @@
    "english": "grey",
    "difficulty": 1,
    "pronunciation": "grau",
-   "altEnglish": []
+   "altEnglish": [
+    "gray"
+   ],
+   "altTarget": []
   },
   {
    "id": 995,
@@ -9150,7 +10913,8 @@
    "english": "pink",
    "difficulty": 2,
    "pronunciation": "rosa",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 996,
@@ -9159,7 +10923,8 @@
    "english": "orange",
    "difficulty": 2,
    "pronunciation": "orange",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 997,
@@ -9168,7 +10933,8 @@
    "english": "afternoon snack",
    "difficulty": 2,
    "pronunciation": "die Jause",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": []
   },
   {
    "id": 998,
@@ -9177,7 +10943,12 @@
    "english": "staircase",
    "difficulty": 2,
    "pronunciation": "die Stiege",
-   "altEnglish": []
+   "altEnglish": [
+    "stairs"
+   ],
+   "altTarget": [
+    "die Treppe"
+   ]
   },
   {
    "id": 999,
@@ -9186,7 +10957,10 @@
    "english": "butcher",
    "difficulty": 3,
    "pronunciation": "der Fleischhauer",
-   "altEnglish": []
+   "altEnglish": [],
+   "altTarget": [
+    "der Metzger"
+   ]
   },
   {
    "id": 1000,
@@ -9195,7 +10969,12 @@
    "english": "clothes",
    "difficulty": 3,
    "pronunciation": "das Gwand",
-   "altEnglish": []
+   "altEnglish": [
+    "clothing"
+   ],
+   "altTarget": [
+    "die Kleidung"
+   ]
   }
  ]
 }

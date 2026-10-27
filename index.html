@@ -431,6 +431,43 @@ function showQuestion() {
 }
 
 // pass = true when the user taps "I don't know": counts as wrong.
+
+// Short feedback tones (Web Audio). Created on the first answer tap, which iOS requires.
+let audioCtx = null;
+function getAudio() {
+  try {
+    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    if (audioCtx.state === 'suspended') audioCtx.resume();
+    return audioCtx;
+  } catch (e) { return null; }
+}
+function tone(ctx, freq, start, dur, type, vol) {
+  const osc = ctx.createOscillator();
+  const gain = ctx.createGain();
+  osc.type = type;
+  osc.frequency.setValueAtTime(freq, start);
+  gain.gain.setValueAtTime(0.0001, start);
+  gain.gain.exponentialRampToValueAtTime(vol, start + 0.02);
+  gain.gain.exponentialRampToValueAtTime(0.0001, start + dur);
+  osc.connect(gain);
+  gain.connect(ctx.destination);
+  osc.start(start);
+  osc.stop(start + dur + 0.03);
+}
+// Correct: two rising tones. Wrong (also "don't know"): two falling tones.
+function playFeedback(ok) {
+  const ctx = getAudio();
+  if (!ctx) return;
+  const t = ctx.currentTime + 0.01;
+  if (ok) {
+    tone(ctx, 880, t, 0.14, 'sine', 0.25);
+    tone(ctx, 1320, t + 0.13, 0.2, 'sine', 0.25);
+  } else {
+    tone(ctx, 220, t, 0.16, 'triangle', 0.3);
+    tone(ctx, 165, t + 0.15, 0.22, 'triangle', 0.3);
+  }
+}
+
 function submitAnswer(pass = false) {
   if (!session || session.answered) return;
   const input = $('answer');
@@ -438,6 +475,7 @@ function submitAnswer(pass = false) {
 
   const w = session.queue[session.i];
   const res = pass ? { ok: false, kind: 'pass' } : evaluate(w, session.dir, input.value);
+  playFeedback(res.ok);
   const before = stateOf(w);
 
   applyResult(w, res.ok);
@@ -468,7 +506,7 @@ function showFeedback(w, res, movedTo) {
     title = 'Partly correct';
     cls = 'part';
     body = `<div>The word is right. The article is <strong>${esc(res.article)}</strong>.</div>
-            <div>Answer: <strong>${esc(w.german)}</strong></div>`;
+            <div>Answer: <strong>${esc(res.answer || w.german)}</strong></div>`;
   } else if (res.ok) {
     title = res.typo ? 'Correct, small typo' : 'Correct';
     cls = 'ok';
@@ -571,18 +609,21 @@ function evaluate(w, dir, raw) {
   if (!input) return { ok: false, kind: 'wrong' };
 
   if (dir === 'en-de') {
-    const exp = splitArticle(w.german);
+    // Any accepted German word or synonym counts (altTarget holds the synonyms).
     const got = splitArticle(input);
-
-    if (!exp.art) {
-      const m = matchKey(keyDe(w.german), keyDe(input));
-      return m ? { ok: true, typo: m === 'typo' } : { ok: false, kind: 'wrong' };
+    for (const cand of [w.german, ...(w.altTarget || [])]) {
+      const exp = splitArticle(cand);
+      if (!exp.art) {
+        const m = matchKey(keyDe(cand), keyDe(input));
+        if (m) return { ok: true, typo: m === 'typo' };
+        continue;
+      }
+      const m = matchKey(keyDe(exp.noun), keyDe(got.noun));
+      if (!m) continue;
+      if (got.art === exp.art) return { ok: true, typo: m === 'typo', answer: cand };
+      return { ok: true, partial: true, article: exp.art, typo: m === 'typo', answer: cand };
     }
-
-    const m = matchKey(keyDe(exp.noun), keyDe(got.noun));
-    if (!m) return { ok: false, kind: 'wrong' };
-    if (got.art === exp.art) return { ok: true, typo: m === 'typo' };
-    return { ok: true, partial: true, article: exp.art, typo: m === 'typo' };
+    return { ok: false, kind: 'wrong' };
   }
 
   // German -> English: any listed meaning counts.
@@ -714,6 +755,7 @@ async function init() {
       german: w.german,
       english: w.english,
       altEnglish: w.altEnglish || [],
+      altTarget: w.altTarget || [],
       difficulty: Number(w.difficulty)
     }));
   } catch (e) {
