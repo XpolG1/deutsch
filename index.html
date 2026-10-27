@@ -445,9 +445,9 @@ function toneSamples(list, rate) {
     const len = Math.floor(dur * rate);
     for (let i = 0; i < len && s0 + i < out.length; i++) {
       const t = i / rate;
-      const env = Math.min(1, t / 0.02) * Math.pow(1 - i / len, 2);
+      const env = Math.min(1, t / 0.005, (len - i) / (0.04 * rate));
       const phase = 2 * Math.PI * freq * t;
-      const wave = shape === 'sine' ? Math.sin(phase) : (2 / Math.PI) * Math.asin(Math.sin(phase));
+      const wave = shape === 'sine' ? Math.sin(phase) : Math.sign(Math.sin(phase));
       out[s0 + i] += wave * env * vol;
     }
   }
@@ -476,8 +476,8 @@ function feedbackAudio(key) {
   if (!FEEDBACK_AUDIO[key]) {
     const rate = 22050;
     const list = key === 'ok'
-      ? [[880, 0, 0.14, 0.9, 'sine'], [1320, 0.13, 0.2, 0.9, 'sine']]
-      : [[220, 0, 0.16, 0.9, 'tri'], [165, 0.15, 0.22, 0.9, 'tri']];
+      ? [[700, 0, 0.13, 0.7, 'sq'], [1050, 0.13, 0.2, 0.7, 'sq']]
+      : [[330, 0, 0.16, 0.7, 'sq'], [247, 0.15, 0.22, 0.7, 'sq']];
     const a = new Audio(toWavUri(toneSamples(list, rate), rate));
     a.preload = 'auto';
     FEEDBACK_AUDIO[key] = a;
@@ -519,7 +519,7 @@ function submitAnswer(pass = false) {
   $('check').disabled = true;
   $('pass').disabled = true;
   showFeedback(w, res, after !== before ? after : null);
-  speakGerman(w.german);
+  session.timer = setTimeout(() => speakGerman(w.german), 1000);
 }
 
 function showFeedback(w, res, movedTo) {
@@ -558,6 +558,7 @@ function showFeedback(w, res, movedTo) {
 
 function nextQuestion() {
   if (!session || !session.answered) return;
+  clearTimeout(session.timer);
   session.i++;
   if (session.i >= session.queue.length) showSummary();
   else showQuestion();
