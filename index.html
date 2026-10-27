@@ -437,18 +437,19 @@ function showQuestion() {
 // Correct: two rising tones. Wrong (also "don't know"): two falling tones.
 const FEEDBACK_AUDIO = {};
 
-function toneSamples(list, rate) {
-  const total = Math.max(...list.map(t => t[1] + t[2])) + 0.05;
+// notes: {f0, f1 (pitch glide end), start, dur, decay, vol, harm}; bell-like decay, a little 2nd harmonic
+function synthNotes(notes, rate, total) {
   const out = new Float32Array(Math.floor(total * rate));
-  for (const [freq, start, dur, vol, shape] of list) {
-    const s0 = Math.floor(start * rate);
-    const len = Math.floor(dur * rate);
+  for (const n of notes) {
+    const s0 = Math.floor(n.start * rate);
+    const len = Math.floor(n.dur * rate);
+    let phase = 0;
     for (let i = 0; i < len && s0 + i < out.length; i++) {
       const t = i / rate;
-      const env = Math.min(1, t / 0.005, (len - i) / (0.04 * rate));
-      const phase = 2 * Math.PI * freq * t;
-      const wave = shape === 'sine' ? Math.sin(phase) : Math.sign(Math.sin(phase));
-      out[s0 + i] += wave * env * vol;
+      const f = n.f0 + (n.f1 - n.f0) * Math.min(1, t / n.dur);
+      phase += 2 * Math.PI * f / rate;
+      const env = Math.min(1, t / 0.005) * Math.exp(-t * n.decay);
+      out[s0 + i] += (Math.sin(phase) + (n.harm || 0) * Math.sin(2 * phase)) * env * n.vol;
     }
   }
   return out;
@@ -475,10 +476,15 @@ function toWavUri(samples, rate) {
 function feedbackAudio(key) {
   if (!FEEDBACK_AUDIO[key]) {
     const rate = 22050;
-    const list = key === 'ok'
-      ? [[700, 0, 0.13, 0.7, 'sq'], [1050, 0.13, 0.2, 0.7, 'sq']]
-      : [[330, 0, 0.16, 0.7, 'sq'], [247, 0.15, 0.22, 0.7, 'sq']];
-    const a = new Audio(toWavUri(toneSamples(list, rate), rate));
+    const notes = key === 'ok'
+      ? [ // rising three-note chime
+          { f0: 1047, f1: 1047, start: 0.00, dur: 0.45, decay: 4.5, vol: 0.45, harm: 0.35 },
+          { f0: 1319, f1: 1319, start: 0.09, dur: 0.50, decay: 4.5, vol: 0.45, harm: 0.35 },
+          { f0: 1568, f1: 1568, start: 0.18, dur: 0.70, decay: 4, vol: 0.45, harm: 0.35 }]
+      : [ // soft falling "bonk"
+          { f0: 260, f1: 150, start: 0.00, dur: 0.40, decay: 4.5, vol: 0.85, harm: 0.25 }];
+    const samples = synthNotes(notes, rate, 0.9);
+    const a = new Audio(toWavUri(samples, rate));
     a.preload = 'auto';
     FEEDBACK_AUDIO[key] = a;
   }
@@ -486,6 +492,16 @@ function feedbackAudio(key) {
 }
 
 // Plays immediately on the tap; the sound is loaded at startup so there is no delay.
+// iPhone only allows speech after a tap. A silent utterance during the tap unlocks it for the delayed word.
+function unlockSpeech() {
+  try {
+    if (!('speechSynthesis' in window)) return;
+    const u = new SpeechSynthesisUtterance(' ');
+    u.volume = 0;
+    u.lang = 'de-AT';
+    speechSynthesis.speak(u);
+  } catch (e) {}
+}
 function playFeedback(ok) {
   try {
     if (navigator.audioSession) navigator.audioSession.type = 'playback';
@@ -497,6 +513,7 @@ function playFeedback(ok) {
 
 function submitAnswer(pass = false) {
   if (!session || session.answered) return;
+  unlockSpeech();
   const input = $('answer');
   if (!pass && input.value.trim() === '') return;
 
@@ -558,6 +575,7 @@ function showFeedback(w, res, movedTo) {
 
 function nextQuestion() {
   if (!session || !session.answered) return;
+  unlockSpeech();
   clearTimeout(session.timer);
   session.i++;
   if (session.i >= session.queue.length) showSummary();
@@ -715,6 +733,8 @@ function confirmReset() {
 /* ---------- Setup ---------- */
 
 function bindEvents() {
+  // First tap anywhere unlocks speech on iPhone.
+  document.addEventListener('click', unlockSpeech, { capture: true, once: true });
   document.querySelectorAll('.nav button').forEach(b => b.addEventListener('click', () => showTab(b.dataset.nav)));
 
   document.querySelectorAll('[data-dir]').forEach(b => b.addEventListener('click', () => {
