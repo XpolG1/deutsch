@@ -478,12 +478,16 @@ function feedbackAudio(key) {
     const rate = 22050;
     const notes = key === 'ok'
       ? [ // rising three-note chime
-          { f0: 1047, f1: 1047, start: 0.00, dur: 0.45, decay: 4.5, vol: 0.45, harm: 0.35 },
-          { f0: 1319, f1: 1319, start: 0.09, dur: 0.50, decay: 4.5, vol: 0.45, harm: 0.35 },
-          { f0: 1568, f1: 1568, start: 0.18, dur: 0.70, decay: 4, vol: 0.45, harm: 0.35 }]
-      : [ // soft falling "bonk"
-          { f0: 260, f1: 150, start: 0.00, dur: 0.40, decay: 4.5, vol: 0.85, harm: 0.25 }];
+          { f0: 1047, f1: 1047, start: 0.00, dur: 0.45, decay: 3, vol: 0.5, harm: 0.35 },
+          { f0: 1319, f1: 1319, start: 0.09, dur: 0.50, decay: 3, vol: 0.5, harm: 0.35 },
+          { f0: 1568, f1: 1568, start: 0.18, dur: 0.70, decay: 2.5, vol: 0.5, harm: 0.35 }]
+      : [ // falling "bonk", kept in the range phone speakers reproduce well
+          { f0: 420, f1: 240, start: 0.00, dur: 0.40, decay: 3, vol: 0.8, harm: 0.5 }];
+    // Scale so the loudest point is just below full scale: as loud as possible without clipping.
     const samples = synthNotes(notes, rate, 0.9);
+    let peak = 0;
+    for (const x of samples) peak = Math.max(peak, Math.abs(x));
+    if (peak > 0) for (let i = 0; i < samples.length; i++) samples[i] *= 0.95 / peak;
     const a = new Audio(toWavUri(samples, rate));
     a.preload = 'auto';
     FEEDBACK_AUDIO[key] = a;
