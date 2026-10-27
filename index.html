@@ -432,40 +432,60 @@ function showQuestion() {
 
 // pass = true when the user taps "I don't know": counts as wrong.
 
-// Short feedback tones (Web Audio). Created on the first answer tap, which iOS requires.
-let audioCtx = null;
-function getAudio() {
-  try {
-    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-    if (audioCtx.state === 'suspended') audioCtx.resume();
-    return audioCtx;
-  } catch (e) { return null; }
-}
-function tone(ctx, freq, start, dur, type, vol) {
-  const osc = ctx.createOscillator();
-  const gain = ctx.createGain();
-  osc.type = type;
-  osc.frequency.setValueAtTime(freq, start);
-  gain.gain.setValueAtTime(0.0001, start);
-  gain.gain.exponentialRampToValueAtTime(vol, start + 0.02);
-  gain.gain.exponentialRampToValueAtTime(0.0001, start + dur);
-  osc.connect(gain);
-  gain.connect(ctx.destination);
-  osc.start(start);
-  osc.stop(start + dur + 0.03);
-}
+// Feedback tones. Built as short WAV files and played through the media channel,
+// so they are heard on iPhone (Web Audio is muted by the silent switch there).
 // Correct: two rising tones. Wrong (also "don't know"): two falling tones.
-function playFeedback(ok) {
-  const ctx = getAudio();
-  if (!ctx) return;
-  const t = ctx.currentTime + 0.01;
-  if (ok) {
-    tone(ctx, 880, t, 0.14, 'sine', 0.25);
-    tone(ctx, 1320, t + 0.13, 0.2, 'sine', 0.25);
-  } else {
-    tone(ctx, 220, t, 0.16, 'triangle', 0.3);
-    tone(ctx, 165, t + 0.15, 0.22, 'triangle', 0.3);
+const FEEDBACK_SOUNDS = {};
+
+function toneSamples(list, rate) {
+  const total = Math.max(...list.map(t => t[1] + t[2])) + 0.05;
+  const out = new Float32Array(Math.floor(total * rate));
+  for (const [freq, start, dur, vol, shape] of list) {
+    const s0 = Math.floor(start * rate);
+    const len = Math.floor(dur * rate);
+    for (let i = 0; i < len && s0 + i < out.length; i++) {
+      const t = i / rate;
+      const env = Math.min(1, t / 0.02) * Math.pow(1 - i / len, 2);
+      const phase = 2 * Math.PI * freq * t;
+      const wave = shape === 'sine' ? Math.sin(phase) : (2 / Math.PI) * Math.asin(Math.sin(phase));
+      out[s0 + i] += wave * env * vol;
+    }
   }
+  return out;
+}
+
+function toWavUri(samples, rate) {
+  const buf = new ArrayBuffer(44 + samples.length * 2);
+  const v = new DataView(buf);
+  const str = (o, s) => { for (let i = 0; i < s.length; i++) v.setUint8(o + i, s.charCodeAt(i)); };
+  str(0, 'RIFF'); v.setUint32(4, 36 + samples.length * 2, true); str(8, 'WAVE');
+  str(12, 'fmt '); v.setUint32(16, 16, true); v.setUint16(20, 1, true); v.setUint16(22, 1, true);
+  v.setUint32(24, rate, true); v.setUint32(28, rate * 2, true); v.setUint16(32, 2, true); v.setUint16(34, 16, true);
+  str(36, 'data'); v.setUint32(40, samples.length * 2, true);
+  for (let i = 0; i < samples.length; i++) {
+    const s = Math.max(-1, Math.min(1, samples[i]));
+    v.setInt16(44 + i * 2, s < 0 ? s * 0x8000 : s * 0x7fff, true);
+  }
+  const bytes = new Uint8Array(buf);
+  let bin = '';
+  for (let i = 0; i < bytes.length; i += 0x8000) bin += String.fromCharCode.apply(null, bytes.subarray(i, i + 0x8000));
+  return 'data:audio/wav;base64,' + btoa(bin);
+}
+
+function playFeedback(ok) {
+  try {
+    const key = ok ? 'ok' : 'bad';
+    if (!FEEDBACK_SOUNDS[key]) {
+      const rate = 22050;
+      const list = ok
+        ? [[880, 0, 0.14, 0.35, 'sine'], [1320, 0.13, 0.2, 0.35, 'sine']]
+        : [[220, 0, 0.16, 0.4, 'tri'], [165, 0.15, 0.22, 0.4, 'tri']];
+      FEEDBACK_SOUNDS[key] = toWavUri(toneSamples(list, rate), rate);
+    }
+    // iOS 16.4+: let audio play even when the silent switch is on.
+    if (navigator.audioSession) navigator.audioSession.type = 'playback';
+    new Audio(FEEDBACK_SOUNDS[key]).play().catch(() => {});
+  } catch (e) {}
 }
 
 function submitAnswer(pass = false) {
