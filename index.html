@@ -477,13 +477,13 @@ function feedbackAudio(key) {
   if (!FEEDBACK_AUDIO[key]) {
     const rate = 22050;
     const notes = key === 'ok'
-      ? [ // quick upward swoosh that lands on a bright high note
-          { f0: 450, f1: 1100, start: 0.00, dur: 0.22, decay: 2.5, vol: 0.8, harm: 0.3 },
-          { f0: 1568, f1: 1568, start: 0.20, dur: 0.35, decay: 4, vol: 0.8, harm: 0.3 }]
+      ? [ // a single bell ring: bright fundamental with a softer higher partial that rings out
+          { f0: 1319, f1: 1319, start: 0.00, dur: 0.9, decay: 3.5, vol: 0.8, harm: 0.25 },
+          { f0: 2093, f1: 2093, start: 0.00, dur: 0.6, decay: 5, vol: 0.25, harm: 0 }]
       : [ // soft falling "bonk" (the wrong-answer sound you liked), let to ring a little longer so it is louder
-          { f0: 420, f1: 240, start: 0.00, dur: 0.40, decay: 1.5, vol: 0.8, harm: 0.5 }];
+          { f0: 480, f1: 275, start: 0.00, dur: 0.40, decay: 1.5, vol: 0.8, harm: 0.5 }];
     // Scale so the loudest point is just below full scale: as loud as possible without clipping.
-    const samples = synthNotes(notes, rate, 0.7);
+    const samples = synthNotes(notes, rate, 1.0);
     let peak = 0;
     for (const x of samples) peak = Math.max(peak, Math.abs(x));
     if (peak > 0) for (let i = 0; i < samples.length; i++) samples[i] *= 0.95 / peak;
