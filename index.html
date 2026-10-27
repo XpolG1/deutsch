@@ -435,7 +435,7 @@ function showQuestion() {
 // Feedback tones. Built as short WAV files and played through the media channel,
 // so they are heard on iPhone (Web Audio is muted by the silent switch there).
 // Correct: two rising tones. Wrong (also "don't know"): two falling tones.
-const FEEDBACK_SOUNDS = {};
+const FEEDBACK_AUDIO = {};
 
 function toneSamples(list, rate) {
   const total = Math.max(...list.map(t => t[1] + t[2])) + 0.05;
@@ -472,19 +472,26 @@ function toWavUri(samples, rate) {
   return 'data:audio/wav;base64,' + btoa(bin);
 }
 
+function feedbackAudio(key) {
+  if (!FEEDBACK_AUDIO[key]) {
+    const rate = 22050;
+    const list = key === 'ok'
+      ? [[880, 0, 0.14, 0.9, 'sine'], [1320, 0.13, 0.2, 0.9, 'sine']]
+      : [[220, 0, 0.16, 0.9, 'tri'], [165, 0.15, 0.22, 0.9, 'tri']];
+    const a = new Audio(toWavUri(toneSamples(list, rate), rate));
+    a.preload = 'auto';
+    FEEDBACK_AUDIO[key] = a;
+  }
+  return FEEDBACK_AUDIO[key];
+}
+
+// Plays immediately on the tap; the sound is loaded at startup so there is no delay.
 function playFeedback(ok) {
   try {
-    const key = ok ? 'ok' : 'bad';
-    if (!FEEDBACK_SOUNDS[key]) {
-      const rate = 22050;
-      const list = ok
-        ? [[880, 0, 0.14, 0.35, 'sine'], [1320, 0.13, 0.2, 0.35, 'sine']]
-        : [[220, 0, 0.16, 0.4, 'tri'], [165, 0.15, 0.22, 0.4, 'tri']];
-      FEEDBACK_SOUNDS[key] = toWavUri(toneSamples(list, rate), rate);
-    }
-    // iOS 16.4+: let audio play even when the silent switch is on.
     if (navigator.audioSession) navigator.audioSession.type = 'playback';
-    new Audio(FEEDBACK_SOUNDS[key]).play().catch(() => {});
+    const a = feedbackAudio(ok ? 'ok' : 'bad');
+    a.currentTime = 0;
+    a.play().catch(() => {});
   } catch (e) {}
 }
 
@@ -783,6 +790,8 @@ async function init() {
     return;
   }
 
+  feedbackAudio('ok');
+  feedbackAudio('bad');
   loadProgress();
   bindEvents();
   renderAll();
